@@ -4,20 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the homepage of Kiyomizu E., an undergraduate student in Peking Uniersity, P. R. China.
+This is the homepage of Kiyomizu E., an undergraduate student at Peking Uniersity.
+
 The name is fabricated from a temple in Kyoto and a "man of the field". 
-I write under the pseudonym to hide myself from judgements, 
-if you want to communicate a little more, please send e-mail to [kiyomizu.e@foxmail.com](kiyomizu.e@foxmail.com).
+I write under the pseudonym to hide myself from judgements.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If you want to communicate a little more with me, please send e-mail to [kiyomizu.e@foxmail.com](kiyomizu.e@foxmail.com).
