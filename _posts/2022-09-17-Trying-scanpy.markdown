@@ -15,7 +15,7 @@ There are several elaborated tutorials or articles about `scanpy`:
 - [IPython notebook of above demo](https://github.com/scverse/scanpy-tutorials/blob/master/pbmc3k.ipynb)
 
 I downloaded the notebook of 3kPBMC tutorial and ran it on my station. 
-It do not consume too much computational resource.
+It did not consume too much computational resource.
 
 By the way, viva la `jupyter lab`!
 
