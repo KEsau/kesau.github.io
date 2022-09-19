@@ -5,6 +5,12 @@ date:   2022-09-18 23:36:00 +0800
 categories: Quiz
 ---
 
-A problem about *probability theory*: Cut a stick into three parts, in what probability those three pieces could form a triangle properly ?
+A problem from *Probability and Statistics*: Cut a stick into three parts, in what probability those three pieces could form a triangle properly ?
 
 《概率与统计》小问题：一根木棍折为三段，能够构成一个三角形的概率是多少？
+
+Prove Jordan's formula using Mathematical induction.
+
+Jordan's formula: 
+
+$$P\( \bigcup_{i=1}^{n} \) = \sum_{k=1}^{n} (-1)^{k-1} \sum_{i_1< \cdots < i_k} P(A_{i_1} \cdots A_{i_k})$$
