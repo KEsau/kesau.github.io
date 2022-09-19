@@ -5,15 +5,6 @@ date:   2022-09-18 23:36:00 +0800
 categories: Quiz
 ---
 
-<script> 
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$']],
-    processEscapes: true
-  }
-};
-</script>
-
 A problem from *Probability and Statistics*: Cut a stick into three parts, in what probability those three pieces could form a triangle properly ?
 
 Prove Jordan's formula using Mathematical induction.
