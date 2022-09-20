@@ -5,8 +5,6 @@ date:   2022-09-16 22:42:00 +0800
 categories: Essay
 ---
 
-![]({{ site.url }}/pics/kyoto.png) 
-
 This is my first blog article, in memory of those idyllic golden days in [Kyoto][kyoto], Japan.
 
 Most posts in the site will be written in English though it's not my mother tongue. 
@@ -21,6 +19,9 @@ I'm trying to make it rich in content rather than in format.
 在某些特殊情形下，例如，分享中文诗歌，文本将完全是是中文（可能有翻译，但质量差）。
 
 本站使用[Jekyll][jekyll]的默认模板。我努力使它的内容超过形式。
+
+![]({{ site.url }}/pics/kyoto.png ) 
+<center style="font-size:14px;color:#C0C0C0;">Fushimi Inari-taisha, Fushimi-ku, Kyoto, Kyoto Prefecture, Japan</center> 
 
 [kyoto]: https://www.japan.travel/en/destinations/kansai/kyoto/
 [jekyll]: https://jekyllrb.com/
