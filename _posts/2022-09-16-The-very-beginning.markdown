@@ -5,7 +5,7 @@ date:   2022-09-16 22:42:00 +0800
 categories: Essay
 ---
 
-![](assets/kyoto.png) 
+![](https://github.com/KEsau/kesau.github.io/blob/main/_assets/kyoto.png) 
 
 This is my first blog article, in memory of those idyllic golden days in [Kyoto][kyoto], Japan.
 

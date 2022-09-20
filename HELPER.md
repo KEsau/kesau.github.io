@@ -11,3 +11,7 @@
 </script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ```
+
+插入图片示例：
+
+![](https://github.com/KEsau/kesau.github.io/blob/main/_assets/kyoto.png) 
