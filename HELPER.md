@@ -14,5 +14,7 @@
 
 插入图片示例：
 
+<br>
 ![]({{ site.url }}/pics/kyoto.png ) 
 <center style="font-size:14px;color:#C0C0C0;">Fushimi Inari-taisha, Fushimi-ku, Kyoto, Kyoto Prefecture, Japan</center> 
+<br>

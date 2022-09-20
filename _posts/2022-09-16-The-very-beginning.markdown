@@ -20,8 +20,10 @@ I'm trying to make it rich in content rather than in format.
 
 本站使用[Jekyll][jekyll]的默认模板。我努力使它的内容超过形式。
 
+<br>
+
 ![]({{ site.url }}/pics/kyoto.png ) 
-<center style="font-size:14px;color:#C0C0C0;">Fushimi Inari-taisha, Fushimi-ku, Kyoto, Kyoto Prefecture, Japan</center> 
+<center style="font-size:14px;color:#C0C0C0;">Mt. Inari, Fushimi-ku, Kyoto, Kyoto Prefecture, Japan</center> 
 
 [kyoto]: https://www.japan.travel/en/destinations/kansai/kyoto/
 [jekyll]: https://jekyllrb.com/
