@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trying scanpy | 试用scanpy"
+title:  "Trying scanpy"
 date:   2022-09-17 22:52:00 +0800
 categories: Tool
 ---

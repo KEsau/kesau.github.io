@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interesting quiz | 有趣的小问题"
+title:  "Interesting quiz about probability"
 date:   2022-09-18 23:36:00 +0800
 categories: Quiz
 ---
