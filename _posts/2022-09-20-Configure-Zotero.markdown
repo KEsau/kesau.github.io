@@ -25,8 +25,35 @@ Setup Zotero step-by-step (Windows 10 21H2, Google Chrome):
 
 3. Click the Zotero shorcut icon on the Desktop to launch the software.
 
-4. Add [Zotero Connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=zh-CN) extension in Chrome.
+4. Register a new zotero account and sign in.
 
-5. Add item to Zotero by dragging PDF in or click the extension icon when browse the Pubmed record, Google scholar page or the full text on the publisher's website.
+5. Add [Zotero Connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=zh-CN) extension in Chrome.
+
+6. Add item to Zotero by dragging PDF in or click the extension icon when browse the Pubmed record, Google scholar page or the full text on the publisher's website.
+
+Now, you can start to use Zotero. However, the free plan provide only 300 MB storage for your attachments (e. g. the full-text PDF files). Obviously, it's insufficient.
+
+I decided to extend it throught external sync service (Google Drive). Synchonizing the entire Zotero directory is dangerous and trouble-prone, so you can use a symlink to sync only the `storage` directory without touching the main Zotero SQLite database. [^2]
+
+Step-by-step[^3]: 
+
+1. My Google Drive is on `G:\My Drive`, make a new Directory `G:\My Drive\Zotero` and move the `storage` directory into it, remove the orignal directory.
+
+2. Open Command Prompt as administrator and input (replace `USERNAME` with your username):
+```
+mklink /j "C:\Users\USERNAME\Zotero\storage" "D:\My Drive\Zotero\storage" 
+```
+
+3. Press Enter key to run and you are all done.
+
+<br/>
+
+---
+
+<br/>
 
 [^1]: [About Zotero](https://www.zotero.org/abou)
+
+[^2]: [Zotero Documentation](https://www.zotero.org/support/sync)
+
+[^3]: [Zotero + Huawei Cloud: Three steps make perfect sync \| Zhihu (in Chinese)](https://zhuanlan.zhihu.com/p/563078159)
