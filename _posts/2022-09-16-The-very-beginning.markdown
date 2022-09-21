@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The very beginning"
+title:  "The very beginning | 最初"
 date:   2022-09-16 22:42:00 +0800
 categories: Essay
 ---
