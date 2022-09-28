@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中文文章
+title: 中文
 permalink: /cn/
 ---
 
