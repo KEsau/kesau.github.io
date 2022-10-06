@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the homepage of Kiyomizu, where he share reading note, experiences and thoughts.
+This is the homepage of Kiyomizu, where he shares notes, book reviews, experiences and thoughts.
