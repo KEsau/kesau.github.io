@@ -4,3 +4,4 @@ description: >- # this means to ignore newlines until "baseurl:"
   Matthew 7:13 “Enter in by the narrow gate; 
   for the gate is wide and the way is broad that leads to destruction, 
   and there are many who enter in by it.
+date_format: "%b %e, %Y"

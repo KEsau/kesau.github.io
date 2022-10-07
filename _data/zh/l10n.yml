@@ -2,3 +2,4 @@ title: "Kiyomizu的站点"
 lang_name: "中文"
 description: >- # this means to ignore newlines until "baseurl:"
   马太福音 7:13 你们要进窄门。因为引到灭亡、那门是宽的、路是大的、进去的人也多。
+date_format: "%F"
