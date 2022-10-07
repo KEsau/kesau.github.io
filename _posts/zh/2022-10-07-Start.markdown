@@ -3,6 +3,7 @@ layout: post
 title:  "生活的回忆（一）"
 date:   2022-10-07 16:03:00 +0800
 categories: plan
+lang: zh
 ---
 
 在我高中前后的几年里，读书和写读书笔记是我生活的组成部分。
