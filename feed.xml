@@ -1,27 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-27T17:10:16+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kiyomizu’s Homepage</title><subtitle>Matthew 7:13 “Enter in by the narrow gate;  for the gate is wide and the way is broad that leads to destruction,  and there are many who enter in by it.</subtitle><entry xml:lang="zh"><title type="html">读书的注记（二）</title><link href="http://localhost:4000/reading/2022/10/27/Lab.html" rel="alternate" type="text/html" title="读书的注记（二）" /><published>2022-10-27T16:59:00+08:00</published><updated>2022-10-27T16:59:00+08:00</updated><id>http://localhost:4000/reading/2022/10/27/Lab</id><content type="html" xml:base="http://localhost:4000/reading/2022/10/27/Lab.html">&lt;p&gt;今天读到布鲁诺·拉图尔（法语：Bruno Latour）和史蒂夫·伍尔加（英语：Steve Woolgar）的作品《实验室生活：科学事实的建构过程》。这是一本很好的书，推荐每一位生科院或元培生科方向的同学阅读，尤其是大一大二尚未加入实验室的同学，阅读它的收获大于阅读生概途课推荐的The Double Helix。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-27T17:50:16+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kiyomizu’s Homepage</title><subtitle>Matthew 7:13 “Enter in by the narrow gate;  for the gate is wide and the way is broad that leads to destruction,  and there are many who enter in by it.</subtitle><entry xml:lang="en"><title type="html">Notes of Reading (I) (La Production Des Faits Scienfiques)</title><link href="http://localhost:4000/reading/2022/10/27/Lab.html" rel="alternate" type="text/html" title="Notes of Reading (I) (La Production Des Faits Scienfiques)" /><published>2022-10-27T16:59:00+08:00</published><updated>2022-10-27T16:59:00+08:00</updated><id>http://localhost:4000/reading/2022/10/27/Lab</id><content type="html" xml:base="http://localhost:4000/reading/2022/10/27/Lab.html">&lt;p&gt;Today I read “Lab Life: The Construction of Scientific Facts” by Bruno Latour and Steve Woolgar.
+This is a very good book. It is recommended for every student from the School of Biological Sciences or Yuanpei to read it, especially those who have not joined the laboratory in their freshman year and sophomore year.
+The gain from reading it is greater than The Double Helix recommended by the reading students’ overview course.&lt;/p&gt;
 
-&lt;p&gt;该书作者对Salk Institute的Roger Guillemin实验室作了深入的研究，从人类学的角度透视了科学研究、论文发表、竞争、实验室结构以及科学家职业生涯。作者十分恰当地将这些方面概括为”实验室生活”。我不了解两位作者的领域，但Google Scholar显示此书的引用数已超过两万，至少部分地说明了此书的影响力。&lt;/p&gt;
+&lt;p&gt;The authors of the book provide an in-depth study of Roger Guillemin’s lab at the Salk Institute, providing an anthropological perspective on scientific research, publications, competition, laboratory structures, and scientists’ careers.
+The authors quite aptly summarize these aspects as “laboratory life”.
+I don’t know the field of the two authors, but Google Scholar shows that the book has more than 20,000 citations, which at least partially explains the book’s impact.&lt;/p&gt;
 
-&lt;p&gt;Roger Guillemin是1977年诺贝尔生理学或医学奖得主，他与Andrew V. Schally因为发现大脑能产生肽类激素而获奖，他们的工作主要是鉴定了促甲状腺激素释放激素（TRH） 和促性腺激素释放激素（GnRH）的结构。这项工作与同时期其他获得诺贝尔生理学或医学奖的工作相比，应该属于中等水平。另外，调查的地点Salk研究所直至今天，仍然是生命科学领域内很有声望的机构。因此，这是一只相当好的麻雀。&lt;/p&gt;
+&lt;p&gt;Roger Guillemin was awarded the Nobel Prize in Physiology or Medicine in 1977. He and Andrew V. Schally were awarded for their discovery that the brain can produce peptide hormones.
+Their work focused on the identification of the structures of thyrotropin-releasing hormone (TRH) and gonadotropin-releasing hormone (GnRH).
+This work should be at an intermediate level compared to other work that has won the Nobel Prize in Physiology or Medicine at the same time.
+In addition, the Salk Institute, the site of the survey, remains a prestigious institution in the life sciences to this day. So this is a pretty good sparrow.&lt;/p&gt;
 
-&lt;p&gt;该书最吸引眼球的章节是第三章《制造事实：促甲状腺因素释放因子[TRF(H)]个案》，它或许会使科学工作者或未来的科研工作者感到被冒犯：我们从小就学会了区分观点和事实，你怎么能说科学事实是制造出来的呢？！&lt;/p&gt;
+&lt;p&gt;The book’s most eye-catching chapter is Chapter 3, “Making Facts: The Case for Thyroid-Stimulating Factor-Releasing Factor [TRF(H)],”
+It may offend scientists or future researchers:
+We learn to distinguish opinion from fact at an early age, how can you say that scientific facts are made? !&lt;/p&gt;
 
-&lt;p&gt;但在这个例子中，你能清楚地看到这个”制造”的过程，它真实、冷酷、不纯洁。不仅包括”八年的艰苦努力”、”从成吨的下丘脑中提取几微克激素”、”学科交叉”，还包括”创立严苛规则来排除竞争者，巧妙安排学术会议以维护实验室利益以及”忠实学习他人错误的研究者”。该章节成功地还原了该领域在1960s-1970s的历史，其中的若干结论已经被写入当下的生理学教科书，我想如果有一门”生理学讨论课”的话，这将是绝妙的参考资料。&lt;/p&gt;
+&lt;p&gt;But in this example, you can clearly see this “manufacturing” process, which is real, cold, and impure.
+Not only “eight years of hard work”, “extracting a few micrograms of hormones from tons of hypothalamus”, “interdisciplinary”, but also “creating strict rules to exclude competitors,
+Scheduling academic meetings to safeguard the interests of the laboratory and “faithful researchers who learn from the mistakes of others”.
+This chapter successfully restores the history of the field in the 1960s-1970s, and several of its conclusions have been written into current physiology textbooks.
+I think if there were a “physiology discussion class” this would be an excellent reference.&lt;/p&gt;
 
-&lt;p&gt;此书有英文本，法文本和中译本，中译本是2004年东方出版社出版的，翻译质量很差，但仍然难以掩盖内容中的洞见和作者的专业素养。不过令人遗憾的是，作者之一布鲁诺·拉图尔已在半个月前去世，哲人其萎。本洞将陆续贴出一些内容节选，都是阅读过程中令我感到悠然心会的段落。&lt;/p&gt;
+&lt;p&gt;This book is available in English, French and Chinese translation. The Chinese translation was published by Oriental Publishing House in 2004&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The translation quality is poor, but it is still difficult to conceal the insight in the content and the professionalism of the author.
+But unfortunately, one of the authors, Bruno Latour, passed away half a month ago, and the philosopher died.
+Below are some excerpts posted, all of which made me feel at ease during the reading process.&lt;/p&gt;
+
+&lt;p&gt;The following quote is from the Chinese translation&lt;sup id=&quot;fnref:1:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;p&gt;Page 33 line 11 - Page 35 2nd last line:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;多次目击瓷砖实验台的工作情况，我们的观察者相信，在那里工作的人甚至以强迫自己的、工作狂的方式进行写作。所有的瓷砖工作台都有一个皮封面登记簿，小组成员在那上面用代码细致地通报他们刚做的事。这种奇怪的举动使我们的观察者回忆起某些擅长细腻描写情节的小说家，由千担心遗忘，他们不得不把他们看到的一切都记下来。其实在他看来，当技术人员不再调整那些极复杂的仪器时，他们就花时间在纸上把数字排成长长的数列；如果不是在纸上记载，就是在一些试管壁上或老鼠的皮肤上做记号，他们花费大量时间来登记这些数字。有时，他们也利用有色纸带给烧杯或一排排表面闪光的外科手术台贴上标识。这种奇特的登记怪癖表现为产生大量的卡片、资料和词典，因此，除了语言词典和著名的缩氨酸词典，人们还找到大家所说的《材料词典》。例如照片2 就是储存载满标本试管的制冷机，每个试管都有10 位数的代码号标签。大量的化学用品按字母表的顺序摆在多层架上，这给技术人员的操作提供了方便。更惊人的例子是关于材料的《词典》，成套的报刊文章（照片14 ，下图）和数千张数据卡片，其中每张卡片都再次编上索引代码号。此外还应该加上各种资料（发票、支票、计划、财产清单、信函卷宗等等），它们都分门别类地摆放，简直就像在所有企业里一样。&lt;/p&gt;
 
   &lt;p&gt;从瓷砖实验台到办公室，观察者重又陷入这样的世界：在那里，写出的东西更加含蓄。办公桌上堆满了词条的复印件。某些词还被划上着重线，白边上写满了惊叹号。文章的手稿靠近手边一张张速描的图解一一同事的信件、来自相邻房间的印刷名册，剪下来的论文被贴到其他论文上，准备中的论文摘录一个人一个人地传阅，比较超前的观点在办公室之间交流；从这个或那个刊物上剪下来的论文不断地被修改、修饰、重新更正。A 区的成员不在纸上写写画画时，他们就在黑板上写东西，口述信件或准备他们下一次报告的幻灯片。&lt;/p&gt;
 
-  &lt;p&gt;这样，我们人类学家观察者就遇到了一个奇怪的部落，这个部落正度过自己编码、做标记、读与写的最光辉的时代。从表面看，这些活动与做标记、书写、编码和修订并无关系，那么，这些活动有什么意义呢？例如，我们在照片4 上看到两位照管老鼠的年轻妇女。即使我们注意到有一页议定书在右边，在试管架上有一些编好号码的试管，在背墙上有一只用来测定试验时间长短的钟，但是她们并没有在读或写。左边的妇女用一个注射器注射一种液体，她用另一只注射器吸入另一种液体，并把它递给她的同事，这位同事把这注射器中的液体注入一个试管中。这仅仅是书写阶段的开始：她们认真记下花费的时间和试管的号码。在这期间，一些动物被宰杀，而各种物品——乙酰、棉花、吸管和注射器，都用上了。这些动物出于什么理由被宰杀呢？使用这些东西与书写活动之间有何关系？对试管架上的东西进行仔细的检查并没使我们的观察者把这一切弄得更清楚。在几天之中，试管都排成行，在里面加注了其他的液体，这些混合液经搅动后被放入制冷机里。操作和重新进行试管分类的常规按阶段中止。从老鼠身上摘取的标本被送入一个仪器里，它们在那里要经受一项彻底的转变：不改变标本也不给它们贴标签，机器吐出了打满字的纸页（照片6) 。一个人扯掉打印机出来的纸页，经过认真检查后他决定，试管重新处理。换句话说，这些试管虽然经过一周的时间认真加工（编号码一一在工时和材料上耗费数千法郎的活动），从此就丧失了一切价值。人们只对写满数字的这页纸感兴趣。在前面的研究中我们这位幸运地体验过实验的观察者，已经遇到了其他人既不合乎逻辑、又古怪的行为。相对说来，我们的观察者受震动还算少，他在考虑，他的下一次惊奇会是什么。
-令人惊奇的事不久就出现了。这张写满数字的纸即漫长的检验的最终产物被当做资料输入电脑（照片11) ；打印机打出一个新清单，这就是新的考虑对象：这就是总过程的重要成果。至千最初那份列表，它是从数千个其他充斥各图书馆的类似列表归纳出而被归档的。因此，一系列变换并没有结束。照片12 说明一位技术人员正在研究电脑下载的不同列表。一会儿照相就完成了，有人招呼他进入办公室，在那里人们让他看他努力的成果：在方格计算纸上画出的一条简洁明了的弧线。人们的注意力又一次被转移了，列表被归入档案，在办公室里，有人热情地介绍曲线的最高点和坡度：”这多么惊奇！”“这就是已分化的峰值！”“它全速下降！”“这两点何其相似！”几天以后，观察者眼前就出现一个准备发表的重画的、同样的弧线的新翻版。一旦论文被接受，它将被未来的读者看到，人们随时都能在其他办公室里找到它，在那里，它有助于更新并列的过程和文献的结构。&lt;/p&gt;
+  &lt;p&gt;这样，我们人类学家观察者就遇到了一个奇怪的部落，这个部落正度过自己编码、做标记、读与写的最光辉的时代。从表面看，这些活动与做标记、书写、编码和修订并无关系，那么，这些活动有什么意义呢？例如，我们在照片4 上看到两位照管老鼠的年轻妇女。即使我们注意到有一页议定书在右边，在试管架上有一些编好号码的试管，在背墙上有一只用来测定试验时间长短的钟，但是她们并没有在读或写。左边的妇女用一个注射器注射一种液体，她用另一只注射器吸入另一种液体，并把它递给她的同事，这位同事把这注射器中的液体注入一个试管中。这仅仅是书写阶段的开始：她们认真记下花费的时间和试管的号码。在这期间，一些动物被宰杀，而各种物品——乙酰、棉花、吸管和注射器，都用上了。这些动物出于什么理由被宰杀呢？使用这些东西与书写活动之间有何关系？对试管架上的东西进行仔细的检查并没使我们的观察者把这一切弄得更清楚。在几天之中，试管都排成行，在里面加注了其他的液体，这些混合液经搅动后被放入制冷机里。操作和重新进行试管分类的常规按阶段中止。从老鼠身上摘取的标本被送入一个仪器里，它们在那里要经受一项彻底的转变：不改变标本也不给它们贴标签，机器吐出了打满字的纸页（照片6) 。一个人扯掉打印机出来的纸页，经过认真检查后他决定，试管重新处理。换句话说，这些试管虽然经过一周的时间认真加工（编号码一一在工时和材料上耗费数千法郎的活动），从此就丧失了一切价值。人们只对写满数字的这页纸感兴趣。在前面的研究中我们这位幸运地体验过实验的观察者，已经遇到了其他人既不合乎逻辑、又古怪的行为。相对说来，我们的观察者受震动还算少，他在考虑，他的下一次惊奇会是什么。&lt;/p&gt;
+
+  &lt;p&gt;令人惊奇的事不久就出现了。这张写满数字的纸即漫长的检验的最终产物被当做资料输入电脑（照片11) ；打印机打出一个新清单，这就是新的考虑对象：这就是总过程的重要成果。至千最初那份列表，它是从数千个其他充斥各图书馆的类似列表归纳出而被归档的。因此，一系列变换并没有结束。照片12 说明一位技术人员正在研究电脑下载的不同列表。一会儿照相就完成了，有人招呼他进入办公室，在那里人们让他看他努力的成果：在方格计算纸上画出的一条简洁明了的弧线。人们的注意力又一次被转移了，列表被归入档案，在办公室里，有人热情地介绍曲线的最高点和坡度：”这多么惊奇！”“这就是已分化的峰值！”“它全速下降！”“这两点何其相似！”几天以后，观察者眼前就出现一个准备发表的重画的、同样的弧线的新翻版。一旦论文被接受，它将被未来的读者看到，人们随时都能在其他办公室里找到它，在那里，它有助于更新并列的过程和文献的结构。&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;Page 58 line 11-20:&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;被提纯的物质和罕见的抗血清剂也被看做重要的王牌。当发生小组某个成员说要离开小组这样的事时，他流露出对他所负责的抗血清剂、小块制剂和样品的担忧。正是这些添加到他写的论文中的东西成了他的王牌，这些王牌使他能够在外面被肯定，并继续他的写作活动。他有各种机会在别处寻找类似的记录器，而不是寻找可以进行这样或那样的放射免疫测试的专用的抗血清剂。除了样品外，实验室还培养本领；获得了本领的小组成员不时地离开实验室以便在别处施展自己的才华。再说一遍，本领只是达到最高目标一一创作论文一的手段。&lt;/p&gt;
+  &lt;p&gt;被提纯的物质和罕见的抗血清剂也被看做重要的王牌。当发生小组某个成员说要离开小组这样的事时，他流露出对他所负责的抗血清剂、小块制剂和样品的担忧。正是这些添加到他写的论文中的东西成了他的王牌，这些王牌使他能够在外面被肯定，并继续他的写作活动。他有各种机会在别处寻找类似的记录器，而不是寻找可以进行这样或那样的放射免疫测试的专用的抗血清剂。除了样品外，实验室还培养本领；获得了本领的小组成员不时地离开实验室以便在别处施展自己的才华。再说一遍，本领只是达到最高目标——创作论文——的手段。&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;Page 182 line 19 - Page 184 line 8:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;人们由此可以看到，科研职业的启动，意味着一系列的决定，通过这些决定，每个人都在逐渐地构筑起他自己的品行、能力证明之库。这些证明就是将来别人评估迪特里希并可能向他投资的参考。&lt;/p&gt;
@@ -37,7 +61,27 @@
   &lt;p&gt;“X 建议我去拜访Y 。在其研究所， Y 对我说：＂研究此课题在一年内你可以步入坦途，我将设法使你在……谋到一个长期的职位＂。研究课题是确定一种酶在大脑中的部位……，在时间方面，他犯了一个大错误，因为至今这还是一个尚待解决的难题。但是，我需要一个职位，我听从了他的劝告……我在……得到了一个职位，我发表了许多文章。［记事簿Xl,85]”&lt;/p&gt;
 
   &lt;p&gt;这是一个职业生涯软启动的例子。记录设备为迪特里希提供了大量的资料，足够他写论文和发表文章。总之， Y 的投入结出了果实。然而，就奖励而言，迪特里希得到的很少。迪特里希的工作没有得到广泛的承认，人们并不认为他的工作有什么突出之处。但是， Y 的支持足以使他可以找到一个职位。他成了一个被信任的研究人员，一个有能力在其领域内从事严谨工作的人。&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="reading" /><summary type="html">今天读到布鲁诺·拉图尔（法语：Bruno Latour）和史蒂夫·伍尔加（英语：Steve Woolgar）的作品《实验室生活：科学事实的建构过程》。这是一本很好的书，推荐每一位生科院或元培生科方向的同学阅读，尤其是大一大二尚未加入实验室的同学，阅读它的收获大于阅读生概途课推荐的The Double Helix。</summary></entry><entry xml:lang="en"><title type="html">Notes of Reading (I)</title><link href="http://localhost:4000/reading/2022/10/08/Plan.html" rel="alternate" type="text/html" title="Notes of Reading (I)" /><published>2022-10-08T15:14:00+08:00</published><updated>2022-10-08T15:14:00+08:00</updated><id>http://localhost:4000/reading/2022/10/08/Plan</id><content type="html" xml:base="http://localhost:4000/reading/2022/10/08/Plan.html">&lt;p&gt;Reading plan:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot;&gt;Kiyomizu&lt;/p&gt;
+&lt;p align=&quot;right&quot;&gt;October 27th,&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;bibliography:&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Latour B., Woolgar S., ZHANG Bolin, and DIAO Xiaoyin. &lt;em&gt;La Production Des Faits Scienfiques&lt;/em&gt;. Beijing: Eastern Press, 2004. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="reading" /><summary type="html">Today I read “Lab Life: The Construction of Scientific Facts” by Bruno Latour and Steve Woolgar. This is a very good book. It is recommended for every student from the School of Biological Sciences or Yuanpei to read it, especially those who have not joined the laboratory in their freshman year and sophomore year. The gain from reading it is greater than The Double Helix recommended by the reading students’ overview course.</summary></entry><entry xml:lang="en"><title type="html">Notes of Reading (I) (Plan)</title><link href="http://localhost:4000/reading/2022/10/08/Plan.html" rel="alternate" type="text/html" title="Notes of Reading (I) (Plan)" /><published>2022-10-08T15:14:00+08:00</published><updated>2022-10-08T15:14:00+08:00</updated><id>http://localhost:4000/reading/2022/10/08/Plan</id><content type="html" xml:base="http://localhost:4000/reading/2022/10/08/Plan.html">&lt;p&gt;Reading plan:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;John Rawls, HE Huaihong, HE Baogang and LIAO Shenbai. &lt;em&gt;A Theory of Justice&lt;/em&gt;. Beijing: China Social Sciences Pub. House, 1988.&lt;/li&gt;
