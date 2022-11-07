@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/zh/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/zh/" rel="alternate" type="text/html" /><updated>2022-10-27T17:50:16+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kiyomizu’s Homepage</title><subtitle>Matthew 7:13 “Enter in by the narrow gate;  for the gate is wide and the way is broad that leads to destruction,  and there are many who enter in by it.</subtitle><entry xml:lang="zh"><title type="html">读书的注记（二）（实验室生活：科学事实的建构过程）</title><link href="http://localhost:4000/zh/reading/2022/10/27/Lab.html" rel="alternate" type="text/html" title="读书的注记（二）（实验室生活：科学事实的建构过程）" /><published>2022-10-27T16:59:00+08:00</published><updated>2022-10-27T16:59:00+08:00</updated><id>http://localhost:4000/reading/2022/10/27/Lab</id><content type="html" xml:base="http://localhost:4000/reading/2022/10/27/Lab.html">&lt;p&gt;今天读到布鲁诺·拉图尔（法语：Bruno Latour）和史蒂夫·伍尔加（英语：Steve Woolgar）的作品《实验室生活：科学事实的建构过程》。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/zh/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/zh/" rel="alternate" type="text/html" /><updated>2022-11-07T21:30:06+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kiyomizu’s Homepage</title><subtitle>Matthew 7:13 “Enter in by the narrow gate;  for the gate is wide and the way is broad that leads to destruction,  and there are many who enter in by it.</subtitle><entry xml:lang="zh"><title type="html">读书的注记 三 实验室生活：科学事实的建构过程</title><link href="http://localhost:4000/zh/reading/2022/11/06/Lab2.html" rel="alternate" type="text/html" title="读书的注记 三 实验室生活：科学事实的建构过程" /><published>2022-11-06T23:34:00+08:00</published><updated>2022-11-06T23:34:00+08:00</updated><id>http://localhost:4000/reading/2022/11/06/Lab2</id><content type="html" xml:base="http://localhost:4000/reading/2022/11/06/Lab2.html">&lt;p&gt;在发出上一篇评论和引述后三天，我在读完了《实验室生活》这本书。
+尽管该书首次出版于1986年，三十多年后的今天，它的观点仍然没有过时，甚至是超前的。
+了解这些观点，能够激发对于科研生涯的新的思考。
+所以，虽然上次已经推荐过了，但我还是想要把它再次推荐给所有生科院的大一大二同学，特别是尚未加入实验室的同学。&lt;/p&gt;
+
+&lt;p&gt;上次简单介绍了此书前三节的内容，并引述了一些片段，这里将介绍此书后三节的内容，并引述一些新的内容。&lt;/p&gt;
+
+&lt;p&gt;作为第三章的后继，第四章《事实的微观社会学》更具备社会科学理论著作的特点。
+如果说第三章是《麻雀解剖》的话，第四章就应该叫《鸟类学》。
+简明地说，有两个观点：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;事实是存在的，就像TRF确有其事；&lt;/li&gt;
+  &lt;li&gt;事实是被建构的，就像第三章描述的TRF建构过程。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;两个观点不矛盾。
+具体地说，1968年，促甲状腺素释放因子（TRF）仅仅是一种陈述，可能是事实，也可能是假象；
+而到了1970年，TRF已经成为了一种事实，人们都说”某团队发现了TRF”。
+1968-1970的研究争论使得TRF被确证存在，这个过程就是&lt;strong&gt;建构&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;以现在的眼光来看，人们认为“TRF的结构是Pro-Glu-His-Pro-NH2”这一事实是争论结束的原因。
+但这些人是事后诸葛亮。
+因为你一旦进行一个假设：“如果至今都没有人找到TRF的正确结构，学术界争论不断”，
+那么“TRF的结构是Pro-Glu-His-Pro-NH2”就将是这场争论在未来结束时的结果。&lt;/p&gt;
+
+&lt;p&gt;也就是说，&lt;strong&gt;是争论和研究建构了事实&lt;/strong&gt;，而不是事实为争论定论。
+但是，我仅仅在社会学讨论中认同这个观点，因为这很像诡辩，你大可以用魔法对付魔法。&lt;/p&gt;
+
+&lt;p&gt;不过与此相比，第五章《科学家的可信性》就显得实在多了。
+这一章讨论的是：
+一个科研人员在他/她的科研生涯中，所追求的究竟是什么？
+我认为很多学生是没有想清楚的。如果你拿这个问题去做生涯访谈，可能得到非常丰富的答案，但你需要自己去判断这些答案的价值。我想引用作者的一段话说明这个问题：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;当纳坦让他的技术员准备组装下一部鉴定仪器时说：‘如果我们不进行两次检验，别人会说我们文章中的数据源于其他方法’……后来当别人问纳坦为什么用这种仪器时，他回答：‘对于科学而言,怎样谨慎都不过分！’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这个问题应该换一种问法：是什么东西驱动了科研人员进行研究/更换课题/跳槽？&lt;/p&gt;
+
+&lt;p&gt;是因为物质回报吗？是因为奖励和荣誉吗？是因为要作出贡献吗？作者部分认同这里的每一个答案。
+但他更进一步提出一个概念，&lt;strong&gt;credit&lt;/strong&gt;(直译为可信性，令人困惑，但这种困惑反而有利于避免读者望文生义，也算是译得好)。&lt;/p&gt;
+
+&lt;p&gt;试看下面这个循环，这是一个科研人员在领域取得成绩需要的资本，如何从一种形式转换到另一种形式。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pics/lab2_fig1.jpeg/&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;好的科研人员能让这个循环不断运行, credit是这个循环运行的能源。例如：&lt;/p&gt;
+
+&lt;p&gt;credit高的人, 有更多的经费，就有更好的设备，就有更多的数据，就有更多的论据，就有更好的论文，就产生更多解释，就获得更多的奖励，就能管理更多经费…如此循环。有些人走上坡路，有些人走下坡路。这个步骤中的每一步都影响了credit，例如获得诺贝尔奖，拿到大笔经费（出于学术或其他原因），被禁用关键设备，被发现数据造假，发表重要论文。
+credit巧妙地将各个要素整合起来，就我的粗浅理解，它至少包括：学术信誉、学术声誉、人脉关系、教育背景、能力认可、荣誉、研究前景、申请经费的能力。如果硬要将credit换一个更贴切的翻译，我想“学术资本的获取能力”是很合适的。
+简而言之，一切的努力，一切的奋斗，都是为了提高自己的这种能力。&lt;/p&gt;
+
+&lt;p&gt;不能做到这一点的人就会出局，因为这是适者生存的铁律。&lt;/p&gt;
+
+&lt;p&gt;下面引述自中译本&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如我们所看到的，可靠数据的生产是使可信性循环和“科学交易”或是福柯1978 年所说的“真实的政治经济”活跃起来的一种手段。此后，科研人员可以尽力用他们自己的名义来利用他们的信誉。他们可以肯定地说：他们“曾有想法”（见本书第147 页及以下诸页），这关系到“他们的“实验室，是他们成功地吸引来资金进行装备，从而保证了他们的活动基础。从这个观点看，他们身为政府雇员的同时与商人也差不多。但是，重要的是他们的资本不能出卖和继承，只有在罕见的情况下，可以用来交换货币资本。他们像手工业者一样，为生产出自己的数据而工作，他们经营管理他们自己的几乎是独家的账目。但是，如果不小心，他们将沦为职员或高级技术员。他们也可以独立，幸运的话，他们还可以成为雇主。但同时，他们仍旧是雇员，因为人们支付给他们工资，让他们管理私人基金或纳税人借给他们的资金。我们所观察到的研究员，从经济角度说，他们就是这样腹背受敌：他们必须不断地经营所掌握的可信性资本，同时还不得不经常调整别人借给他们的金钱和信任的使用。一种紧张的气氛总是笼罩着运行的实验室，它不断地激励人们推出新论断，证明新论断，推广它的效用，安装新仪器，利用功绩并将它再投资。在危机时刻，使作战部队参谋部或决策机关振作起来的紧张，与每天都笼罩着实验室的气氛相比也不过是小巫见大巫而已！这种紧张气氛迫使人们竭力说服秘书按时打出手稿，要求技术员以最快的速度订购做实验的动物和器材，督促人们小心翼翼地做好实验。当然，这种紧张气氛在其他生产单位也常碰到。但是，在实验室中，这种气氛的特性是它强迫研究员必须是可靠的。一方面，研究员不得不面对投资人的约束，如果他不想失去他的资本的话，他还必须不断地再投资。另一方面，他们还不得不承担雇员的义务，因为人们总要求把借给他们的资金结清。在这两方面的压力下，我们的研究员们坚守在实验室里。如果一个研究员决定停止进行新实验，或提出新论断，他很快就会被淘汰。他再也得不到资金，他将被驱除出局，除非他有终身职位，或者他早已经为自己营造好了一个小窝。用”规范＂、科学方法、或追求奖励等词汇解释研究人员的行为是可能的，但是，却是多余的。束缚着既是独立的资本家又是雇员的研究人员的力量是，只有创出过硬的事实才能保住同样坚实的地位。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;与研究员不同，技术员没有最初的可信性资本（博士学衔）可供他们使用。即使技术员对科学的可信性的构筑和再投入也没有像对薪金那样感兴趣，但是他们对功绩的分配、回报的方式还是表现出关注。从经济学的角度上说，技术员更像打工者而不像投资人。他们的薪金回报了他们的劳动，但是却不能构成可投入的资本。尽管如此，并不否认他们会利用各种战略去改变他们命运，如调换实验室。但是，这种调动从来都与持有博士证书的投资者不同。这种情况解释了为什么大量的技术员为了考取博士学位去上补习课程而离开了实验室。我们在实验室逗留期间，就有五名技术员为此而调走。技术员希望通过获得这种资格，他们的工作能给他们带来丰厚的工资的同时，也能给他们带来不断增长的、可能用来再投资的可信性。&lt;/p&gt;
+
+  &lt;p&gt;马德琳把“高级技术员“看成是承担简单的例行工作的合格的研究员。她认为，既然许多具有博士学位的正式研究员都花大量的时间从事技术员的工作，那么博士学位的优势就微乎其微了。对她而言，技术员与高级技术员的级差不足以弥补多年艰苦工作的投入。那么什么是博士学位持有人的特殊性呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;right&quot;&gt;Kiyomizu&lt;/p&gt;
+&lt;p align=&quot;right&quot;&gt;2022年11月6日&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;参考目录：&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;拉图尔 B. (Latour, Bruno), 伍尔加 S. (Woolgar, Steve), 张伯霖, and 刁小英. &lt;em&gt;实验室生活: 科学事实的建构过程 La Production Des Faits Scienfiques&lt;/em&gt;. 北京: 东方出版社, 2004. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="reading" /><summary type="html">在发出上一篇评论和引述后三天，我在读完了《实验室生活》这本书。 尽管该书首次出版于1986年，三十多年后的今天，它的观点仍然没有过时，甚至是超前的。 了解这些观点，能够激发对于科研生涯的新的思考。 所以，虽然上次已经推荐过了，但我还是想要把它再次推荐给所有生科院的大一大二同学，特别是尚未加入实验室的同学。</summary></entry><entry xml:lang="zh"><title type="html">读书的注记 二 实验室生活：科学事实的建构过程</title><link href="http://localhost:4000/zh/reading/2022/10/27/Lab.html" rel="alternate" type="text/html" title="读书的注记 二 实验室生活：科学事实的建构过程" /><published>2022-10-27T16:59:00+08:00</published><updated>2022-10-27T16:59:00+08:00</updated><id>http://localhost:4000/reading/2022/10/27/Lab</id><content type="html" xml:base="http://localhost:4000/reading/2022/10/27/Lab.html">&lt;p&gt;今天读到布鲁诺·拉图尔（法语：Bruno Latour）和史蒂夫·伍尔加（英语：Steve Woolgar）的作品《实验室生活：科学事实的建构过程》。
 这是一本很好的书，推荐每一位生科院或元培生科方向的同学阅读，尤其是大一大二尚未加入实验室的同学，
 阅读它的收获大于阅读生概途课推荐的The Double Helix。&lt;/p&gt;
 
@@ -81,7 +166,7 @@
       &lt;p&gt;拉图尔 B. (Latour, Bruno), 伍尔加 S. (Woolgar, Steve), 张伯霖, and 刁小英. &lt;em&gt;实验室生活: 科学事实的建构过程 La Production Des Faits Scienfiques&lt;/em&gt;. 北京: 东方出版社, 2004. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="reading" /><summary type="html">今天读到布鲁诺·拉图尔（法语：Bruno Latour）和史蒂夫·伍尔加（英语：Steve Woolgar）的作品《实验室生活：科学事实的建构过程》。 这是一本很好的书，推荐每一位生科院或元培生科方向的同学阅读，尤其是大一大二尚未加入实验室的同学， 阅读它的收获大于阅读生概途课推荐的The Double Helix。</summary></entry><entry xml:lang="zh"><title type="html">读书的注记（一）（读书计划）</title><link href="http://localhost:4000/zh/reading/2022/10/08/Plan.html" rel="alternate" type="text/html" title="读书的注记（一）（读书计划）" /><published>2022-10-08T15:14:00+08:00</published><updated>2022-10-08T15:14:00+08:00</updated><id>http://localhost:4000/reading/2022/10/08/Plan</id><content type="html" xml:base="http://localhost:4000/reading/2022/10/08/Plan.html">&lt;p&gt;阅读计划：&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="reading" /><summary type="html">今天读到布鲁诺·拉图尔（法语：Bruno Latour）和史蒂夫·伍尔加（英语：Steve Woolgar）的作品《实验室生活：科学事实的建构过程》。 这是一本很好的书，推荐每一位生科院或元培生科方向的同学阅读，尤其是大一大二尚未加入实验室的同学， 阅读它的收获大于阅读生概途课推荐的The Double Helix。</summary></entry><entry xml:lang="zh"><title type="html">读书的注记 一 一个计划</title><link href="http://localhost:4000/zh/reading/2022/10/08/Plan.html" rel="alternate" type="text/html" title="读书的注记 一 一个计划" /><published>2022-10-08T15:14:00+08:00</published><updated>2022-10-08T15:14:00+08:00</updated><id>http://localhost:4000/reading/2022/10/08/Plan</id><content type="html" xml:base="http://localhost:4000/reading/2022/10/08/Plan.html">&lt;p&gt;阅读计划：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;罗尔斯 (Rawls, John), 何怀宏, 何包钢, and 廖申白. &lt;em&gt;正义论&lt;/em&gt;. 北京: 中国社会科学出版社, 1988.&lt;/li&gt;
@@ -105,7 +190,7 @@
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;p align=&quot;right&quot;&gt;Kiyomizu&lt;/p&gt;
-&lt;p align=&quot;right&quot;&gt;2022年10月8日&lt;/p&gt;</content><author><name></name></author><category term="reading" /><summary type="html">阅读计划：</summary></entry><entry xml:lang="zh"><title type="html">生活的回忆（一）</title><link href="http://localhost:4000/zh/life/2022/10/07/Start.html" rel="alternate" type="text/html" title="生活的回忆（一）" /><published>2022-10-07T16:03:00+08:00</published><updated>2022-10-07T16:03:00+08:00</updated><id>http://localhost:4000/life/2022/10/07/Start</id><content type="html" xml:base="http://localhost:4000/life/2022/10/07/Start.html">&lt;p&gt;在我高中前后的几年里，读书和写读书笔记是我生活的组成部分。
+&lt;p align=&quot;right&quot;&gt;2022年10月8日&lt;/p&gt;</content><author><name></name></author><category term="reading" /><summary type="html">阅读计划：</summary></entry><entry xml:lang="zh"><title type="html">生活的回忆 一</title><link href="http://localhost:4000/zh/life/2022/10/07/Start.html" rel="alternate" type="text/html" title="生活的回忆 一" /><published>2022-10-07T16:03:00+08:00</published><updated>2022-10-07T16:03:00+08:00</updated><id>http://localhost:4000/life/2022/10/07/Start</id><content type="html" xml:base="http://localhost:4000/life/2022/10/07/Start.html">&lt;p&gt;在我高中前后的几年里，读书和写读书笔记是我生活的组成部分。
 那时候我喜欢读《参考消息》、《生活周刊》和《读书》杂志，逛学校旁边的书店，去校图书馆看书。
 而现在，微信公众号文章、bilibili视频和知乎回答已经成为了我主要的信息来源，
 除了不得不写的材料，提笔写字次数屈指可数。&lt;/p&gt;
