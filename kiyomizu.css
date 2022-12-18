@@ -30,6 +30,29 @@ h2 {
     color: #4c6cb3;
 }
 
+/* 创建三个不相等的列 */
+.column {
+    float: left;
+    padding: 10px;
+}
+
+/* 左右两侧宽度 */
+.column.side {
+    width: 25%;
+}
+
+/* 中间区域宽度 */
+.column.middle {
+    width: 50%;
+}
+
+/* 列后面清除浮动 */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 #bigHead {
     margin: auto;
     text-align: center;
@@ -38,11 +61,11 @@ h2 {
     width: 100%;
 }
 
-#bigBottom{
-	margin: 0;
-	padding: 10px 0px;
-	border-top: 1px solid #cccccc;
-	width: 100%;
+#bigBottom {
+    margin: 0;
+    padding: 10px 0px;
+    border-top: 1px solid #cccccc;
+    width: 100%;
 }
 
 #siteName {
