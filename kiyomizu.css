@@ -38,12 +38,12 @@ h2 {
 
 /* 左右两侧宽度 */
 .column.side {
-    width: 25%;
+    width: 20%;
 }
 
 /* 中间区域宽度 */
 .column.middle {
-    width: 50%;
+    width: 60%;
 }
 
 /* 列后面清除浮动 */
