@@ -1,13 +1,36 @@
 body {
-    background: white;
-    font-family: 'Times New Roman', Times, serif;
-    color: #333333;
+    background: #121212;
+    font-family: 'Times New Roman', Times, sans-serif;
+    color: #FFFFFF;
     line-height: 1.166;
     margin: 0px;
     padding: 0px;
 }
 
-#masthead {
+h1 {
+    font-size: 150%;
+    color: #bbbbbb;
+}
+
+h2 {
+    font-size: 120%;
+    color: #bbbbbb;
+}
+
+.center {
+    text-align: center;
+    /*border: 3px solid green;*/
+}
+
+.link {
+    color: #FF0000;
+}
+
+.email {
+    color: #4c6cb3;
+}
+
+#bigHead {
     margin: auto;
     text-align: center;
     padding: 10px 0px;
@@ -15,11 +38,11 @@ body {
     width: 100%;
 }
 
-#mastbottom {
-    margin: auto;
-    padding: 10px 0px;
-    border-top: 1px solid #cccccc;
-    width: 100%;
+#bigBottom{
+	margin: 0;
+	padding: 10px 0px;
+	border-top: 1px solid #cccccc;
+	width: 100%;
 }
 
 #siteName {
@@ -31,6 +54,7 @@ body {
 #globalNav {
     color: #cccccc;
     text-align: center;
+    font-size: large;
     padding: 0px 0px 0px 10px;
     white-space: nowrap;
 }
