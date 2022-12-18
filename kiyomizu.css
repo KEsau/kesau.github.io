@@ -1,0 +1,33 @@
+body {
+    background: white;
+    font-family: 'Times New Roman', STZhongsong, SimSun, Times, serif;
+    color: #333333;
+    line-height: 1.166;
+    margin: 0px;
+    padding: 0px;
+}
+
+#masthead {
+    margin: 0;
+    padding: 10px 0px;
+    border-bottom: 1px solid #cccccc;
+    width: 100%;
+}
+
+#mastbottom {
+    margin: 0;
+    padding: 10px 0px;
+    border-top: 1px solid #cccccc;
+    width: 100%;
+}
+
+#siteName {
+    margin: 0px;
+    padding: 0px 0px 10px 10px;
+}
+
+#globalNav {
+    color: #cccccc;
+    padding: 0px 0px 0px 10px;
+    white-space: nowrap;
+}
