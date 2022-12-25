@@ -14,17 +14,37 @@ body {
 .header {
   padding: 5px;
   text-align: center;
-  background: #121212;
+  background-image: url(./images/kyoto.png);
+  background-size:100%,50%;
+  border: 1px solid #cccccc;
+  margin-bottom: 20px;
+  color:#121212;
+  font-family: Arial, Helvetica, sans-serif;
 }
- 
+
 .header h1 {
-  font-size: 30px;
+  font-size: 20px;
 }
+
+/* 底部说明 */
+.footer {
+  padding: 5px;
+  text-align: center;
+  background: #121212;
+  border: 1px solid #cccccc;
+}
+
+.footer h2 {
+  font-size: 15px;
+}
+
  
 /* 导航条 */
 .topnav {
   overflow: hidden;
   background-color: #303030;
+  border: 1px solid #cccccc;
+  margin-bottom: 20px;
 }
  
 /* 导航条链接 */
@@ -33,17 +53,17 @@ body {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 16px;
   text-decoration: none;
 }
  
-/* 链接颜色修改 */
+/* 悬停链接颜色修改 */
 .topnav a:hover {
   background-color: #f2f2f2;
   color: black;
 }
  
-/* 创建两列 */
+/* 内容部分分为三列 */
 /* Left column */
 .middlecolumn {   
   float: left;
@@ -78,8 +98,9 @@ body {
 .card {
   background-color: #303030;
   padding: 20px;
-  margin-top: 20px;
+  margin-bottom: 20px;
   color: #f2f2f2;
+  border: 1px solid #cccccc;
 }
  
 /* 列后面清除浮动 */
@@ -89,11 +110,4 @@ body {
   clear: both;
 }
  
-/* 底部 */
-.footer {
-  padding: 20px;
-  text-align: center;
-  background: #121212;
-  margin-top: 20px;
-}
 
