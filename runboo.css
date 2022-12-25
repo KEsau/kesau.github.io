@@ -14,9 +14,9 @@ body {
 .header {
   padding: 5px;
   text-align: center;
-  background: #121212;
-  margin-bottom: 20px;
-  border: 1px solid #cccccc;
+  background: #303030;
+  margin-bottom: 10px;
+  /* border: 1px solid #cccccc; */
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -28,8 +28,8 @@ body {
 .footer {
   padding: 5px;
   text-align: center;
-  background: #121212;
-  border: 1px solid #cccccc;
+  background: #303030;
+  /* border: 1px solid #cccccc; */
 }
 
 .footer h2 {
@@ -41,7 +41,7 @@ body {
 .topnav {
   overflow: hidden;
   background-color: #303030;
-  border: 1px solid #cccccc;
+  /* border: 1px solid #cccccc; */
   margin-bottom: 20px;
 }
  
@@ -98,7 +98,7 @@ body {
   padding: 20px;
   margin-bottom: 20px;
   color: #f2f2f2;
-  border: 1px solid #cccccc;
+  /* border: 1px solid #cccccc; */
 }
  
 /* 列后面清除浮动 */
@@ -108,4 +108,7 @@ body {
   clear: both;
 }
  
-
+.email {
+  color: #80D8FF;
+  font-family: 'Courier New', Courier, monospace;
+}
