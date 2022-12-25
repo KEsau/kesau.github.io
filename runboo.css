@@ -112,3 +112,8 @@ body {
   color: #80D8FF;
   font-family: 'Courier New', Courier, monospace;
 }
+
+.center {
+  text-align: center;
+  /*border: 3px solid green;*/
+}
