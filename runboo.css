@@ -1,0 +1,99 @@
+
+* {
+  box-sizing: border-box;
+}
+ 
+body {
+  font-family: 'Times New Roman', Times, sans-serif;
+  padding: 0px;
+  background: #121212;
+}
+ 
+/* 头部标题 */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #121212;
+  color: #f2f2f2;
+}
+ 
+.header h1 {
+  font-size: 30px;
+  color: #f2f2f2;
+}
+ 
+/* 导航条 */
+.topnav {
+  overflow: hidden;
+  background-color: #303030;
+}
+ 
+/* 导航条链接 */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+ 
+/* 链接颜色修改 */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+ 
+/* 创建两列 */
+/* Left column */
+.middlecolumn {   
+  float: left;
+  width: 50%;
+}
+
+.leftcolumn {
+  float: left;
+  width: 25%;
+  background-color: #121212;
+  padding-right: 20px;
+  visibility: hidden;
+}
+ 
+/* 右侧栏 */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #121212;
+  padding-left: 20px;
+  visibility:hidden;
+}
+ 
+/* 图像部分 */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+ 
+/* 文章卡片效果 */
+.card {
+  background-color: #303030;
+  padding: 20px;
+  margin-top: 20px;
+}
+ 
+/* 列后面清除浮动 */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ 
+/* 底部 */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #121212;
+  margin-top: 20px;
+}
+
