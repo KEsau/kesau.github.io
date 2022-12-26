@@ -1,0 +1,119 @@
+
+* {
+  box-sizing: border-box;
+}
+ 
+body {
+  font-family: 'Times New Roman', Times, serif;
+  padding: 2px;
+  background: #212121;
+  color:#ffffff;
+}
+ 
+/* 头部标题 */
+.header {
+  padding: 5px;
+  text-align: center;
+  background: #303030;
+  margin-bottom: 10px;
+  /* border: 1px solid #cccccc; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header h1 {
+  font-size: 20px;
+}
+
+/* 底部说明 */
+.footer {
+  padding: 5px;
+  text-align: center;
+  background: #303030;
+  /* border: 1px solid #cccccc; */
+}
+
+.footer h2 {
+  font-size: 15px;
+}
+
+ 
+/* 导航条 */
+.topnav {
+  overflow: hidden;
+  background-color: #303030;
+  /* border: 1px solid #cccccc; */
+  margin-bottom: 20px;
+}
+ 
+/* 导航条链接 */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+ 
+/* 悬停链接颜色修改 */
+.topnav a:hover {
+  background-color: #f2f2f2;
+  color: black;
+}
+ 
+/* 内容部分分为三列 */
+/* Left column */
+.middlecolumn {   
+  float: left;
+  width: 50%;
+}
+
+.leftcolumn {
+  float: left;
+  width: 25%;
+  background-color: #121212;
+  padding-right: 20px;
+  visibility: hidden;
+}
+ 
+/* 右侧栏 */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #121212;
+  padding-left: 20px;
+  visibility:hidden;
+}
+ 
+/* 图像部分 */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+ 
+/* 文章卡片效果 */
+.card {
+  background-color: #303030;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #f2f2f2;
+  /* border: 1px solid #cccccc; */
+}
+ 
+/* 列后面清除浮动 */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+ 
+.email {
+  color: #80D8FF;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.center {
+  text-align: center;
+  /*border: 3px solid green;*/
+}
