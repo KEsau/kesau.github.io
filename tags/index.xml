@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kiyomizu</title>
+    <link>https://kiyomizu.cc/tags/</link>
+    <description>Recent content in Tags on Kiyomizu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Kiyomizu 2022-2023</copyright>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>哲学</title>
+      <link>https://kiyomizu.cc/tags/%E5%93%B2%E5%AD%A6/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tags/%E5%93%B2%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TODO</title>
+      <link>https://kiyomizu.cc/tags/todo/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tags/todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教育</title>
+      <link>https://kiyomizu.cc/tags/%E6%95%99%E8%82%B2/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tags/%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>科学</title>
+      <link>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>历史</title>
+      <link>https://kiyomizu.cc/tags/%E5%8E%86%E5%8F%B2/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tags/%E5%8E%86%E5%8F%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>社会</title>
+      <link>https://kiyomizu.cc/tags/%E7%A4%BE%E4%BC%9A/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tags/%E7%A4%BE%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
