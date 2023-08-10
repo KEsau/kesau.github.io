@@ -7,22 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kiyomizu 2022-2023</copyright>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>哲学</title>
-      <link>https://kiyomizu.cc/tags/%E5%93%B2%E5%AD%A6/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <title>Python</title>
+      <link>https://kiyomizu.cc/tags/python/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://kiyomizu.cc/tags/%E5%93%B2%E5%AD%A6/</guid>
+      <guid>https://kiyomizu.cc/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TODO</title>
       <link>https://kiyomizu.cc/tags/todo/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kiyomizu.cc/tags/todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>哲学</title>
+      <link>https://kiyomizu.cc/tags/%E5%93%B2%E5%AD%A6/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tags/%E5%93%B2%E5%AD%A6/</guid>
       <description></description>
     </item>
     
