@@ -10,9 +10,20 @@
 <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
 <atom:link href="https://kiyomizu.cc/index.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Github小经验</title>
+<link>https://kiyomizu.cc/tech/github/</link>
+<pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+<guid>https://kiyomizu.cc/tech/github/</guid>
+<description>Kiyomizu https://kiyomizu.cc/tech/github/ -&lt;ul&gt;
+&lt;li&gt;无法&lt;code&gt;wget raw.githubusercontent.com&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo sed -i &lt;span style="color:#cd5555"&gt;&amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39;&lt;/span&gt; /etc/hosts
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- https://kiyomizu.cc/tech/github/ - Kiyomizu 2022-2023</description>
+</item>
+<item>
 <title>PyDESeq2：用Python做差异表达分析</title>
 <link>https://kiyomizu.cc/tech/py-deseq2/</link>
-<pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+<pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
 <guid>https://kiyomizu.cc/tech/py-deseq2/</guid>
 <description>Kiyomizu https://kiyomizu.cc/tech/py-deseq2/ -&lt;p&gt;&lt;a href="https://pydeseq2.readthedocs.io/en/latest/"&gt;pydeseq2.readthedocs.io&lt;/a&gt;&lt;/p&gt;
 - https://kiyomizu.cc/tech/py-deseq2/ - Kiyomizu 2022-2023</description>
@@ -20,7 +31,7 @@
 <item>
 <title>Snakemake：构建生物信息分析流程</title>
 <link>https://kiyomizu.cc/tech/snakemake/</link>
-<pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+<pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
 <guid>https://kiyomizu.cc/tech/snakemake/</guid>
 <description>Kiyomizu https://kiyomizu.cc/tech/snakemake/ -&lt;p&gt;&lt;a href="https://snakemake.readthedocs.io/en/stable/index.html"&gt;snakemake.readthedocs.io&lt;/a&gt;&lt;/p&gt;
 - https://kiyomizu.cc/tech/snakemake/ - Kiyomizu 2022-2023</description>
@@ -511,31 +522,6 @@
 &lt;p&gt;(摘自&lt;a href="https://book.douban.com/subject/25924609/"&gt;豆瓣读书&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
 - https://kiyomizu.cc/book/the-discovery-of-society/ - Kiyomizu 2022-2023</description>
-</item>
-<item>
-<title>(转载) 语言腐败及其危害</title>
-<link>https://kiyomizu.cc/repo/yv-yan-fu-bai/</link>
-<pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-<guid>https://kiyomizu.cc/repo/yv-yan-fu-bai/</guid>
-<description>Kiyomizu https://kiyomizu.cc/repo/yv-yan-fu-bai/ -&lt;p&gt;&lt;em&gt;张维迎&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;当一个人已经腐化而侮辱了他的思想的纯洁，从而宣扬他自己所不相信的东西，他已经准备犯其他任何的罪行。&lt;/p&gt;
-&lt;p align="right"&gt;——托马斯·潘恩&lt;/p&gt;
-&lt;p&gt;腐败一词，是当今中国使用频率最高的词汇之一。腐败的种类五花八门，政治腐败，官员腐败，公司腐败，司法腐败，学术腐败，教育腐败，甚至足球腐败，等等。但有一类更为普遍，其危害性也更为严重的腐败，却并没有受到足够的重视。这就是语言腐败。&lt;/p&gt;
-&lt;p&gt;所谓语言腐败，是指人们出于经济的、政治的、意识形态的目的，随意改变词汇的含义，甚至赋予它们与原来的意思完全不同的含义，忽悠民众，操纵人心。语言腐败的典型形式是冠恶行以美名，或冠善行以恶名。轰轰烈烈的重庆“打黑”就是一个典型的例子。“打黑”变成了“黑打”，变成了侵犯人权和私有财产的政治行为。&lt;/p&gt;
-&lt;p&gt;事实上，左的东西之所以能流行，有市场，有人追随，一个重要原因是左派人士善于语言腐败。这方面，“文革”时期可以说登峰造极。把摧残人性、毁灭文化的行动，说成是“文化大革命”；把整人说成是“整风”；把任何反对他们的人说成是“反革命分子”；把含冤自杀的人，说成是“自绝于人民”；把闭关锁国说成是“独立自主”；把学习国外的先进技术和文化说成是“崇洋媚外”。如此等等，不胜枚举。正因为善于语言腐败，以致至今仍然影响我们的生活。&lt;/p&gt;
-&lt;p&gt;语言腐败这个词并非我的杜撰，它最初是英国作家乔治·奥威尔于1946年在一篇文章中提出来的，现在已成为政治哲学理论中的经典术语。语言腐败的现象自古有之，但应该说，只是在20世纪，才变成社会公害。奥威尔的《一九八四》为我们提供了许多经典的例子：专门制造假新闻的部门被冠名为“真理部”；监督、逮捕和迫害异己人士的秘密警察部门被冠名为“友爱部”；发动战争的部门被冠名为“和平部”；自由就是奴役；和平就是战争；无知就是力量。这当然是小说里的事情，但与现实相距并不远。&lt;/p&gt;
-&lt;p&gt;语言腐败在当今中国已到了什么样的地步呢？许多词汇在一定程度都已经腐败了，甚至腐败这个词本身也已经腐败了。当一个官员说他是人民的“公仆”时，他实际上是说，权力在他手里，你得听他的。再以“改革”为例，最近几年，一些政府部门把加强政府对经济的控制、限制商业自由的反改革政策称为“改革”，甚至是“进一步深化改革的措施”。宏观调控本来指的是总量上的放松或抽紧，而我们现在所谓的“宏观调控”经常指的是对经济活动的微观干预，包括准入限制和价格管制。国有控股公司宣称已经建立了“现代企业制度”，而事实上他们的董事会连选择副总经理的权力都没有，何谈现代企业制度？&lt;/p&gt;
-&lt;p&gt;语言腐败有什么严重后果？至少有三个：&lt;/p&gt;
-&lt;p&gt;首先，语言腐败严重破坏了语言的交流功能，导致人类智力的退化。为了交流，语言词汇必须有普遍认可的特定含义。语言腐败意味着同一词汇在不同人的心目中有不同的含义，语言变成了文字游戏，使得人与人之间的交流变得困难。语言腐败使得我们越来越缺乏理性和逻辑思考能力，我们的大脑在萎缩，我们的文章越来越变成口号的堆砌，我们越来越习惯于以权压人或简单顺从，而不是以理服人和平等讨论。同一个文件中，以X为主导，以Y为主体，以Z为基础，但谁也说不清楚它们之间是什么关系。我们的文章越来越长，但包含的信息量越来越少。一个工作报告动辄一两万字，还要有人再写出数十万字的辅导材料，仍然让人不知所云。这是人类智力和物质资源的双重浪费。&lt;/p&gt;
-&lt;p&gt;第二，语言腐败导致道德堕落。人类道德的底线是诚实，语言腐败本质上是不诚实。就人类本性而言，说假话比干坏事在道德上更具挑战性。法院判决书经常有“罪犯对所犯罪行供认不讳”这样的话，说明即使一个人敢于做坏事，我们还相信他在事实面前不敢说假话。西方法庭上证人出庭作证，如果对方律师能证明证人是经常说谎的人，他的证词就不会被采纳。以此标准，我们的社会很难找到合格的证人。&lt;/p&gt;
-&lt;p&gt;美国独立战争期间的思想家托马斯·潘恩在《理性时代》一书中讲道：&lt;/p&gt;
-&lt;p&gt;　　为了人类的幸福，一个人在思想上必须对自己保持忠诚，所谓不忠诚不在于相信或不相信，而在于口称相信自己实在不相信的东西。&lt;/p&gt;
-&lt;p&gt;思想上的谎言在社会里所产生的道德上的损害，是无法计算的，如果我可以这样说的话。当一个人已经腐化而侮辱了他的思想的纯洁，从而宣扬他自己所不相信的东西，他已经准备犯其他任何的罪行。他做宣教师是为了自己的利益；并且为了获得做这个职业的资格起见，他必须从撒大谎开始。试问我们能否设想还有什么事情比这一个对于道德的破坏更大呢?&lt;/p&gt;
-&lt;p&gt;一句话，要让一个说假话脸不红的人干坏事时反倒脸红，实在是太难了，即使不是不可能的。由此来看，我们的官员腐败如此严重，我们的假冒伪劣产品如此之多，我们的社会道德如此堕落，就一点也不奇怪了。成天假话连篇的官员，在接受贿赂和以权谋私方面是不可能有道德约束的。当政府官员中语言和行为双重腐败泛滥时，生产假冒伪劣产品的商人很难觉得自己做了亏心事。而要让在谎言中接受教育和生活的人有社会公德，实在是难上加难。&lt;/p&gt;
-&lt;p&gt;第三，语言腐败导致社会走向的高度不确定和不可预测性。语言的一个重要功能是传递社会运行状态的信号，在语言严重腐败的情况下，信号就会严重失真，结果是，当一个社会事实上危机四伏的时候，我们还以为天下太平，对大难临头茫然不知。&lt;/p&gt;
-&lt;p&gt;我们能在多大程度上解决语言腐败问题，关涉中国未来的改革和发展，以及社会稳定。两千多年前孔子讲“名不正，则言不顺；言不顺，则事不成”，反语言腐败就是要正名，恢复语言词汇本来的含义。比如，既然称为“人民代表”，就必须真正反映选民的意志。如果确实做不到这一点，不妨换个新的说法。如果我们能消除50%危害最大的语言腐败，就有希望消除80%的官员腐败，我们的政府就会廉洁起来，我们的道德风尚就可以大大改善。&lt;/p&gt;
-&lt;p&gt;(&lt;em&gt;摘自《理念的力量》，西北大学出版社2014年10月版&lt;/em&gt;)&lt;/p&gt;
-- https://kiyomizu.cc/repo/yv-yan-fu-bai/ - Kiyomizu 2022-2023</description>
 </item>
 </channel>
 </rss>

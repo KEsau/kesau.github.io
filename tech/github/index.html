@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-<title>技术</title>
+<title>Github小经验</title>
 <meta charset="utf-8"/>
 <meta content="IE=edge" name="X-UA-Compatible"/>
 <meta content="" name="google-site-verification"/>
@@ -11,6 +11,7 @@
 <meta content="#ffffff" name="theme-color"/>
 <script async="" src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
+<script src="/js/toc.js"></script>
 <link href="/vendor/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="/scss/dark-mode.min.cb53f1bee2b8900cb4f082afbf00175d6618f281cf9a2fe8619e3b52d20b5721.css" integrity="sha256-y1PxvuK4kAy08IKvvwAXXWYY8oHPmi/oYZ47UtILVyE=" media="screen" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css?family=Material+Icons" rel="stylesheet"/>
@@ -25,7 +26,7 @@
 <a class="a-block drawer-menu-item false" href="/book">
                     书评
                 </a>
-<a class="a-block drawer-menu-item false" href="/tech">
+<a class="a-block drawer-menu-item active" href="/tech">
                     技术
                 </a>
 <a class="a-block drawer-menu-item false" href="/anthology">
@@ -73,72 +74,56 @@
 <div id="content">
 <div class="stream-container" id="streamContainer">
 <div class="post-list-container post-list-container-shadow">
-<div class="post-item-wrapper post-item-wrapper-no-hover">
-<div class="post-item post-item-no-gaps">
-<div class="post-item-info-wrapper">
-<div class="post-item-title post-item-title-small">
-<a href="/categories/">Categories</a> / 技术
-                    </div>
-</div>
-</div>
-</div><a class="a-block" href="/tech/github/">
-<div class="post-item-wrapper">
-<div class="post-item post-item-no-gaps">
-<div class="post-item-info-wrapper">
-<div class="post-item-title">
-                            Github小经验
-                        </div>
-<div class="post-item-meta">
-    2023-08-10
-     
-    
-    
-    
-     
-    
-</div>
-</div>
-</div>
-</div>
-</a><a class="a-block" href="/tech/py-deseq2/">
-<div class="post-item-wrapper">
-<div class="post-item post-item-no-gaps">
-<div class="post-item-info-wrapper">
-<div class="post-item-title">
-                            PyDESeq2：用Python做差异表达分析
-                        </div>
-<div class="post-item-meta">
-    2023-08-09
-     
-    
-    
-    
-     
-    
+<div class="post">
+<div class="post-head-wrapper-text-only">
+<div class="post-title">
+                    Github小经验
+                    
+                    <div class="post-meta">
+<time itemprop="datePublished">
+                            2023-08-10
+                        </time>
+<i class="material-icons" style="">folder</i>
+<a href="/categories/%E6%8A%80%E6%9C%AF">技术</a>
+                                 
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+<a href="/tags/%E5%B0%8F%E7%BB%8F%E9%AA%8C">小经验</a>
+                                 
+                            
+                        
+                        
+                        
+                        
+                            <span id="busuanzi_container_page_pv">阅读<span id="busuanzi_value_page_pv"></span>次</span>
 </div>
 </div>
 </div>
-</div>
-</a><a class="a-block" href="/tech/snakemake/">
-<div class="post-item-wrapper">
-<div class="post-item post-item-no-gaps">
-<div class="post-item-info-wrapper">
-<div class="post-item-title">
-                            Snakemake：构建生物信息分析流程
-                        </div>
-<div class="post-item-meta">
-    2023-08-08
-     
-    
-    
-    
-     
-    
+<div class="post-body-wrapper">
+<div class="post-body" v-pre="">
+<ul>
+<li>无法<code>wget raw.githubusercontent.com</code></li>
+</ul>
+<div class="highlight"><pre style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;" tabindex="0"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo sed -i <span style="color:#cd5555">'$a\185.199.109.133 raw.githubusercontent.com'</span> /etc/hosts
+</span></span></code></pre></div>
+<hr id="EOF" width="100%"/>
+<p style="color:#777;">Last modified on 2023-08-10</p>
 </div>
 </div>
+<nav class="post-pagination">
+<a class="newer-posts">
+			Next<br/>No newer posts.
+                </a>
+<a class="older-posts" href="/tech/py-deseq2/">
+			Previous<br/>PyDESeq2：用Python做差异表达分析
+                </a>
+</nav>
+<div class="post-comment-wrapper">
 </div>
 </div>
-</a></div>
+</div>
 </div>
 </div><div class="side-container" id="sideContainer">
 <a class="a-block nav-head false" href="https://kiyomizu.cc/">
@@ -156,7 +141,7 @@
 <a class="a-block nav-link-item false" href="/book">
                 书评
             </a>
-<a class="a-block nav-link-item false" href="/tech">
+<a class="a-block nav-link-item active" href="/tech">
                 技术
             </a>
 <a class="a-block nav-link-item false" href="/anthology">
@@ -193,6 +178,8 @@ Ported from <a href="https://mak1t0.cc/" rel="noreferrer noopener" target="_blan
 </div>
 </div><div class="extra-container" id="extraContainer">
 <div class="toc-wrapper">
+<div class="toc">
+</div>
 </div>
 <div class="pagination">
 <a :class="{ invisible: scrollY == 0 }" class="pagination-action animated-visibility" href="#top" id="globalBackToTop">
@@ -206,8 +193,7 @@ Ported from <a href="https://mak1t0.cc/" rel="noreferrer noopener" target="_blan
             </span>
 </a>
 </div>
-</div>
-<div id="single-column-footer">
+</div><div id="single-column-footer">
 Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
 <br/>
 Ported from <a href="https://mak1t0.cc/" rel="noreferrer noopener" target="_blank">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" rel="noreferrer noopener" target="_blank">Journal.</a> <br/>

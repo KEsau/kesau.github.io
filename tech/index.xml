@@ -9,9 +9,18 @@
     <copyright>Kiyomizu 2022-2023</copyright>
     <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Github小经验</title>
+      <link>https://kiyomizu.cc/tech/github/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tech/github/</guid>
+      <description> 无法wget raw.githubusercontent.com sudo sed -i &amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39; /etc/hosts </description>
+    </item>
+    
+    <item>
       <title>PyDESeq2：用Python做差异表达分析</title>
       <link>https://kiyomizu.cc/tech/py-deseq2/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kiyomizu.cc/tech/py-deseq2/</guid>
       <description>pydeseq2.readthedocs.io</description>
@@ -20,7 +29,7 @@
     <item>
       <title>Snakemake：构建生物信息分析流程</title>
       <link>https://kiyomizu.cc/tech/snakemake/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kiyomizu.cc/tech/snakemake/</guid>
       <description>snakemake.readthedocs.io</description>
