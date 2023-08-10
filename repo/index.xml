@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Repoes on Kiyomizu</title>
+    <title>Repo on Kiyomizu</title>
     <link>https://kiyomizu.cc/repo/</link>
-    <description>Recent content in Repoes on Kiyomizu</description>
+    <description>Recent content in Repo on Kiyomizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kiyomizu 2022-2023</copyright>
