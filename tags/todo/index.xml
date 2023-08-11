@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kiyomizu 2022-2023</copyright>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>知识考古学</title>
+      <link>https://kiyomizu.cc/book/the-archaeology-of-knowledge/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/book/the-archaeology-of-knowledge/</guid>
+      <description>书籍介绍 《知识考古学》犹如思想的空中楼阁，以非连续性、断裂、差异的考古学反对连续性、起源、总体化的观念史，通过对话语形成与陈述进行分析，呈现作为主体的“人”和知识在话语实践中被建构的过程，深入剖析“人之死”的主题，最终建构一种基于“话语实践—知识—科学”的考古学。
+(摘自豆瓣读书)</description>
+    </item>
+    
     <item>
       <title>PyDESeq2：用Python做差异表达分析</title>
       <link>https://kiyomizu.cc/tech/py-deseq2/</link>

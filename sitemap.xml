@@ -14,10 +14,19 @@
     <loc>https://kiyomizu.cc/tags/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kiyomizu.cc/tags/todo/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kiyomizu.cc/categories/%E4%B9%A6%E8%AF%84/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kiyomizu.cc/tags/%E5%93%B2%E5%AD%A6/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kiyomizu.cc/book/sci-guide/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/book/the-archaeology-of-knowledge/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</loc>
@@ -41,9 +50,6 @@
     <loc>https://kiyomizu.cc/tags/python/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kiyomizu.cc/tags/todo/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kiyomizu.cc/tech/snakemake/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -51,9 +57,6 @@
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/repo/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kiyomizu.cc/tags/%E5%93%B2%E5%AD%A6/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/categories/%E8%BD%AC%E8%BD%BD/</loc>
