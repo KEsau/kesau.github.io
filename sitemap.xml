@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kiyomizu.cc/categories/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <loc>https://kiyomizu.cc/book/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kiyomizu.cc/tech/github/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <loc>https://kiyomizu.cc/categories/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/tags/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/categories/%E4%B9%A6%E8%AF%84/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/book/sci-guide/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</loc>
+    <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/tech/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kiyomizu.cc/tags/%E5%B0%8F%E7%BB%8F%E9%AA%8C/</loc>
+    <loc>https://kiyomizu.cc/tech/problem-solutions/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/tech/py-deseq2/</loc>
@@ -59,17 +71,8 @@
     <loc>https://kiyomizu.cc/anthology/sheng-wu-xue-ping-lun/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kiyomizu.cc/diary/</loc>
     <lastmod>2023-08-04T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://kiyomizu.cc/book/</loc>
-    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kiyomizu.cc/categories/%E4%B9%A6%E8%AF%84/</loc>
-    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/tags/%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2023-07-28T00:00:00+00:00</lastmod>

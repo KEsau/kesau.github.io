@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>解决方案 on Kiyomizu</title>
+    <link>https://kiyomizu.cc/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
+    <description>Recent content in 解决方案 on Kiyomizu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Kiyomizu 2022-2023</copyright>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小经验</title>
+      <link>https://kiyomizu.cc/tech/problem-solutions/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tech/problem-solutions/</guid>
+      <description> 无法wget raw.githubusercontent.com sudo sed -i &amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39; /etc/hosts </description>
+    </item>
+    
+  </channel>
+</rss>

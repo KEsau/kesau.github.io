@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kiyomizu 2022-2023</copyright>
-    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>小经验</title>
-      <link>https://kiyomizu.cc/tags/%E5%B0%8F%E7%BB%8F%E9%AA%8C/</link>
+      <title>科学</title>
+      <link>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>解决方案</title>
+      <link>https://kiyomizu.cc/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://kiyomizu.cc/tags/%E5%B0%8F%E7%BB%8F%E9%AA%8C/</guid>
+      <guid>https://kiyomizu.cc/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid>
       <description></description>
     </item>
     
@@ -50,15 +59,6 @@
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kiyomizu.cc/tags/%E6%95%99%E8%82%B2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>科学</title>
-      <link>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/tags/%E7%A7%91%E5%AD%A6/</guid>
       <description></description>
     </item>
     

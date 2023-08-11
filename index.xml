@@ -7,18 +7,56 @@
 <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>Kiyomizu 2022-2023</copyright>
-<lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
 <atom:link href="https://kiyomizu.cc/index.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Github小经验</title>
-<link>https://kiyomizu.cc/tech/github/</link>
+<title>现代科研指北</title>
+<link>https://kiyomizu.cc/book/sci-guide/</link>
+<pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+<guid>https://kiyomizu.cc/book/sci-guide/</guid>
+<description>Kiyomizu https://kiyomizu.cc/book/sci-guide/ -&lt;h1 id="书籍介绍"&gt;书籍介绍&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;figure align="Left" role="group" aria-describedby="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
+  &lt;a href="https://kiyomizu.cc/book/sci-guide/cover.jpg" class="img-link"&gt;
+    &lt;img src="https://kiyomizu.cc/book/sci-guide/cover_hub4cb4bb6a533b007781eb63d788e931b_62440_200x300_resize_q75_box.jpg"&gt;
+  &lt;/a&gt;
+  &lt;figcaption id="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;结合作者个人海内外十余年的科研经历，详细讨论了现代社会中科研的现状、特点、趋势及存在的问题，并列举了进行科研活动，特别是科学实验、数据分析、文献管理，以及在学术生活中，所需的重要研究思维与技能，最后讨论了高学历科研人员的就业问题&lt;/p&gt;
+&lt;p&gt;(摘自&lt;a href="https://book.douban.com/subject/1219953/"&gt;豆瓣读书&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="评论"&gt;评论&lt;/h1&gt;
+&lt;p&gt;本书是一部“内鬼”作品。作者经历过整个科学家成长过程，知道其中的艰难，却仍然在到达彼岸之后留下这样一部坦率的《指北》，并在互联网上提供了&lt;a href="https://bookdown.org/yufree/sciguide/"&gt;全书的开源版本&lt;/a&gt;，堪称高风亮节、学者楷模。&lt;/p&gt;
+&lt;p&gt;教历史的道炫老师曾在课堂上谈论日记史料的真实性问题，他的经验是：“人人都喜欢美化自己，贬低别人。所以如果一个人不得不说自己的坏话、说敌人的好话时，那大概是比较可信的”。“内鬼”作品之所以可信，正是因为作品的立场与作者按照传统观念应该处在的立场不同。这种错位是有原因的，我相信这种原因是他们&lt;strong&gt;早年反省时的真诚和良知&lt;/strong&gt;。然而大多数人都已经失去了：恶劣的人过河拆桥；一些人挑选自己喜欢的记忆片段，构建一个具有感染力的人生故事；其他人则选择封存那段艰难的时光，向前看。&lt;/p&gt;
+&lt;p&gt;想要了解科学界的运作方式，科学家的成长历程，就一定不要听信他们自己的故事，而是要看一看他们本科的成绩单，研究生的实验记录，和申请工作时的简历。那些他们语焉不详的过往，才是学术界真实的面貌。&lt;/p&gt;
+- https://kiyomizu.cc/book/sci-guide/ - Kiyomizu 2022-2023</description>
+</item>
+<item>
+<title>小经验</title>
+<link>https://kiyomizu.cc/tech/problem-solutions/</link>
 <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-<guid>https://kiyomizu.cc/tech/github/</guid>
-<description>Kiyomizu https://kiyomizu.cc/tech/github/ -&lt;ul&gt;
+<guid>https://kiyomizu.cc/tech/problem-solutions/</guid>
+<description>Kiyomizu https://kiyomizu.cc/tech/problem-solutions/ -&lt;ul&gt;
 &lt;li&gt;无法&lt;code&gt;wget raw.githubusercontent.com&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo sed -i &lt;span style="color:#cd5555"&gt;&amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39;&lt;/span&gt; /etc/hosts
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- https://kiyomizu.cc/tech/github/ - Kiyomizu 2022-2023</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- https://kiyomizu.cc/tech/problem-solutions/ - Kiyomizu 2022-2023</description>
 </item>
 <item>
 <title>PyDESeq2：用Python做差异表达分析</title>
@@ -486,40 +524,6 @@
 &lt;p&gt;If you are in a position of leadership in science then you should try to persuade the funding agencies to train fewer Ph.D.s. The glut of scientists is entirely the consequence of funding policies (almost all graduate education is paid for by federal grants). The funding agencies are bemoaning the scarcity of young people interested in science when they themselves caused this scarcity by destroying science as a career. They could reverse this situation by matching the number trained to the demand, but they refuse to do so, or even to discuss the problem seriously (for many years the NSF propagated a dishonest prediction of a coming shortage of scientists, and most funding agencies still act as if this were true). The result is that the best young people, who should go into science, sensibly refuse to do so, and the graduate schools are filled with weak American students and with foreigners lured by the American student visa.&lt;/p&gt;
 &lt;p&gt;(Repost from &lt;a href="http://yangxiao.cs.ua.edu/Don't%20Become%20a%20Scientist!.htm"&gt;http://yangxiao.cs.ua.edu/Don&amp;rsquo;t%20Become%20a%20Scientist!.htm&lt;/a&gt;)&lt;/p&gt;
 - https://kiyomizu.cc/repo/don-t-become-a-scientist/ - Kiyomizu 2022-2023</description>
-</item>
-<item>
-<title>发现社会</title>
-<link>https://kiyomizu.cc/book/the-discovery-of-society/</link>
-<pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-<guid>https://kiyomizu.cc/book/the-discovery-of-society/</guid>
-<description>Kiyomizu https://kiyomizu.cc/book/the-discovery-of-society/ -&lt;h1 id="书籍介绍"&gt;书籍介绍&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;figure align="Left" role="group" aria-describedby="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
-  &lt;a href="https://kiyomizu.cc/book/the-discovery-of-society/cover.jpg" class="img-link"&gt;
-    &lt;img src="https://kiyomizu.cc/book/the-discovery-of-society/cover_hua3d11ac69e84f11629551c77bb4bf60d_61900_200x300_resize_q75_box.jpg"&gt;
-  &lt;/a&gt;
-  &lt;figcaption id="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
-    
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;blockquote&gt;
-&lt;p&gt;全书以人物为主线，勾画了二百多年来西方社会学思想与实践的发展历程，不仅阐述了各个经典传统的发展，还讨论了当代理论的各种发展方向。作者叙述人物生平，往往着墨不多而有传神之处。评述各派思想，多结合当时的社会背景及知识潮流，溯其源头，追其余脉，使对各种思想潮流的介绍既简洁又深入。&lt;/p&gt;
-&lt;p&gt;(摘自&lt;a href="https://book.douban.com/subject/25924609/"&gt;豆瓣读书&lt;/a&gt;)&lt;/p&gt;
-&lt;/blockquote&gt;
-- https://kiyomizu.cc/book/the-discovery-of-society/ - Kiyomizu 2022-2023</description>
 </item>
 </channel>
 </rss>

@@ -9,11 +9,11 @@
     <copyright>Kiyomizu 2022-2023</copyright>
     <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Github小经验</title>
-      <link>https://kiyomizu.cc/tech/github/</link>
+      <title>小经验</title>
+      <link>https://kiyomizu.cc/tech/problem-solutions/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://kiyomizu.cc/tech/github/</guid>
+      <guid>https://kiyomizu.cc/tech/problem-solutions/</guid>
       <description> 无法wget raw.githubusercontent.com sudo sed -i &amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39; /etc/hosts </description>
     </item>
     
