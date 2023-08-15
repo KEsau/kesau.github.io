@@ -7,35 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kiyomizu 2022-2023</copyright>
-    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/todo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>知识考古学</title>
-      <link>https://kiyomizu.cc/book/the-archaeology-of-knowledge/</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/book/the-archaeology-of-knowledge/</guid>
-      <description>书籍介绍 《知识考古学》犹如思想的空中楼阁，以非连续性、断裂、差异的考古学反对连续性、起源、总体化的观念史，通过对话语形成与陈述进行分析，呈现作为主体的“人”和知识在话语实践中被建构的过程，深入剖析“人之死”的主题，最终建构一种基于“话语实践—知识—科学”的考古学。
-(摘自豆瓣读书)</description>
-    </item>
-    
-    <item>
-      <title>PyDESeq2：用Python做差异表达分析</title>
-      <link>https://kiyomizu.cc/tech/py-deseq2/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/tech/py-deseq2/</guid>
-      <description>pydeseq2.readthedocs.io</description>
-    </item>
-    
-    <item>
-      <title>Snakemake：构建生物信息分析流程</title>
-      <link>https://kiyomizu.cc/tech/snakemake/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/tech/snakemake/</guid>
-      <description>snakemake.readthedocs.io</description>
-    </item>
-    
+    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kiyomizu.cc/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生命科学与教育</title>
       <link>https://kiyomizu.cc/anthology/sheng-wu-xue-ping-lun/</link>
@@ -66,36 +38,6 @@
 传授最基本的生物学知识，避免学生因为不知道“三羧酸循环发生在线粒体”而被面试官嫌弃 介绍主流的生物学研究历史和中心法则，为日后写论文的Introduction部分准备大旗、虎皮 核心课不应奢谈什么全面介绍、深入了解，只要课程完成了这两项任务，就可以算是做了好事。 具体来说，在学期初即应该印发一份《背诵清单》，将最核心的知识列出来，交同学们背诵，内容可以照抄英文教材的目录 （近年出版的英文教材，目录都极其详细，一般是用一个陈述句精炼地概括一节的内容，不故弄玄虚）。 期末考试则直接出填空题，只要题量足够，不必担心成绩分布问题。
 课堂上，教师在每个主题都可以广泛地介绍前沿科学发现、带读文献，给未来的科学家提供一幅科研世界的实时地图，而非科学世界的过时地图。 老师讲的好，学生期待有所收获而去听课； 老师讲的不好，学生都自己背书，旗鼓相当。 醉心科研，课题方向已定的同学，可以完全不听，直接考试； 尚在迷茫的同学或许就在课堂上发现了自己的兴趣。
 这是完全的教考分离。的确，但生科正需要教考分离将教学从考试的阴影中解放出来！</description>
-    </item>
-    
-    <item>
-      <title>历史的辉格解释</title>
-      <link>https://kiyomizu.cc/book/the-whig-interpretation-of-history/</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/book/the-whig-interpretation-of-history/</guid>
-      <description>书籍介绍 这部作品终结了一个时代的历史写作。它使历史学家进入到自我反思和小心谨慎的状态。我们只能从两到三本书中获得关于历史编纂问题的富有成果的现代思考，这本书就是其中之一。
-(摘自豆瓣读书)</description>
-    </item>
-    
-    <item>
-      <title>词与物</title>
-      <link>https://kiyomizu.cc/book/les-mots-et-les-choses/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/book/les-mots-et-les-choses/</guid>
-      <description>书籍介绍 福柯在本书中运用历史话语分析（又称“知识考古学”）的手法对自文艺复兴以来直至20世纪的整个西方“人文科学”（Humanwissenschaften）的知识构成以及文化和知识史都作了细致入微的、富有创见和深度的梳理和剖析。他指出这里的人文科学指的是将“人”作为研究对象，将“人”设计并定义成某种认知构造物的科学，围绕这个对象而生产的人文科学，可被认可为真理话语。针对此“真理话语”，福柯试图从根本上驱除笼罩在当代知识形式的决定性条件之上的人类学主体主义的迷雾，批判了自笛卡尔、尤其自康德以来200多年西方哲学传统的先验意识哲学和主体主义。在《语与物》的最后一页，福柯写道：“人将被抹去，如同大海边沙地上的一张脸。”
-(摘自豆瓣读书)</description>
-    </item>
-    
-    <item>
-      <title>发现社会</title>
-      <link>https://kiyomizu.cc/book/the-discovery-of-society/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/book/the-discovery-of-society/</guid>
-      <description>书籍介绍 全书以人物为主线，勾画了二百多年来西方社会学思想与实践的发展历程，不仅阐述了各个经典传统的发展，还讨论了当代理论的各种发展方向。作者叙述人物生平，往往着墨不多而有传神之处。评述各派思想，多结合当时的社会背景及知识潮流，溯其源头，追其余脉，使对各种思想潮流的介绍既简洁又深入。
-(摘自豆瓣读书)</description>
     </item>
     
   </channel>

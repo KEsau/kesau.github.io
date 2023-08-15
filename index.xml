@@ -48,40 +48,6 @@
 - https://kiyomizu.cc/book/sci-guide/ - Kiyomizu 2022-2023</description>
 </item>
 <item>
-<title>知识考古学</title>
-<link>https://kiyomizu.cc/book/the-archaeology-of-knowledge/</link>
-<pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-<guid>https://kiyomizu.cc/book/the-archaeology-of-knowledge/</guid>
-<description>Kiyomizu https://kiyomizu.cc/book/the-archaeology-of-knowledge/ -&lt;h1 id="书籍介绍"&gt;书籍介绍&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;figure align="Left" role="group" aria-describedby="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
-  &lt;a href="https://kiyomizu.cc/book/the-archaeology-of-knowledge/cover.jpg" class="img-link"&gt;
-    &lt;img src="https://kiyomizu.cc/book/the-archaeology-of-knowledge/cover_hu5198247b3796f54eed532c46058e0d2f_74902_200x300_resize_q75_box.jpg"&gt;
-  &lt;/a&gt;
-  &lt;figcaption id="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
-    
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;blockquote&gt;
-&lt;p&gt;《知识考古学》犹如思想的空中楼阁，以非连续性、断裂、差异的考古学反对连续性、起源、总体化的观念史，通过对话语形成与陈述进行分析，呈现作为主体的“人”和知识在话语实践中被建构的过程，深入剖析“人之死”的主题，最终建构一种基于“话语实践—知识—科学”的考古学。&lt;/p&gt;
-&lt;p&gt;(摘自&lt;a href="https://book.douban.com/subject/35508423/"&gt;豆瓣读书&lt;/a&gt;)&lt;/p&gt;
-&lt;/blockquote&gt;
-- https://kiyomizu.cc/book/the-archaeology-of-knowledge/ - Kiyomizu 2022-2023</description>
-</item>
-<item>
 <title>小经验</title>
 <link>https://kiyomizu.cc/tech/problem-solutions/</link>
 <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
@@ -91,22 +57,6 @@
 &lt;/ul&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo sed -i &lt;span style="color:#cd5555"&gt;&amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39;&lt;/span&gt; /etc/hosts
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- https://kiyomizu.cc/tech/problem-solutions/ - Kiyomizu 2022-2023</description>
-</item>
-<item>
-<title>PyDESeq2：用Python做差异表达分析</title>
-<link>https://kiyomizu.cc/tech/py-deseq2/</link>
-<pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-<guid>https://kiyomizu.cc/tech/py-deseq2/</guid>
-<description>Kiyomizu https://kiyomizu.cc/tech/py-deseq2/ -&lt;p&gt;&lt;a href="https://pydeseq2.readthedocs.io/en/latest/"&gt;pydeseq2.readthedocs.io&lt;/a&gt;&lt;/p&gt;
-- https://kiyomizu.cc/tech/py-deseq2/ - Kiyomizu 2022-2023</description>
-</item>
-<item>
-<title>Snakemake：构建生物信息分析流程</title>
-<link>https://kiyomizu.cc/tech/snakemake/</link>
-<pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-<guid>https://kiyomizu.cc/tech/snakemake/</guid>
-<description>Kiyomizu https://kiyomizu.cc/tech/snakemake/ -&lt;p&gt;&lt;a href="https://snakemake.readthedocs.io/en/stable/index.html"&gt;snakemake.readthedocs.io&lt;/a&gt;&lt;/p&gt;
-- https://kiyomizu.cc/tech/snakemake/ - Kiyomizu 2022-2023</description>
 </item>
 <item>
 <title>(转载) 尼采，谱系学，历史学</title>
@@ -468,45 +418,60 @@
 - https://kiyomizu.cc/diary/ - Kiyomizu 2022-2023</description>
 </item>
 <item>
-<title>历史的辉格解释</title>
-<link>https://kiyomizu.cc/book/the-whig-interpretation-of-history/</link>
-<pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-<guid>https://kiyomizu.cc/book/the-whig-interpretation-of-history/</guid>
-<description>Kiyomizu https://kiyomizu.cc/book/the-whig-interpretation-of-history/ -&lt;h1 id="书籍介绍"&gt;书籍介绍&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;figure align="Left" role="group" aria-describedby="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
-  &lt;a href="https://kiyomizu.cc/book/the-whig-interpretation-of-history/cover.jpg" class="img-link"&gt;
-    &lt;img src="https://kiyomizu.cc/book/the-whig-interpretation-of-history/cover_hu07dd3e82e572cf6ce9626be14fb80de6_7363_200x300_resize_q75_box.jpg"&gt;
-  &lt;/a&gt;
-  &lt;figcaption id="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
-    
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这部作品终结了一个时代的历史写作。它使历史学家进入到自我反思和小心谨慎的状态。我们只能从两到三本书中获得关于历史编纂问题的富有成果的现代思考，这本书就是其中之一。&lt;/p&gt;
-&lt;p&gt;(摘自&lt;a href="https://book.douban.com/subject/21323553/"&gt;豆瓣读书&lt;/a&gt;)&lt;/p&gt;
-&lt;/blockquote&gt;
-- https://kiyomizu.cc/book/the-whig-interpretation-of-history/ - Kiyomizu 2022-2023</description>
+<title>(Repost) Don't Become a Scientist!</title>
+<link>https://kiyomizu.cc/repo/don-t-become-a-scientist/</link>
+<pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+<guid>https://kiyomizu.cc/repo/don-t-become-a-scientist/</guid>
+<description>Kiyomizu https://kiyomizu.cc/repo/don-t-become-a-scientist/ -&lt;p&gt;&lt;em&gt;Jonathan I. Katz&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Professor of Physics&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Washington University, St. Louis, Mo.&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;&lt;a href="mailto:katz@wuphys.wustl.edu"&gt;katz@wuphys.wustl.edu&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(中文版更精彩：&lt;a href="https://jerkwin.github.io/2014/08/23/%E8%BD%AC-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%95%99%E6%8E%88-%E5%8D%83%E4%B8%87%E5%88%AB%E6%88%90%E4%B8%BA%E7%A7%91%E5%AD%A6%E5%AE%B6/"&gt;https://jerkwin.github.io/2014/08/23/转-华盛顿教授-千万别成为科学家&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Are you thinking of becoming a scientist? Do you want to uncover the mysteries of nature, perform experiments or carry out calculations to learn how the world works? Forget it!&lt;/p&gt;
+&lt;p&gt;Science is fun and exciting. The thrill of discovery is unique. If you are smart, ambitious and hard working you should major in science as an undergraduate. But that is as far as you should take it. After graduation, you will have to deal with the real world. That means that you should not even consider going to graduate school in science. Do something else instead: medical school, law school, computers or engineering, or something else which appeals to you.&lt;/p&gt;
+&lt;p&gt;Why am I (a tenured professor of physics) trying to discourage you from following a career path which was successful for me? Because times have changed (I received my Ph.D. in 1973, and tenure in 1976). American science no longer offers a reasonable career path. If you go to graduate school in science it is in the expectation of spending your working life doing scientific research, using your ingenuity and curiosity to solve important and interesting problems. You will almost certainly be disappointed, probably when it is too late to choose another career.&lt;/p&gt;
+&lt;p&gt;American universities train roughly twice as many Ph.D.s as there are jobs for them. When something, or someone, is a glut on the market, the price drops. In the case of Ph.D. scientists, the reduction in price takes the form of many years spent in ``holding pattern&amp;rsquo;&amp;rsquo; postdoctoral jobs. Permanent jobs don&amp;rsquo;t pay much less than they used to, but instead of obtaining a real job two years after the Ph.D. (as was typical 25 years ago) most young scientists spend five, ten, or more years as postdocs. They have no prospect of permanent employment and often must obtain a new postdoctoral position and move every two years. For many more details consult the Young Scientists&amp;rsquo; Network or read the account in the May, 2001 issue of the Washington Monthly.&lt;/p&gt;
+&lt;p&gt;As examples, consider two of the leading candidates for a recent Assistant Professorship in my department. One was 37, ten years out of graduate school (he didn&amp;rsquo;t get the job). The leading candidate, whom everyone thinks is brilliant, was 35, seven years out of graduate school. Only then was he offered his first permanent job (that&amp;rsquo;s not tenure, just the possibility of it six years later, and a step off the treadmill of looking for a new job every two years). The latest example is a 39 year old candidate for another Assistant Professorship; he has published 35 papers. In contrast, a doctor typically enters private practice at 29, a lawyer at 25 and makes partner at 31, and a computer scientist with a Ph.D. has a very good job at 27 (computer science and engineering are the few fields in which industrial demand makes it sensible to get a Ph.D.). Anyone with the intelligence, ambition and willingness to work hard to succeed in science can also succeed in any of these other professions.&lt;/p&gt;
+&lt;p&gt;Typical postdoctoral salaries begin at $27,000 annually in the biological sciences and about $35,000 in the physical sciences (graduate student stipends are less than half these figures). Can you support a family on that income? It suffices for a young couple in a small apartment, though I know of one physicist whose wife left him because she was tired of repeatedly moving with little prospect of settling down. When you are in your thirties you will need more: a house in a good school district and all the other necessities of ordinary middle class life. Science is a profession, not a religious vocation, and does not justify an oath of poverty or celibacy.&lt;/p&gt;
+&lt;p&gt;Of course, you don&amp;rsquo;t go into science to get rich. So you choose not to go to medical or law school, even though a doctor or lawyer typically earns two to three times as much as a scientist (one lucky enough to have a good senior-level job). I made that choice too. I became a scientist in order to have the freedom to work on problems which interest me. But you probably won&amp;rsquo;t get that freedom. As a postdoc you will work on someone else&amp;rsquo;s ideas, and may be treated as a technician rather than as an independent collaborator. Eventually, you will probably be squeezed out of science entirely. You can get a fine job as a computer programmer, but why not do this at 22, rather than putting up with a decade of misery in the scientific job market first? The longer you spend in science the harder you will find it to leave, and the less attractive you will be to prospective employers in other fields.&lt;/p&gt;
+&lt;p&gt;Perhaps you are so talented that you can beat the postdoc trap; some university (there are hardly any industrial jobs in the physical sciences) will be so impressed with you that you will be hired into a tenure track position two years out of graduate school. Maybe. But the general cheapening of scientific labor means that even the most talented stay on the postdoctoral treadmill for a very long time; consider the job candidates described above. And many who appear to be very talented, with grades and recommendations to match, later find that the competition of research is more difficult, or at least different, and that they must struggle with the rest.&lt;/p&gt;
+&lt;p&gt;Suppose you do eventually obtain a permanent job, perhaps a tenured professorship. The struggle for a job is now replaced by a struggle for grant support, and again there is a glut of scientists. Now you spend your time writing proposals rather than doing research. Worse, because your proposals are judged by your competitors you cannot follow your curiosity, but must spend your effort and talents on anticipating and deflecting criticism rather than on solving the important scientific problems. They&amp;rsquo;re not the same thing: you cannot put your past successes in a proposal, because they are finished work, and your new ideas, however original and clever, are still unproven. It is proverbial that original ideas are the kiss of death for a proposal; because they have not yet been proved to work (after all, that is what you are proposing to do) they can be, and will be, rated poorly. Having achieved the promised land, you find that it is not what you wanted after all.&lt;/p&gt;
+&lt;p&gt;What can be done? The first thing for any young person (which means anyone who does not have a permanent job in science) to do is to pursue another career. This will spare you the misery of disappointed expectations. Young Americans have generally woken up to the bad prospects and absence of a reasonable middle class career path in science and are deserting it. If you haven&amp;rsquo;t yet, then join them. Leave graduate school to people from India and China, for whom the prospects at home are even worse. I have known more people whose lives have been ruined by getting a Ph.D. in physics than by drugs.&lt;/p&gt;
+&lt;p&gt;If you are in a position of leadership in science then you should try to persuade the funding agencies to train fewer Ph.D.s. The glut of scientists is entirely the consequence of funding policies (almost all graduate education is paid for by federal grants). The funding agencies are bemoaning the scarcity of young people interested in science when they themselves caused this scarcity by destroying science as a career. They could reverse this situation by matching the number trained to the demand, but they refuse to do so, or even to discuss the problem seriously (for many years the NSF propagated a dishonest prediction of a coming shortage of scientists, and most funding agencies still act as if this were true). The result is that the best young people, who should go into science, sensibly refuse to do so, and the graduate schools are filled with weak American students and with foreigners lured by the American student visa.&lt;/p&gt;
+&lt;p&gt;(Repost from &lt;a href="http://yangxiao.cs.ua.edu/Don't%20Become%20a%20Scientist!.htm"&gt;http://yangxiao.cs.ua.edu/Don&amp;rsquo;t%20Become%20a%20Scientist!.htm&lt;/a&gt;)&lt;/p&gt;
+- https://kiyomizu.cc/repo/don-t-become-a-scientist/ - Kiyomizu 2022-2023</description>
 </item>
 <item>
-<title>词与物</title>
-<link>https://kiyomizu.cc/book/les-mots-et-les-choses/</link>
-<pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-<guid>https://kiyomizu.cc/book/les-mots-et-les-choses/</guid>
-<description>Kiyomizu https://kiyomizu.cc/book/les-mots-et-les-choses/ -&lt;h1 id="书籍介绍"&gt;书籍介绍&lt;/h1&gt;
+<title>(转载) 语言腐败及其危害</title>
+<link>https://kiyomizu.cc/repo/yv-yan-fu-bai/</link>
+<pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+<guid>https://kiyomizu.cc/repo/yv-yan-fu-bai/</guid>
+<description>Kiyomizu https://kiyomizu.cc/repo/yv-yan-fu-bai/ -&lt;p&gt;&lt;em&gt;张维迎&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;当一个人已经腐化而侮辱了他的思想的纯洁，从而宣扬他自己所不相信的东西，他已经准备犯其他任何的罪行。&lt;/p&gt;
+&lt;p align="right"&gt;——托马斯·潘恩&lt;/p&gt;
+&lt;p&gt;腐败一词，是当今中国使用频率最高的词汇之一。腐败的种类五花八门，政治腐败，官员腐败，公司腐败，司法腐败，学术腐败，教育腐败，甚至足球腐败，等等。但有一类更为普遍，其危害性也更为严重的腐败，却并没有受到足够的重视。这就是语言腐败。&lt;/p&gt;
+&lt;p&gt;所谓语言腐败，是指人们出于经济的、政治的、意识形态的目的，随意改变词汇的含义，甚至赋予它们与原来的意思完全不同的含义，忽悠民众，操纵人心。语言腐败的典型形式是冠恶行以美名，或冠善行以恶名。轰轰烈烈的重庆“打黑”就是一个典型的例子。“打黑”变成了“黑打”，变成了侵犯人权和私有财产的政治行为。&lt;/p&gt;
+&lt;p&gt;事实上，左的东西之所以能流行，有市场，有人追随，一个重要原因是左派人士善于语言腐败。这方面，“文革”时期可以说登峰造极。把摧残人性、毁灭文化的行动，说成是“文化大革命”；把整人说成是“整风”；把任何反对他们的人说成是“反革命分子”；把含冤自杀的人，说成是“自绝于人民”；把闭关锁国说成是“独立自主”；把学习国外的先进技术和文化说成是“崇洋媚外”。如此等等，不胜枚举。正因为善于语言腐败，以致至今仍然影响我们的生活。&lt;/p&gt;
+&lt;p&gt;语言腐败这个词并非我的杜撰，它最初是英国作家乔治·奥威尔于1946年在一篇文章中提出来的，现在已成为政治哲学理论中的经典术语。语言腐败的现象自古有之，但应该说，只是在20世纪，才变成社会公害。奥威尔的《一九八四》为我们提供了许多经典的例子：专门制造假新闻的部门被冠名为“真理部”；监督、逮捕和迫害异己人士的秘密警察部门被冠名为“友爱部”；发动战争的部门被冠名为“和平部”；自由就是奴役；和平就是战争；无知就是力量。这当然是小说里的事情，但与现实相距并不远。&lt;/p&gt;
+&lt;p&gt;语言腐败在当今中国已到了什么样的地步呢？许多词汇在一定程度都已经腐败了，甚至腐败这个词本身也已经腐败了。当一个官员说他是人民的“公仆”时，他实际上是说，权力在他手里，你得听他的。再以“改革”为例，最近几年，一些政府部门把加强政府对经济的控制、限制商业自由的反改革政策称为“改革”，甚至是“进一步深化改革的措施”。宏观调控本来指的是总量上的放松或抽紧，而我们现在所谓的“宏观调控”经常指的是对经济活动的微观干预，包括准入限制和价格管制。国有控股公司宣称已经建立了“现代企业制度”，而事实上他们的董事会连选择副总经理的权力都没有，何谈现代企业制度？&lt;/p&gt;
+&lt;p&gt;语言腐败有什么严重后果？至少有三个：&lt;/p&gt;
+&lt;p&gt;首先，语言腐败严重破坏了语言的交流功能，导致人类智力的退化。为了交流，语言词汇必须有普遍认可的特定含义。语言腐败意味着同一词汇在不同人的心目中有不同的含义，语言变成了文字游戏，使得人与人之间的交流变得困难。语言腐败使得我们越来越缺乏理性和逻辑思考能力，我们的大脑在萎缩，我们的文章越来越变成口号的堆砌，我们越来越习惯于以权压人或简单顺从，而不是以理服人和平等讨论。同一个文件中，以X为主导，以Y为主体，以Z为基础，但谁也说不清楚它们之间是什么关系。我们的文章越来越长，但包含的信息量越来越少。一个工作报告动辄一两万字，还要有人再写出数十万字的辅导材料，仍然让人不知所云。这是人类智力和物质资源的双重浪费。&lt;/p&gt;
+&lt;p&gt;第二，语言腐败导致道德堕落。人类道德的底线是诚实，语言腐败本质上是不诚实。就人类本性而言，说假话比干坏事在道德上更具挑战性。法院判决书经常有“罪犯对所犯罪行供认不讳”这样的话，说明即使一个人敢于做坏事，我们还相信他在事实面前不敢说假话。西方法庭上证人出庭作证，如果对方律师能证明证人是经常说谎的人，他的证词就不会被采纳。以此标准，我们的社会很难找到合格的证人。&lt;/p&gt;
+&lt;p&gt;美国独立战争期间的思想家托马斯·潘恩在《理性时代》一书中讲道：&lt;/p&gt;
+&lt;p&gt;　　为了人类的幸福，一个人在思想上必须对自己保持忠诚，所谓不忠诚不在于相信或不相信，而在于口称相信自己实在不相信的东西。&lt;/p&gt;
+&lt;p&gt;思想上的谎言在社会里所产生的道德上的损害，是无法计算的，如果我可以这样说的话。当一个人已经腐化而侮辱了他的思想的纯洁，从而宣扬他自己所不相信的东西，他已经准备犯其他任何的罪行。他做宣教师是为了自己的利益；并且为了获得做这个职业的资格起见，他必须从撒大谎开始。试问我们能否设想还有什么事情比这一个对于道德的破坏更大呢?&lt;/p&gt;
+&lt;p&gt;一句话，要让一个说假话脸不红的人干坏事时反倒脸红，实在是太难了，即使不是不可能的。由此来看，我们的官员腐败如此严重，我们的假冒伪劣产品如此之多，我们的社会道德如此堕落，就一点也不奇怪了。成天假话连篇的官员，在接受贿赂和以权谋私方面是不可能有道德约束的。当政府官员中语言和行为双重腐败泛滥时，生产假冒伪劣产品的商人很难觉得自己做了亏心事。而要让在谎言中接受教育和生活的人有社会公德，实在是难上加难。&lt;/p&gt;
+&lt;p&gt;第三，语言腐败导致社会走向的高度不确定和不可预测性。语言的一个重要功能是传递社会运行状态的信号，在语言严重腐败的情况下，信号就会严重失真，结果是，当一个社会事实上危机四伏的时候，我们还以为天下太平，对大难临头茫然不知。&lt;/p&gt;
+&lt;p&gt;我们能在多大程度上解决语言腐败问题，关涉中国未来的改革和发展，以及社会稳定。两千多年前孔子讲“名不正，则言不顺；言不顺，则事不成”，反语言腐败就是要正名，恢复语言词汇本来的含义。比如，既然称为“人民代表”，就必须真正反映选民的意志。如果确实做不到这一点，不妨换个新的说法。如果我们能消除50%危害最大的语言腐败，就有希望消除80%的官员腐败，我们的政府就会廉洁起来，我们的道德风尚就可以大大改善。&lt;/p&gt;
+&lt;p&gt;(&lt;em&gt;摘自《理念的力量》，西北大学出版社2014年10月版&lt;/em&gt;)&lt;/p&gt;
+- https://kiyomizu.cc/repo/yv-yan-fu-bai/ - Kiyomizu 2022-2023</description>
+</item>
+<item>
+<title>实验室生活</title>
+<link>https://kiyomizu.cc/book/laboratory-life/</link>
+<pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+<guid>https://kiyomizu.cc/book/laboratory-life/</guid>
+<description>Kiyomizu https://kiyomizu.cc/book/laboratory-life/ -&lt;h1 id="书籍介绍"&gt;书籍介绍&lt;/h1&gt;
 
 
 
@@ -522,18 +487,70 @@
 
 
 &lt;figure align="Left" role="group" aria-describedby="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
-  &lt;a href="https://kiyomizu.cc/book/les-mots-et-les-choses/cover.jpg" class="img-link"&gt;
-    &lt;img src="https://kiyomizu.cc/book/les-mots-et-les-choses/cover_hu416187df4c642c42a30304d425b73575_21190_200x300_resize_q75_box.jpg"&gt;
+  &lt;a href="https://kiyomizu.cc/book/laboratory-life/cover.jpg" class="img-link"&gt;
+    &lt;img src="https://kiyomizu.cc/book/laboratory-life/cover_hu296f942ce84aebe688fe7ec17acde51f_8324_200x300_resize_q75_box.jpg"&gt;
   &lt;/a&gt;
   &lt;figcaption id="caption-d41d8cd98f00b204e9800998ecf8427e"&gt;
     
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;blockquote&gt;
-&lt;p&gt;福柯在本书中运用历史话语分析（又称“知识考古学”）的手法对自文艺复兴以来直至20世纪的整个西方“人文科学”（Humanwissenschaften）的知识构成以及文化和知识史都作了细致入微的、富有创见和深度的梳理和剖析。他指出这里的人文科学指的是将“人”作为研究对象，将“人”设计并定义成某种认知构造物的科学，围绕这个对象而生产的人文科学，可被认可为真理话语。针对此“真理话语”，福柯试图从根本上驱除笼罩在当代知识形式的决定性条件之上的人类学主体主义的迷雾，批判了自笛卡尔、尤其自康德以来200多年西方哲学传统的先验意识哲学和主体主义。在《语与物》的最后一页，福柯写道：“人将被抹去，如同大海边沙地上的一张脸。”&lt;/p&gt;
-&lt;p&gt;(摘自&lt;a href="https://book.douban.com/subject/26838822/"&gt;豆瓣读书&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;科学家如何工作？他们如何“发现”科学事实？为试图回答这些问题，法国著名科学社会学家布鲁诺·拉图尔以及英国社会学家史蒂夫·伍尔加深入到美国的一个神经内分泌学实验室并与那里的教授共度两年时光，对科学家进行观察，看他们如何选择课题和申请基金，如何从事研究和发表论文，如何评级评奖等等。作者以自然主义的方式研究科学，特别探讨了科学的社会制约因素，触及人性、社会、理性和知识这些更大的问题，从一个全新的视角对科学事实的建构做了独到的诠释。本书是科学社会学也是国外社会学研究的前沿领域SSK的经典之作。&lt;/p&gt;
+&lt;p&gt;(摘自&lt;a href="https://book.douban.com/subject/1219953/"&gt;豆瓣读书&lt;/a&gt;)&lt;/p&gt;
 &lt;/blockquote&gt;
-- https://kiyomizu.cc/book/les-mots-et-les-choses/ - Kiyomizu 2022-2023</description>
+&lt;h1 id="第1-3章评论"&gt;第1-3章评论&lt;/h1&gt;
+&lt;p&gt;2022-10-27&lt;/p&gt;
+&lt;p&gt;今天读到布鲁诺·拉图尔(Bruno Latour)和史蒂夫·伍尔加(Steve Woolgar)的作品《实验室生活：科学事实的建构过程》。这是一本很好的书，推荐每一位生科院或元培生科方向的同学阅读，尤其是大一大二尚未加入实验室的同学，阅读它的收获大于阅读生概途课推荐的&lt;em&gt;The Double Helix&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;该书作者对Salk Institute的Roger Guillemin实验室作了深入的研究，从人类学的角度透视了科学研究、论文发表、竞争、实验室结构以及科学家职业生涯。作者十分恰当地将这些方面概括为&amp;quot;实验室生活&amp;quot;。2022年，此书在Google Scholar上的引用数已超过两万。&lt;/p&gt;
+&lt;p&gt;Roger Guillemin是1977年诺贝尔生理学或医学奖得主，他与Andrew V. Schally因为发现大脑能产生肽类激素而获奖，他们的工作主要是鉴定了促甲状腺激素释放激素(TRH) 和促性腺激素释放激素(GnRH)的结构。这项工作与同时期其他获得诺贝尔生理学或医学奖的工作相比，属于中等水平。调查的对象，Salk研究所，直至今天，仍然是生命科学领域内很有声望的机构。&lt;/p&gt;
+&lt;p&gt;因此，这是一只相当好的麻雀。&lt;/p&gt;
+&lt;p&gt;该书最吸引眼球的章节是第三章《制造事实：促甲状腺因素释放因子[TRF(H)]个案》，它或许会使科学工作者或未来的科研工作者感到被冒犯：我们从小就学会了区分观点和事实，你怎么能说科学事实是制造出来的呢？！&lt;/p&gt;
+&lt;p&gt;但在这个例子中，你能清楚地看到这个&amp;quot;制造&amp;quot;的过程，它&lt;strong&gt;真实、冷酷、不纯洁&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;不仅包括&amp;quot;八年的艰苦努力&amp;quot;、&amp;ldquo;从成吨的下丘脑中提取几微克激素&amp;rdquo;、&amp;ldquo;学科交叉&amp;rdquo;，还包括&amp;quot;创立严苛规则来排除竞争者&amp;quot;，&amp;ldquo;巧妙安排学术会议以维护实验室利益&amp;quot;以及&amp;quot;忠实学习他人错误的研究者&amp;rdquo;。该章节成功地还原了该领域在1960s-1970s的历史，其中的若干结论已经被写入当下的生理学教科书，我想如果有老师开设一门《生理学讨论课》的话，这将是绝妙的参考资料。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Laboratory Life: The Social Construction of Scientific Facts&lt;/em&gt;有英文本，法文本和中译本，中译本是2004年东方出版社出版的，翻译质量极差，但仍然难以掩盖作者的洞见和专业素养。&lt;/p&gt;
+&lt;p&gt;不过令人遗憾的是，作者之一的布鲁诺·拉图尔已在半个月前去世，哲人其萎。&lt;/p&gt;
+&lt;h1 id="第4-6章评论"&gt;第4-6章评论&lt;/h1&gt;
+&lt;p&gt;2022-11-06&lt;/p&gt;
+&lt;p&gt;在发出上一篇评论和引述后三天，我读完了《实验室生活》这本书。尽管该书首次出版于1986年，三十多年后的今天，它的观点仍然没有过时，甚至是超前的。了解这些观点，能够激发对于科研生涯的新的思考。所以，虽然上次已经推荐过了，但我还是想要把它再次推荐给所有生科院的大一大二同学，特别是那些尚未加入实验室的同学。&lt;/p&gt;
+&lt;p&gt;上次简单介绍了此书前三章的内容，并引述了一些片段，这里将介绍此书剩下的三章。&lt;/p&gt;
+&lt;p&gt;作为第三章的后继，第四章《事实的微观社会学》更具备社会科学理论著作的特点。如果说第三章是在解剖麻雀的话，第四章就是在谈论鸟类学。简明地说，有两个观点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;事实是存在的，就像TRF确有其事；&lt;/li&gt;
+&lt;li&gt;事实是被建构的，就像第三章描述的TRF建构过程。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;两个观点不矛盾。具体而言，1968年，促甲状腺素释放因子（TRF）仅仅是一种陈述，可能是事实，也可能是假象；而到了1970年，TRF已经成为了一种事实，人们都说&amp;quot;某团队发现了TRF&amp;quot;。1968-1970的研究争论使得TRF被确证存在，这个过程就是&lt;strong&gt;建构&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;以现在的眼光来看，人们认为“TRF的结构是Pro-Glu-His-Pro-NH2”这一事实是争论结束的原因。但这些人是事后诸葛亮。因为你一旦进行一个假设：“如果至今都没有人找到TRF的正确结构，学术界争论不断”，那么“TRF的结构是Pro-Glu-His-Pro-NH2”就将是这场争论在未来结束时的结果。&lt;/p&gt;
+&lt;p&gt;也就是说，是&lt;strong&gt;争论和研究建构了事实，而不是事实为争论定论&lt;/strong&gt;。但是，我仅仅在此书的语境中认同这个观点，因为它很有诡辩嫌疑，大可以用魔法对付魔法。&lt;/p&gt;
+&lt;p&gt;不过与此相比，第五章《科学家的可信性》就显得实在多了。这一章讨论的是：一个科研人员在他/她的科研生涯中，所追求的究竟是什么？我认为很多学生是没有想清楚的。如果你拿这个问题去做生涯访谈，可能得到非常丰富的答案，但你需要自己去判断这些答案的价值。我想引用作者的一段话说明这个问题：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当纳坦让他的技术员准备组装下一部鉴定仪器时说：‘如果我们不进行两次检验，别人会说我们文章中的数据源于其他方法’&amp;hellip;&amp;hellip;后来当别人问纳坦为什么用这种仪器时，他回答：‘对于科学而言,怎样谨慎都不过分！’&lt;/p&gt;
+&lt;p&gt;(摘自东方出版社2004年版，第176页)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这个问题应该换一种问法：是什么东西驱动了科研人员进行研究/更换课题/跳槽？&lt;/p&gt;
+&lt;p&gt;是为了物质回报？还是为了奖励和荣誉？或者是出于作出贡献青史留名的渴望？作者认同这里的每一个答案。但他更进一步提出一个概念，&lt;strong&gt;credit&lt;/strong&gt;(译者硬译成“可信性”，令人困惑，但这种困惑反而有利于避免读者望文生义)。试看下面这个循环，这是一个科研人员在领域取得成绩需要的资本，如何从一种形式转换到另一种形式。&lt;/p&gt;
+&lt;p&gt;&lt;img src="credit-cycle.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;好的科研人员能让这个循环不断运行，credit是这个循环运行的能源。例如：&lt;/p&gt;
+&lt;p&gt;credit高的人，有更多的经费，就有更好的设备，就有更多的数据，就有更多的论据，就有更好的论文、产生更多解释、获得更多的奖励、管理更多经费&amp;hellip;如此循环。有些人走上坡路，有些人走下坡路。这个步骤中的每一步都影响了credit，例如获得诺贝尔奖，拿到大笔经费（出于学术或其他原因），被重大项目排除在外，被发现数据造假，发表重要论文。credit巧妙地将各个要素整合起来，它至少包括：学术信誉、学术声誉、人脉关系、教育背景、能力认可、荣誉、研究前景、申请经费的能力。如果硬要将credit换一个更贴切的翻译，我想“学术资本的获取能力”是很合适的。简而言之，一切的努力，一切的奋斗，都是为了提高自己的这种能力。&lt;/p&gt;
+&lt;p&gt;不能做到这一点的人就会出局，因为这是适者生存的铁律。&lt;/p&gt;
+- https://kiyomizu.cc/book/laboratory-life/ - Kiyomizu 2022-2023</description>
+</item>
+<item>
+<title>关于</title>
+<link>https://kiyomizu.cc/about/</link>
+<pubDate>Fri, 16 Sep 2022 00:00:00 +0800</pubDate>
+<guid>https://kiyomizu.cc/about/</guid>
+<description>Kiyomizu https://kiyomizu.cc/about/ -&lt;h2 id="关于我"&gt;关于我&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我本渔樵孟诸野，一生自是悠悠者&lt;/li&gt;
+&lt;li&gt;&lt;a href="mailto:kiyomizu.e@outlook.com"&gt;kiyomizu.e@outlook.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="关于本站"&gt;关于本站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本站是独立博客，它记录我的生活、读书和新知。&lt;/li&gt;
+&lt;li&gt;本站的原创内容均采用&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh"&gt;CC BY-NC 4.0&lt;/a&gt;许可协议向互联网公开。&lt;/li&gt;
+&lt;li&gt;转载内容之权利与责任属于原作者。&lt;/li&gt;
+&lt;/ul&gt;
+- https://kiyomizu.cc/about/ - Kiyomizu 2022-2023</description>
 </item>
 </channel>
 </rss>

@@ -17,23 +17,5 @@
       <description> 无法wget raw.githubusercontent.com sudo sed -i &amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39; /etc/hosts </description>
     </item>
     
-    <item>
-      <title>PyDESeq2：用Python做差异表达分析</title>
-      <link>https://kiyomizu.cc/tech/py-deseq2/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/tech/py-deseq2/</guid>
-      <description>pydeseq2.readthedocs.io</description>
-    </item>
-    
-    <item>
-      <title>Snakemake：构建生物信息分析流程</title>
-      <link>https://kiyomizu.cc/tech/snakemake/</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/tech/snakemake/</guid>
-      <description>snakemake.readthedocs.io</description>
-    </item>
-    
   </channel>
 </rss>
