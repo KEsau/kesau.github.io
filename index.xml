@@ -56,7 +56,11 @@
 &lt;li&gt;无法&lt;code&gt;wget raw.githubusercontent.com&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo sed -i &lt;span style="color:#cd5555"&gt;&amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39;&lt;/span&gt; /etc/hosts
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- https://kiyomizu.cc/tech/problem-solutions/ - Kiyomizu 2022-2023</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;提高PyCharm运行流畅度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;帮助&amp;gt;更改内存设置&amp;gt;最大堆大小设置为2048~4096MiB
+&lt;/code&gt;&lt;/pre&gt;- https://kiyomizu.cc/tech/problem-solutions/ - Kiyomizu 2022-2023</description>
 </item>
 <item>
 <title>(转载) 尼采，谱系学，历史学</title>

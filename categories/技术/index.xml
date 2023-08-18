@@ -14,7 +14,7 @@
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kiyomizu.cc/tech/problem-solutions/</guid>
-      <description> 无法wget raw.githubusercontent.com sudo sed -i &amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39; /etc/hosts </description>
+      <description> 无法wget raw.githubusercontent.com sudo sed -i &amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39; /etc/hosts 提高PyCharm运行流畅度 帮助&amp;gt;更改内存设置&amp;gt;最大堆大小设置为2048~4096MiB </description>
     </item>
     
   </channel>
