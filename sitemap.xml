@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kiyomizu.cc/diary/</loc>
+    <lastmod>2023-08-23T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://kiyomizu.cc/book/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -61,9 +64,6 @@
   </url><url>
     <loc>https://kiyomizu.cc/anthology/sheng-wu-xue-ping-lun/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kiyomizu.cc/diary/</loc>
-    <lastmod>2023-08-04T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/repo/don-t-become-a-scientist/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
