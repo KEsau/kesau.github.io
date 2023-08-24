@@ -113,18 +113,27 @@ if (!doNotTrack) {
 </div>
 <div class="post-body-wrapper">
 <div class="post-body" v-pre="">
-<p>Anki是一个开源的多平台间隔重复学习软件。
-Anki团队提供了免费的Ankiweb给用户在多个客户端之间同步笔记和卡片，然而它速度慢、不稳定、有隐私风险。</p>
-<p><a href="https://zhuanlan.zhihu.com/p/606083287">这篇文章</a>介绍了一种非常好的本地同步方式。步骤如下：</p>
+<p>Anki是一个开源的多平台间隔重复学习软件。</p>
+<p>Anki团队提供了免费的Ankiweb给用户在多个客户端之间同步笔记和卡片，然而它速度慢、不稳定、有隐私风险。</p>
+<p><a href="https://zhuanlan.zhihu.com/p/606083287">这篇知乎文章</a>介绍了一种非常好的本地同步方式。步骤如下：</p>
 <ol>
-<li>进入路由器后台，为PC分配一个静态IP。</li>
-<li>新建<code>anki-sync.bat</code>文件，内容如下：
+<li>
+<p>进入路由器后台，为PC分配一个静态IP</p>
+</li>
+<li>
+<p>新建<code>anki-sync.bat</code>文件，内容如下：</p>
 <div class="highlight"><pre style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;" tabindex="0"><code class="language-bat" data-lang="bat"><span style="display:flex;"><span><span style="color:#8b008b;font-weight:bold">set</span> <span style="color:#00688b">SYNC_USER1</span>=user:pass
 </span></span><span style="display:flex;"><span><span style="color:#cd5555">"C:\Users\YOUR_USER_NAME\AppData\Local\Programs\Anki\anki"</span> --syncserver
 </span></span></code></pre></div></li>
-<li>在各个客户端设置"同步-高级设置-自定义同步服务器"，我的例子是：<code>http://192.168.31.126:8080</code>。</li>
-<li>执行<code>anki-sync.bat</code>，弹出Windows网络防火墙选择允许公用和私人网络，不要关闭cmd窗口。</li>
-<li>在客户端点击"同步"，在弹出窗口中输入用户名<code>user</code>，密码为<code>pass</code>。</li>
+<li>
+<p>在各个客户端设置"同步-高级设置-自定义同步服务器"，我的例子是：<code>http://192.168.31.126:8080</code></p>
+</li>
+<li>
+<p>执行<code>anki-sync.bat</code>，弹出Windows网络防火墙选择允许公用和私人网络，不要关闭cmd窗口</p>
+</li>
+<li>
+<p>在客户端点击"同步"，在弹出窗口中输入用户名<code>user</code>，密码为<code>pass</code></p>
+</li>
 </ol>
 <p>同步即告成功。</p>
 <hr id="EOF" width="100%"/>
