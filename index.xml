@@ -7,8 +7,29 @@
 <generator>Hugo -- gohugo.io</generator>
 <language>en-us</language>
 <copyright>Kiyomizu 2022-2023</copyright>
-<lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0800</lastBuildDate>
 <atom:link href="https://kiyomizu.cc/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anki自定义本地同步服务器</title>
+<link>https://kiyomizu.cc/tech/anki-sync/</link>
+<pubDate>Fri, 25 Aug 2023 00:00:00 +0800</pubDate>
+<guid>https://kiyomizu.cc/tech/anki-sync/</guid>
+<description>Kiyomizu https://kiyomizu.cc/tech/anki-sync/ -&lt;p&gt;Anki是一个开源的多平台间隔重复学习软件。
+Anki团队提供了Ankiweb使用户在多个客户端之间同步笔记和卡片，然而它的速度较慢、同步不稳定、而且有隐私风险。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zhuanlan.zhihu.com/p/606083287"&gt;这篇文章&lt;/a&gt;介绍了一种非常好的本地同步方式。步骤如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;进入路由器后台，为PC分配一个静态IP。&lt;/li&gt;
+&lt;li&gt;新建&lt;code&gt;anki-sync.bat&lt;/code&gt;文件，内容如下：
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bat" data-lang="bat"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#8b008b;font-weight:bold"&gt;set&lt;/span&gt; &lt;span style="color:#00688b"&gt;SYNC_USER1&lt;/span&gt;=user:pass
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd5555"&gt;&amp;#34;C:\Users\YOUR_USER_NAME\AppData\Local\Programs\Anki\anki&amp;#34;&lt;/span&gt; --syncserver
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;在各个客户端设置&amp;quot;同步-高级设置-自定义同步服务器&amp;quot;，我的例子是：&lt;code&gt;http://192.168.31.126:8080&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;执行&lt;code&gt;anki-sync.bat&lt;/code&gt;，弹出Windows网络防火墙选择允许公用和私人网络，不要关闭cmd窗口。&lt;/li&gt;
+&lt;li&gt;在客户端点击&amp;quot;同步&amp;quot;，在弹出窗口中输入用户名&lt;code&gt;user&lt;/code&gt;，密码为&lt;code&gt;pass&lt;/code&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;同步即告成功。&lt;/p&gt;
+- https://kiyomizu.cc/tech/anki-sync/ - Kiyomizu 2022-2023</description>
+</item>
 <item>
 <title>随笔</title>
 <link>https://kiyomizu.cc/diary/</link>

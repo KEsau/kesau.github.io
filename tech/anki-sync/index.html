@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-<title>Tech</title>
+<title>Anki自定义本地同步服务器</title>
 <meta charset="utf-8"/>
 <meta content="IE=edge" name="X-UA-Compatible"/>
 <meta content="" name="google-site-verification"/>
@@ -21,6 +21,7 @@ if (!doNotTrack) {
 	gtag('config', 'G-F72NQK5JCF', { 'anonymize_ip': false });
 }
 </script>
+<script src="/js/toc.js"></script>
 <link href="/vendor/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="/scss/dark-mode.min.cb53f1bee2b8900cb4f082afbf00175d6618f281cf9a2fe8619e3b52d20b5721.css" integrity="sha256-y1PxvuK4kAy08IKvvwAXXWYY8oHPmi/oYZ47UtILVyE=" media="screen" rel="stylesheet"/>
 <link href="https://fonts.googleapis.com/css?family=Material+Icons" rel="stylesheet"/>
@@ -83,57 +84,64 @@ if (!doNotTrack) {
 <div id="content">
 <div class="stream-container" id="streamContainer">
 <div class="post-list-container post-list-container-shadow">
-<a class="a-block">
-<div class="post-item-wrapper post-item-wrapper-no-hover">
-<div class="post-item post-item-no-gaps">
-<div class="post-item-info-wrapper">
-<div class="post-item-title post-item-title-small year">
-                                2023
-                            </div>
+<div class="post">
+<div class="post-head-wrapper-text-only">
+<div class="post-title">
+                    Anki自定义本地同步服务器
+                    
+                    <div class="post-meta">
+<time itemprop="datePublished">
+                            2023-08-25
+                        </time>
+<i class="material-icons" style="">folder</i>
+<a href="/categories/%E6%8A%80%E6%9C%AF">技术</a>
+                                 
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
+<a href="/tags/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8">软件使用</a>
+                                 
+                            
+                        
+                        
+                        
+                        
+                            <span id="busuanzi_container_page_pv">阅读<span id="busuanzi_value_page_pv"></span>次</span>
 </div>
 </div>
 </div>
-</a>
-<a class="a-block" href="/tech/anki-sync/">
-<div class="post-item-wrapper">
-<div class="post-item post-item-no-gaps">
-<div class="post-item-info-wrapper">
-<div class="post-item-title">
-                                Anki自定义本地同步服务器
-                            </div>
-<div class="post-item-meta">
-    2023-08-25
-     
-    
-    
-    
-     
-    
+<div class="post-body-wrapper">
+<div class="post-body" v-pre="">
+<p>Anki是一个开源的多平台间隔重复学习软件。
+Anki团队提供了Ankiweb使用户在多个客户端之间同步笔记和卡片，然而它的速度较慢、同步不稳定、而且有隐私风险。</p>
+<p><a href="https://zhuanlan.zhihu.com/p/606083287">这篇文章</a>介绍了一种非常好的本地同步方式。步骤如下：</p>
+<ol>
+<li>进入路由器后台，为PC分配一个静态IP。</li>
+<li>新建<code>anki-sync.bat</code>文件，内容如下：
+<div class="highlight"><pre style="background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;" tabindex="0"><code class="language-bat" data-lang="bat"><span style="display:flex;"><span><span style="color:#8b008b;font-weight:bold">set</span> <span style="color:#00688b">SYNC_USER1</span>=user:pass
+</span></span><span style="display:flex;"><span><span style="color:#cd5555">"C:\Users\YOUR_USER_NAME\AppData\Local\Programs\Anki\anki"</span> --syncserver
+</span></span></code></pre></div></li>
+<li>在各个客户端设置"同步-高级设置-自定义同步服务器"，我的例子是：<code>http://192.168.31.126:8080</code>。</li>
+<li>执行<code>anki-sync.bat</code>，弹出Windows网络防火墙选择允许公用和私人网络，不要关闭cmd窗口。</li>
+<li>在客户端点击"同步"，在弹出窗口中输入用户名<code>user</code>，密码为<code>pass</code>。</li>
+</ol>
+<p>同步即告成功。</p>
+<hr id="EOF" width="100%"/>
+<p style="color:#777;">Last modified on 2023-08-25</p>
 </div>
 </div>
+<nav class="post-pagination">
+<a class="newer-posts">
+			Next<br/>No newer posts.
+                </a>
+<a class="older-posts" href="/diary/">
+			Previous<br/>随笔
+                </a>
+</nav>
+<div class="post-comment-wrapper">
 </div>
 </div>
-</a>
-<a class="a-block" href="/tech/problem-solutions/">
-<div class="post-item-wrapper">
-<div class="post-item post-item-no-gaps">
-<div class="post-item-info-wrapper">
-<div class="post-item-title">
-                                小经验
-                            </div>
-<div class="post-item-meta">
-    2023-08-10
-     
-    
-    
-    
-     
-    
-</div>
-</div>
-</div>
-</div>
-</a>
 </div>
 </div>
 </div><div class="side-container" id="sideContainer">
@@ -189,6 +197,8 @@ Ported from <a href="https://mak1t0.cc/" rel="noreferrer noopener" target="_blan
 </div>
 </div><div class="extra-container" id="extraContainer">
 <div class="toc-wrapper">
+<div class="toc">
+</div>
 </div>
 <div class="pagination">
 <a :class="{ invisible: scrollY == 0 }" class="pagination-action animated-visibility" href="#top" id="globalBackToTop">
@@ -202,8 +212,7 @@ Ported from <a href="https://mak1t0.cc/" rel="noreferrer noopener" target="_blan
             </span>
 </a>
 </div>
-</div>
-<div id="single-column-footer">
+</div><div id="single-column-footer">
 Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
 <br/>
 Ported from <a href="https://mak1t0.cc/" rel="noreferrer noopener" target="_blank">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" rel="noreferrer noopener" target="_blank">Journal.</a> <br/>
