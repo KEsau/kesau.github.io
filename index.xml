@@ -15,7 +15,7 @@
 <pubDate>Fri, 25 Aug 2023 00:00:00 +0800</pubDate>
 <guid>https://kiyomizu.cc/tech/anki-sync/</guid>
 <description>Kiyomizu https://kiyomizu.cc/tech/anki-sync/ -&lt;p&gt;Anki是一个开源的多平台间隔重复学习软件。
-Anki团队提供了Ankiweb使用户在多个客户端之间同步笔记和卡片，然而它的速度较慢、同步不稳定、而且有隐私风险。&lt;/p&gt;
+Anki团队提供了免费的Ankiweb给用户在多个客户端之间同步笔记和卡片，然而它速度慢、不稳定、有隐私风险。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://zhuanlan.zhihu.com/p/606083287"&gt;这篇文章&lt;/a&gt;介绍了一种非常好的本地同步方式。步骤如下：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;进入路由器后台，为PC分配一个静态IP。&lt;/li&gt;
