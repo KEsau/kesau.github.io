@@ -3,18 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kiyomizu.cc/diary/</loc>
-    <lastmod>2023-08-29T00:00:00+08:00</lastmod>
+    <lastmod>2023-08-30T00:06:30+08:00</lastmod>
   </url><url>
-    <loc>https://kiyomizu.cc/tech/anki-sync/</loc>
-    <lastmod>2023-08-25T00:00:00+08:00</lastmod>
+    <loc>https://kiyomizu.cc/anthology/</loc>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/categories/</loc>
-    <lastmod>2023-08-25T00:00:00+08:00</lastmod>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/</loc>
-    <lastmod>2023-08-25T00:00:00+08:00</lastmod>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/tags/</loc>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/tags/todo/</loc>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/anthology/zhong-guo-gu-dai-wen-xue/</loc>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/tags/%E5%9B%9E%E5%BF%86/</loc>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/tags/%E6%96%87%E5%AD%A6/</loc>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</loc>
+    <lastmod>2023-08-30T00:06:00+08:00</lastmod>
+  </url><url>
+    <loc>https://kiyomizu.cc/tech/anki-sync/</loc>
     <lastmod>2023-08-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/tech/</loc>
@@ -56,16 +74,7 @@
     <loc>https://kiyomizu.cc/categories/%E8%BD%AC%E8%BD%BD/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kiyomizu.cc/anthology/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kiyomizu.cc/tags/todo/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://kiyomizu.cc/tags/%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kiyomizu.cc/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/anthology/sheng-wu-xue-ping-lun/</loc>

@@ -1,0 +1,40 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiyomizu</title>
+    <link>https://kiyomizu.cc/</link>
+    <description>Recent content on Kiyomizu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Kiyomizu 2022-2023</copyright>
+    <lastBuildDate>Wed, 30 Aug 2023 00:06:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://kiyomizu.cc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>关于</title>
+        <link>https://kiyomizu.cc/about/</link>
+        <pubDate>Fri, 16 Sep 2022 00:00:00 +0800</pubDate>
+        
+        <guid>https://kiyomizu.cc/about/</guid>
+        <description>Kiyomizu https://kiyomizu.cc/about/ -&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2023年从P大毕业，目前寄居北京&lt;/li&gt;
+&lt;li&gt;好读书，不求甚解&lt;/li&gt;
+&lt;li&gt;INFJ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:kiyomizu.e@outlook.com&#34;&gt;kiyomizu.e@outlook.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;关于本站&#34;&gt;关于本站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;本站是独立博客，它记录我的生活、读书和新知。&lt;/li&gt;
+&lt;li&gt;本站的原创内容均采用&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/deed.zh&#34;&gt;CC BY-NC 4.0&lt;/a&gt;许可协议向互联网公开。&lt;/li&gt;
+&lt;li&gt;转载内容之权利与责任属于原作者。&lt;/li&gt;
+&lt;/ul&gt;
+- https://kiyomizu.cc/about/ - Kiyomizu 2022-2023</description>
+        </item>
+    
+    
+  </channel>
+</rss> 

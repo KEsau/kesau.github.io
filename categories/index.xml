@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Kiyomizu 2022-2023</copyright>
-    <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://kiyomizu.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Aug 2023 00:06:00 +0800</lastBuildDate><atom:link href="https://kiyomizu.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>朝花夕拾</title>
+      <link>https://kiyomizu.cc/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</link>
+      <pubDate>Wed, 30 Aug 2023 00:06:00 +0800</pubDate>
+      
+      <guid>https://kiyomizu.cc/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>技术</title>
       <link>https://kiyomizu.cc/categories/%E6%8A%80%E6%9C%AF/</link>
@@ -32,15 +41,6 @@
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kiyomizu.cc/categories/%E8%BD%AC%E8%BD%BD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>朝花夕拾</title>
-      <link>https://kiyomizu.cc/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kiyomizu.cc/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</guid>
       <description></description>
     </item>
     
