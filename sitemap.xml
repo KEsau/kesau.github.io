@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kiyomizu.cc/diary/</loc>
+    <lastmod>2023-08-29T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://kiyomizu.cc/tech/anki-sync/</loc>
     <lastmod>2023-08-25T00:00:00+08:00</lastmod>
   </url><url>
@@ -22,9 +25,6 @@
   </url><url>
     <loc>https://kiyomizu.cc/tags/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2023-08-25T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://kiyomizu.cc/diary/</loc>
-    <lastmod>2023-08-24T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/book/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
