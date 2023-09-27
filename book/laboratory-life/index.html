@@ -1,17 +1,36 @@
 <!DOCTYPE html>
 <html><head>
 <title>实验室生活</title>
-<meta charset="utf-8"/>
-<meta content="IE=edge" name="X-UA-Compatible"/>
-<meta content="" name="google-site-verification"/>
-<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
-<meta content="telephone=no" name="format-detection"/>
-<meta content="科学事实的建构过程，它真实、冷酷、不纯洁" name="description"/>
-<meta content="webkit" name="renderer"/>
-<meta content="#ffffff" name="theme-color"/>
-<script async="" src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<meta content="no-referrer-when-downgrade" name="referrer"/>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-F72NQK5JCF"></script>
+
+
+
+
+<meta charset="utf-8">
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta name="description" content="科学事实的建构过程，它真实、冷酷、不纯洁">
+<meta name="renderer" content="webkit">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <meta name="referrer" content="no-referrer-when-downgrade">
+
+
+
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F72NQK5JCF"></script>
 <script>
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -21,108 +40,248 @@ if (!doNotTrack) {
 	gtag('config', 'G-F72NQK5JCF', { 'anonymize_ip': false });
 }
 </script>
-<script src="/js/toc.js"></script>
-<link href="/vendor/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-<link href="/scss/dark-mode.min.cb53f1bee2b8900cb4f082afbf00175d6618f281cf9a2fe8619e3b52d20b5721.css" integrity="sha256-y1PxvuK4kAy08IKvvwAXXWYY8oHPmi/oYZ47UtILVyE=" media="screen" rel="stylesheet"/>
-<link href="https://fonts.googleapis.com/css?family=Material+Icons" rel="stylesheet"/>
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+      <script src="/js/toc.js"></script>
+    
+    <link type="text/css" rel="stylesheet" href="/vendor/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="/scss/dark-mode.min.cb53f1bee2b8900cb4f082afbf00175d6618f281cf9a2fe8619e3b52d20b5721.css" integrity="sha256-y1PxvuK4kAy08IKvvwAXXWYY8oHPmi/oYZ47UtILVyE=" media="screen">
+
+
+<link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Material+Icons">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </head>
 <body>
-<div id="app"><div class="single-column-drawer-container" id="drawer" v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
-<div class="drawer-content">
-<div class="drawer-menu">
-<a class="a-block drawer-menu-item false" href="/diary">
+    	<div id="app"><div class="single-column-drawer-container" id="drawer"
+     v-bind:class="{ 'single-column-drawer-container-active': isDrawerOpen }">
+    <div class="drawer-content">
+        <div class="drawer-menu">
+            
+            
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/diary">
                     随笔
                 </a>
-<a class="a-block drawer-menu-item active" href="/book">
+                
+            
+                
+                
+                
+                    
+                
+                
+                
+                <a class="a-block drawer-menu-item active" href="/book">
                     书评
                 </a>
-<a class="a-block drawer-menu-item false" href="/tech">
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tech">
                     技术
                 </a>
-<a class="a-block drawer-menu-item false" href="/anthology">
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/anthology">
                     朝花夕拾
                 </a>
-<a class="a-block drawer-menu-item false" href="/repo">
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/repo">
                     转载
                 </a>
-<a class="a-block drawer-menu-item false" href="/tags">
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/tags">
                     标签
                 </a>
-<a class="a-block drawer-menu-item false" href="/about">
+                
+            
+                
+                
+                
+                
+                
+                <a class="a-block drawer-menu-item false" href="/about">
                     关于
                 </a>
-</div>
-</div>
+                
+            
+            
+        </div>
+    </div>
 </div>
 <transition name="fade">
-<div id="drawer-mask" v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
+    <div id="drawer-mask" v-bind:class="{ 'single-column-drawer-mask': mounted }" v-if="isDrawerOpen" v-on:click="toggleDrawer"></div>
 </transition>
-<nav class="navbar sticky-top navbar-light single-column-nav-container" id="navBar">
-<div class="nav-background" id="navBackground"></div>
-<div class="container container-narrow nav-content">
-<button class="nav-dropdown-toggle" id="nav_dropdown_btn" type="button" v-on:click="toggleDrawer">
-<i class="material-icons">
+<nav id="navBar" class="navbar sticky-top navbar-light single-column-nav-container">
+    <div id="navBackground" class="nav-background"></div>
+    <div class="container container-narrow nav-content">
+        <button id="nav_dropdown_btn" class="nav-dropdown-toggle" type="button" v-on:click="toggleDrawer">
+            <i class="material-icons">
                 menu
             </i>
-</button>
-<a class="navbar-brand" href="https://kiyomizu.cc/" id="navTitle">
+        </button>
+        <a id="navTitle" class="navbar-brand" href="https://kiyomizu.cc/">
             Kiyomizu
         </a>
-<button class="nav-darkmode-toggle" id="darkModeToggleButton2" type="button">
-<i class="material-icons" id="darkModeToggleIcon2">
+        
+        <button type="button" class="nav-darkmode-toggle" id="darkModeToggleButton2">
+            <i class="material-icons" id="darkModeToggleIcon2">
                 dark_mode
             </i>
-</button>
-</div>
+        </button>
+        
+    </div>
 </nav>
-<div class="single-column-header-container" id="pageHead" v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
-<a href="https://kiyomizu.cc/">
-<div class="single-column-header-title">Kiyomizu</div>
-<div class="single-column-header-subtitle">我梦想成为布朗肖</div>
-</a>
+<div class="single-column-header-container" id="pageHead"
+     v-bind:style="{ transform: 'translateZ(0px) translateY('+.3*scrollY+'px)', opacity: 1-navOpacity }">
+    <a href="https://kiyomizu.cc/">
+        <div class="single-column-header-title">Kiyomizu</div>
+        
+        <div class="single-column-header-subtitle">我梦想成为布朗肖</div>
+        
+
+    </a>
 </div>
-<div id="content">
-<div class="stream-container" id="streamContainer">
-<div class="post-list-container post-list-container-shadow">
-<div class="post">
-<div class="post-head-wrapper" style="background-image: url('/book/laboratory-life/lab-scheme.jpg')">
-<div class="post-title">
+
+            <div id="content">
+                <div id="streamContainer" class="stream-container">
+
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
+            
+            
+            
+                
+            
+
+            <div class="post-head-wrapper"
+                
+                    
+                    
+                    style="background-image: url('/book/laboratory-life/lab-scheme.jpg')"
+                    
+                
+            >
+                <div class="post-title">
                     实验室生活
                     
                     <div class="post-subtitle">
                         科学事实的建构过程，它真实、冷酷、不纯洁
                     </div>
-<div class="post-meta">
-<time itemprop="datePublished">
+                    
+                    <div class="post-meta">
+                        
+                        <time itemprop="datePublished">
                             2022-10-27
                         </time>
-<i class="material-icons" style="">folder</i>
-<a href="/categories/%E4%B9%A6%E8%AF%84">书评</a>
-                                 
+                        
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                                <a href="/categories/%E4%B9%A6%E8%AF%84">书评</a>
+                                &nbsp;
                         
 
                         
                             <i class="material-icons" style="">label</i>
-<a href="/tags/%E7%A7%91%E5%AD%A6">科学</a>
-                                 
+                            
+                                <a href="/tags/%E7%A7%91%E5%AD%A6">科学</a>
+                                &nbsp;
                             
                         
                         
                         
                         
                             <span id="busuanzi_container_page_pv">阅读<span id="busuanzi_value_page_pv"></span>次</span>
-</div>
-</div>
-</div>
-<div class="post-body-wrapper">
-<div class="post-body" v-pre="">
-<h1 id="书籍介绍">书籍介绍</h1>
-<figure align="Left" aria-describedby="caption-d41d8cd98f00b204e9800998ecf8427e" role="group">
-<a class="img-link" href="/book/laboratory-life/cover.jpg">
-<img src="/book/laboratory-life/cover_hu296f942ce84aebe688fe7ec17acde51f_8324_200x300_resize_q75_box.jpg"/>
-</a>
-<figcaption id="caption-d41d8cd98f00b204e9800998ecf8427e">
-</figcaption>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <h1 id="书籍介绍">书籍介绍</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<figure align="Left" role="group" aria-describedby="caption-d41d8cd98f00b204e9800998ecf8427e">
+  <a href="/book/laboratory-life/cover.jpg" class="img-link">
+    <img src="/book/laboratory-life/cover_hu296f942ce84aebe688fe7ec17acde51f_8324_200x300_resize_q75_box.jpg">
+  </a>
+  <figcaption id="caption-d41d8cd98f00b204e9800998ecf8427e">
+    
+  </figcaption>
 </figure>
 <blockquote>
 <p>科学家如何工作？他们如何“发现”科学事实？为试图回答这些问题，法国著名科学社会学家布鲁诺·拉图尔以及英国社会学家史蒂夫·伍尔加深入到美国的一个神经内分泌学实验室并与那里的教授共度两年时光，对科学家进行观察，看他们如何选择课题和申请基金，如何从事研究和发表论文，如何评级评奖等等。作者以自然主义的方式研究科学，特别探讨了科学的社会制约因素，触及人性、社会、理性和知识这些更大的问题，从一个全新的视角对科学事实的建构做了独到的诠释。本书是科学社会学也是国外社会学研究的前沿领域SSK的经典之作。</p>
@@ -131,12 +290,12 @@ if (!doNotTrack) {
 <h1 id="第1-3章评论">第1-3章评论</h1>
 <p>2022-10-27</p>
 <p>今天读到布鲁诺·拉图尔(Bruno Latour)和史蒂夫·伍尔加(Steve Woolgar)的作品《实验室生活：科学事实的建构过程》。这是一本很好的书，推荐每一位生科院或元培生科方向的同学阅读，尤其是大一大二尚未加入实验室的同学，阅读它的收获大于阅读生概途课推荐的<em>The Double Helix</em>。</p>
-<p>该书作者对Salk Institute的Roger Guillemin实验室作了深入的研究，从人类学的角度透视了科学研究、论文发表、竞争、实验室结构以及科学家职业生涯。作者十分恰当地将这些方面概括为"实验室生活"。2022年，此书在Google Scholar上的引用数已超过两万。</p>
+<p>该书作者对Salk Institute的Roger Guillemin实验室作了深入的研究，从人类学的角度透视了科学研究、论文发表、竞争、实验室结构以及科学家职业生涯。作者十分恰当地将这些方面概括为&quot;实验室生活&quot;。2022年，此书在Google Scholar上的引用数已超过两万。</p>
 <p>Roger Guillemin是1977年诺贝尔生理学或医学奖得主，他与Andrew V. Schally因为发现大脑能产生肽类激素而获奖，他们的工作主要是鉴定了促甲状腺激素释放激素(TRH) 和促性腺激素释放激素(GnRH)的结构。这项工作与同时期其他获得诺贝尔生理学或医学奖的工作相比，属于中等水平。调查的对象，Salk研究所，直至今天，仍然是生命科学领域内很有声望的机构。</p>
 <p>因此，这是一只相当好的麻雀。</p>
 <p>该书最吸引眼球的章节是第三章《制造事实：促甲状腺因素释放因子[TRF(H)]个案》，它或许会使科学工作者或未来的科研工作者感到被冒犯：我们从小就学会了区分观点和事实，你怎么能说科学事实是制造出来的呢？！</p>
-<p>但在这个例子中，你能清楚地看到这个"制造"的过程，它<strong>真实、冷酷、不纯洁</strong>。</p>
-<p>不仅包括"八年的艰苦努力"、“从成吨的下丘脑中提取几微克激素”、“学科交叉”，还包括"创立严苛规则来排除竞争者"，“巧妙安排学术会议以维护实验室利益"以及"忠实学习他人错误的研究者”。该章节成功地还原了该领域在1960s-1970s的历史，其中的若干结论已经被写入当下的生理学教科书，我想如果有老师开设一门《生理学讨论课》的话，这将是绝妙的参考资料。</p>
+<p>但在这个例子中，你能清楚地看到这个&quot;制造&quot;的过程，它<strong>真实、冷酷、不纯洁</strong>。</p>
+<p>不仅包括&quot;八年的艰苦努力&quot;、&ldquo;从成吨的下丘脑中提取几微克激素&rdquo;、&ldquo;学科交叉&rdquo;，还包括&quot;创立严苛规则来排除竞争者&quot;，&ldquo;巧妙安排学术会议以维护实验室利益&quot;以及&quot;忠实学习他人错误的研究者&rdquo;。该章节成功地还原了该领域在1960s-1970s的历史，其中的若干结论已经被写入当下的生理学教科书，我想如果有老师开设一门《生理学讨论课》的话，这将是绝妙的参考资料。</p>
 <p><em>Laboratory Life: The Social Construction of Scientific Facts</em>有英文本，法文本和中译本，中译本是2004年东方出版社出版的，翻译质量极差，但仍然难以掩盖作者的洞见和专业素养。</p>
 <p>不过令人遗憾的是，作者之一的布鲁诺·拉图尔已在半个月前去世，哲人其萎。</p>
 <h1 id="第4-6章评论">第4-6章评论</h1>
@@ -148,143 +307,291 @@ if (!doNotTrack) {
 <li>事实是存在的，就像TRF确有其事；</li>
 <li>事实是被建构的，就像第三章描述的TRF建构过程。</li>
 </ol>
-<p>两个观点不矛盾。具体而言，1968年，促甲状腺素释放因子（TRF）仅仅是一种陈述，可能是事实，也可能是假象；而到了1970年，TRF已经成为了一种事实，人们都说"某团队发现了TRF"。1968-1970的研究争论使得TRF被确证存在，这个过程就是<strong>建构</strong>。</p>
+<p>两个观点不矛盾。具体而言，1968年，促甲状腺素释放因子（TRF）仅仅是一种陈述，可能是事实，也可能是假象；而到了1970年，TRF已经成为了一种事实，人们都说&quot;某团队发现了TRF&quot;。1968-1970的研究争论使得TRF被确证存在，这个过程就是<strong>建构</strong>。</p>
 <p>以现在的眼光来看，人们认为“TRF的结构是Pro-Glu-His-Pro-NH2”这一事实是争论结束的原因。但这些人是事后诸葛亮。因为你一旦进行一个假设：“如果至今都没有人找到TRF的正确结构，学术界争论不断”，那么“TRF的结构是Pro-Glu-His-Pro-NH2”就将是这场争论在未来结束时的结果。</p>
 <p>也就是说，是<strong>争论和研究建构了事实，而不是事实为争论定论</strong>。但是，我仅仅在此书的语境中认同这个观点，因为它很有诡辩嫌疑，大可以用魔法对付魔法。</p>
 <p>不过与此相比，第五章《科学家的可信性》就显得实在多了。这一章讨论的是：一个科研人员在他/她的科研生涯中，所追求的究竟是什么？我认为很多学生是没有想清楚的。如果你拿这个问题去做生涯访谈，可能得到非常丰富的答案，但你需要自己去判断这些答案的价值。我想引用作者的一段话说明这个问题：</p>
 <blockquote>
-<p>当纳坦让他的技术员准备组装下一部鉴定仪器时说：‘如果我们不进行两次检验，别人会说我们文章中的数据源于其他方法’……后来当别人问纳坦为什么用这种仪器时，他回答：‘对于科学而言,怎样谨慎都不过分！’</p>
+<p>当纳坦让他的技术员准备组装下一部鉴定仪器时说：‘如果我们不进行两次检验，别人会说我们文章中的数据源于其他方法’&hellip;&hellip;后来当别人问纳坦为什么用这种仪器时，他回答：‘对于科学而言,怎样谨慎都不过分！’</p>
 <p>(摘自东方出版社2004年版，第176页)</p>
 </blockquote>
 <p>这个问题应该换一种问法：是什么东西驱动了科研人员进行研究/更换课题/跳槽？</p>
 <p>是为了物质回报？还是为了奖励和荣誉？或者是出于作出贡献青史留名的渴望？作者认同这里的每一个答案。但他更进一步提出一个概念，<strong>credit</strong>(译者硬译成“可信性”，令人困惑，但这种困惑反而有利于避免读者望文生义)。试看下面这个循环，这是一个科研人员在领域取得成绩需要的资本，如何从一种形式转换到另一种形式。</p>
-<p><img alt="" src="credit-cycle.jpg"/></p>
+<p><img src="credit-cycle.jpg" alt=""></p>
 <p>好的科研人员能让这个循环不断运行，credit是这个循环运行的能源。例如：</p>
-<p>credit高的人，有更多的经费，就有更好的设备，就有更多的数据，就有更多的论据，就有更好的论文、产生更多解释、获得更多的奖励、管理更多经费…如此循环。有些人走上坡路，有些人走下坡路。这个步骤中的每一步都影响了credit，例如获得诺贝尔奖，拿到大笔经费（出于学术或其他原因），被重大项目排除在外，被发现数据造假，发表重要论文。credit巧妙地将各个要素整合起来，它至少包括：学术信誉、学术声誉、人脉关系、教育背景、能力认可、荣誉、研究前景、申请经费的能力。如果硬要将credit换一个更贴切的翻译，我想“学术资本的获取能力”是很合适的。简而言之，一切的努力，一切的奋斗，都是为了提高自己的这种能力。</p>
+<p>credit高的人，有更多的经费，就有更好的设备，就有更多的数据，就有更多的论据，就有更好的论文、产生更多解释、获得更多的奖励、管理更多经费&hellip;如此循环。有些人走上坡路，有些人走下坡路。这个步骤中的每一步都影响了credit，例如获得诺贝尔奖，拿到大笔经费（出于学术或其他原因），被重大项目排除在外，被发现数据造假，发表重要论文。credit巧妙地将各个要素整合起来，它至少包括：学术信誉、学术声誉、人脉关系、教育背景、能力认可、荣誉、研究前景、申请经费的能力。如果硬要将credit换一个更贴切的翻译，我想“学术资本的获取能力”是很合适的。简而言之，一切的努力，一切的奋斗，都是为了提高自己的这种能力。</p>
 <p>不能做到这一点的人就会出局，因为这是适者生存的铁律。</p>
-<hr id="EOF" width="100%"/>
-<p style="color:#777;">Last modified on 2022-10-27</p>
-</div>
-</div>
-<nav class="post-pagination">
-<a class="newer-posts" href="/repo/yv-yan-fu-bai/">
-			Next<br/>(转载) 语言腐败及其危害
+
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">Last modified on 2022-10-27</p>
+                    
+                </div>
+            </div>
+            
+            
+            <nav class="post-pagination">
+
+                
+                <a class="newer-posts" href="/repo/yv-yan-fu-bai/">
+			Next<br>(转载) 语言腐败及其危害
                 </a>
-<a class="older-posts" href="/about/">
-			Previous<br/>关于
+                
+                
+                
+                <a class="older-posts" href="/about/">
+			Previous<br>关于
                 </a>
-</nav>
-<div class="post-comment-wrapper">
-</div>
-</div>
-</div>
-</div>
-</div><div class="side-container" id="sideContainer">
-<a class="a-block nav-head false" href="https://kiyomizu.cc/">
-<div class="nav-title">
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+                    </div>
+            </div><div id="sideContainer" class="side-container">
+    
+    <a class="a-block nav-head false" href="https://kiyomizu.cc/">
+    
+        <div class="nav-title">
             Kiyomizu
         </div>
-<div class="nav-subtitle">
+        
+        <div class="nav-subtitle">
             我梦想成为布朗肖
         </div>
-</a>
-<div class="nav-link-list">
-<a class="a-block nav-link-item false" href="/diary">
+        
+    </a>
+
+    <div class="nav-link-list">
+        
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/diary">
                 随笔
             </a>
-<a class="a-block nav-link-item active" href="/book">
+            
+        
+            
+            
+            
+                
+            
+            
+            
+            <a class="a-block nav-link-item active" href="/book">
                 书评
             </a>
-<a class="a-block nav-link-item false" href="/tech">
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tech">
                 技术
             </a>
-<a class="a-block nav-link-item false" href="/anthology">
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/anthology">
                 朝花夕拾
             </a>
-<a class="a-block nav-link-item false" href="/repo">
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/repo">
                 转载
             </a>
-<a class="a-block nav-link-item false" href="/tags">
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/tags">
                 标签
             </a>
-<a class="a-block nav-link-item false" href="/about">
+            
+        
+            
+            
+            
+            
+            
+            <a class="a-block nav-link-item false" href="/about">
                 关于
             </a>
-</div>
-<div class="nav-footer">
+            
+        
+    </div>
+
+    
+
+    <div class="nav-footer">
         
 Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
-<br/>
-Ported from <a href="https://mak1t0.cc/" rel="noreferrer noopener" target="_blank">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" rel="noreferrer noopener" target="_blank">Journal.</a> <br/>
-<br/>
+<br>
+Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
 
-©
+&copy;
 	
 	Kiyomizu 2022-2023
 	
 
 	
         <div class="busuanzi-footer">
-<span id="busuanzi_container_site_pv">
+        <span id="busuanzi_container_site_pv">
             本站总访问量<span id="busuanzi_value_site_pv"></span>次
         </span>
-</div>
-</div>
-</div><div class="extra-container" id="extraContainer">
-<div class="toc-wrapper">
-<div class="toc">
-<div class="toc-content">
-<center>- CATALOG -</center>
-<ul>
-<li>
-<a class="nav-书籍介绍" href="#%e4%b9%a6%e7%b1%8d%e4%bb%8b%e7%bb%8d">
+        </div>
+    
+    </div>
+
+    
+</div><div id="extraContainer" class="extra-container">
+    <div class="toc-wrapper">
+        
+
+        
+        <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#%e4%b9%a6%e7%b1%8d%e4%bb%8b%e7%bb%8d" class="nav-书籍介绍">
 									书籍介绍
 								</a>
-</li>
-<li>
-<a class="nav-第1-3章评论" href="#%e7%ac%ac1-3%e7%ab%a0%e8%af%84%e8%ae%ba">
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#%e7%ac%ac1-3%e7%ab%a0%e8%af%84%e8%ae%ba" class="nav-第1-3章评论">
 									第1-3章评论
 								</a>
-</li>
-<li>
-<a class="nav-第4-6章评论" href="#%e7%ac%ac4-6%e7%ab%a0%e8%af%84%e8%ae%ba">
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#%e7%ac%ac4-6%e7%ab%a0%e8%af%84%e8%ae%ba" class="nav-第4-6章评论">
 									第4-6章评论
 								</a>
-</li>
-</ul>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
 </div>
-</div>
-</div>
-<div class="pagination">
-<a :class="{ invisible: scrollY == 0 }" class="pagination-action animated-visibility" href="#top" id="globalBackToTop">
-<i class="material-icons pagination-action-icon">
+        
+    </div>
+    <div class="pagination">
+        <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top"
+            :class="{ invisible: scrollY == 0 }">
+            <i class="material-icons pagination-action-icon">
                 keyboard_arrow_up
             </i>
-</a>
-<a class="pagination-action" id="darkModeToggleButton" type="button">
-<span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
+        </a>
+        
+        <a type="button" class="pagination-action" id="darkModeToggleButton">
+            <span class="material-icons pagination-action-icon" id="darkModeToggleIcon">
                 dark_mode
             </span>
-</a>
-</div>
+        </a>
+        
+        
+    </div>
 </div><div id="single-column-footer">
 Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://risehere.net/">Rise</a>
-<br/>
-Ported from <a href="https://mak1t0.cc/" rel="noreferrer noopener" target="_blank">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" rel="noreferrer noopener" target="_blank">Journal.</a> <br/>
-<br/>
+<br>
+Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
+<br>
 
-©
+&copy;
 	
 	Kiyomizu 2022-2023
 	
 
 	
         <div class="busuanzi-footer">
-<span id="busuanzi_container_site_pv">
+        <span id="busuanzi_container_site_pv">
             本站总访问量<span id="busuanzi_value_site_pv"></span>次
         </span>
-</div>
-</div>
-</div>
-<script src="/js/journal.js"></script></body>
+        </div>
+    </div>
+            </div>
+    
+    <script src="/js/journal.js"></script></body>
 </html>
