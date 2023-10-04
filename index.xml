@@ -127,40 +127,6 @@
     
     
         <item>
-        <title>Anki自定义本地同步服务器</title>
-        <link>https://kiyomizu.cc/tech/anki-sync/</link>
-        <pubDate>Fri, 25 Aug 2023 00:00:00 +0800</pubDate>
-        
-        <guid>https://kiyomizu.cc/tech/anki-sync/</guid>
-        <description>Kiyomizu https://kiyomizu.cc/tech/anki-sync/ -&lt;p&gt;Anki是一个开源的多平台间隔重复学习软件。&lt;/p&gt;
-&lt;p&gt;Anki团队提供了免费的Ankiweb给用户在多个客户端之间同步笔记和卡片，然而它速度慢、不稳定、有隐私风险。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/606083287&#34;&gt;这篇知乎文章&lt;/a&gt;介绍了一种非常好的本地同步方式。步骤如下：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;进入路由器后台，为PC分配一个静态IP&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;新建&lt;code&gt;anki-sync.bat&lt;/code&gt;文件，内容如下：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bat&#34; data-lang=&#34;bat&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;set&lt;/span&gt; &lt;span style=&#34;color:#00688b&#34;&gt;SYNC_USER1&lt;/span&gt;=user:pass
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#34;C:\Users\YOUR_USER_NAME\AppData\Local\Programs\Anki\anki&amp;#34;&lt;/span&gt; --syncserver
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在各个客户端设置&amp;quot;同步-高级设置-自定义同步服务器&amp;quot;，我的例子是：&lt;code&gt;http://192.168.31.126:8080&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;执行&lt;code&gt;anki-sync.bat&lt;/code&gt;，弹出Windows网络防火墙选择允许公用和私人网络，不要关闭cmd窗口&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在客户端点击&amp;quot;同步&amp;quot;，在弹出窗口中输入用户名&lt;code&gt;user&lt;/code&gt;，密码为&lt;code&gt;pass&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;同步即告成功。&lt;/p&gt;
-- https://kiyomizu.cc/tech/anki-sync/ - Kiyomizu 2022-2023</description>
-        </item>
-    
-    
-    
-        <item>
         <title>现代科研指北</title>
         <link>https://kiyomizu.cc/book/sci-guide/</link>
         <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
@@ -198,25 +164,6 @@
 &lt;p&gt;教历史的道炫老师曾在课堂上谈论日记史料的真实性问题，他的经验是：“人人都喜欢美化自己，贬低别人。所以如果一个人不得不说自己的坏话、说敌人的好话时，那大概是比较可信的”。“内鬼”作品之所以可信，正是因为作品的立场与作者按照传统观念应该处在的立场不同。这种错位是有原因的，我相信这种原因是他们&lt;strong&gt;早年反省时的真诚和良知&lt;/strong&gt;。然而大多数人都已经失去了：恶劣的人过河拆桥；一些人挑选自己喜欢的记忆片段，构建一个具有感染力的人生故事；其他人则选择封存那段艰难的时光，向前看。&lt;/p&gt;
 &lt;p&gt;想要了解科学界的运作方式，科学家的成长历程，就一定不要听信他们自己的故事，而是要看一看他们本科的成绩单，研究生的实验记录，和申请工作时的简历。那些他们语焉不详的过往，才是学术界真实的面貌。&lt;/p&gt;
 - https://kiyomizu.cc/book/sci-guide/ - Kiyomizu 2022-2023</description>
-        </item>
-    
-    
-    
-        <item>
-        <title>小经验</title>
-        <link>https://kiyomizu.cc/tech/problem-solutions/</link>
-        <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://kiyomizu.cc/tech/problem-solutions/</guid>
-        <description>Kiyomizu https://kiyomizu.cc/tech/problem-solutions/ -&lt;ul&gt;
-&lt;li&gt;无法&lt;code&gt;wget raw.githubusercontent.com&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo sed -i &lt;span style=&#34;color:#cd5555&#34;&gt;&amp;#39;$a\185.199.109.133 raw.githubusercontent.com&amp;#39;&lt;/span&gt; /etc/hosts
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;提高PyCharm运行流畅度&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;帮助&amp;gt;更改内存设置&amp;gt;最大堆大小设置为2048~4096MiB
-&lt;/code&gt;&lt;/pre&gt;- https://kiyomizu.cc/tech/problem-solutions/ - Kiyomizu 2022-2023</description>
         </item>
     
     
@@ -626,6 +573,283 @@
 &lt;p&gt;我们能在多大程度上解决语言腐败问题，关涉中国未来的改革和发展，以及社会稳定。两千多年前孔子讲“名不正，则言不顺；言不顺，则事不成”，反语言腐败就是要正名，恢复语言词汇本来的含义。比如，既然称为“人民代表”，就必须真正反映选民的意志。如果确实做不到这一点，不妨换个新的说法。如果我们能消除50%危害最大的语言腐败，就有希望消除80%的官员腐败，我们的政府就会廉洁起来，我们的道德风尚就可以大大改善。&lt;/p&gt;
 &lt;p&gt;(&lt;em&gt;摘自《理念的力量》，西北大学出版社2014年10月版&lt;/em&gt;)&lt;/p&gt;
 - https://kiyomizu.cc/repo/yv-yan-fu-bai/ - Kiyomizu 2022-2023</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>古代文学课诗歌选录</title>
+        <link>https://kiyomizu.cc/repo/gu-shi-xuan-lu/</link>
+        <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://kiyomizu.cc/repo/gu-shi-xuan-lu/</guid>
+        <description>Kiyomizu https://kiyomizu.cc/repo/gu-shi-xuan-lu/ -&lt;h1 id=&#34;魏晋&#34;&gt;魏晋&lt;/h1&gt;
+&lt;h2 id=&#34;曹丕&#34;&gt;曹丕&lt;/h2&gt;
+&lt;h3 id=&#34;燕歌行其一&#34;&gt;燕歌行（其一）&lt;/h3&gt;
+&lt;p&gt;秋风萧瑟天气凉，草木摇落露为霜。
+群燕辞归鹄南翔，念君客游思断肠。
+慊慊思归恋故乡，君何淹留寄他方？
+贱妾茕茕守空房，忧来思君不敢忘，不觉泪下沾衣裳。
+援琴鸣弦发清商，短歌微吟不能长。
+明月皎皎照我床，星汉西流夜未央。
+牵牛织女遥相望，尔独何辜限河梁。&lt;/p&gt;
+&lt;h3 id=&#34;燕歌行其二&#34;&gt;燕歌行（其二）&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;别日何易会日难，山川悠远路漫漫。&lt;/strong&gt;
+郁陶思君未敢言，寄声浮云往不还。
+涕零雨面毁容颜，谁能怀忧独不叹？
+展诗清歌聊自宽，乐往哀来摧肺肝。
+耿耿伏枕不能眠，披衣出户步东西，仰看星月观云间。
+飞鸧晨鸣声可怜，留连顾怀不能存。&lt;/p&gt;
+&lt;h2 id=&#34;曹植&#34;&gt;曹植&lt;/h2&gt;
+&lt;h3 id=&#34;野田黄雀行&#34;&gt;野田黄雀行&lt;/h3&gt;
+&lt;p&gt;高树多悲风，
+海水扬其波。
+利剑不在掌，
+结友何须多？
+不见篱间雀，
+见鹞自投罗。
+罗家得雀喜，
+少年见雀悲。
+拔剑捎罗网，
+黄雀得飞飞。
+飞飞摩苍天，
+来下谢少年。&lt;/p&gt;
+&lt;h2 id=&#34;徐干&#34;&gt;徐干&lt;/h2&gt;
+&lt;h3 id=&#34;室思其五&#34;&gt;室思（其五）&lt;/h3&gt;
+&lt;p&gt;浮云何洋洋，愿因通我辞。 飘飖不可寄，徙倚徒相思。 人离皆复会，君独无返期。 &lt;strong&gt;自君之出矣，明镜暗不治。&lt;/strong&gt; 思君如流水，何有穷已时。&lt;/p&gt;
+&lt;h2 id=&#34;阮籍&#34;&gt;阮籍&lt;/h2&gt;
+&lt;h3 id=&#34;咏怀其一&#34;&gt;咏怀（其一）&lt;/h3&gt;
+&lt;p&gt;夜中不能寐，起坐弹鸣琴。薄帷鉴明月，清风吹我衿。孤鸿号外野，朔鸟鸣北林。徘徊将何见，忧思独伤心。&lt;/p&gt;
+&lt;h3 id=&#34;咏怀其三&#34;&gt;咏怀（其三）&lt;/h3&gt;
+&lt;p&gt;嘉树下成蹊，东园桃与李。秋风吹飞藿，零落从此始。繁华有憔悴，&lt;strong&gt;堂上生荆杞&lt;/strong&gt;。驱马舍之去，去上西山趾。一身不自保，何况恋妻子。凝霜被野草，岁暮亦云已。&lt;/p&gt;
+&lt;h3 id=&#34;咏怀其六十七&#34;&gt;咏怀（其六十七）&lt;/h3&gt;
+&lt;p&gt;洪生资制度，被服正有常。尊卑设次序，事物齐纪纲。容饰整颜色，磬折执圭璋。堂上置玄酒，室中盛稻粱。外厉贞素谈，户内灭芬芳。放口从衷出，复说道义方。委曲周旋仪，姿态愁我肠。&lt;/p&gt;
+&lt;h2 id=&#34;左思&#34;&gt;左思&lt;/h2&gt;
+&lt;h3 id=&#34;咏史其一&#34;&gt;咏史（其一）&lt;/h3&gt;
+&lt;p&gt;弱冠弄柔翰，卓荦观群书。 著论准《过秦》，作赋拟《子虚》。 边城苦鸣镝，羽檄飞京都。 虽非甲胄士，畴昔览《穰苴》。 长啸激清风，志若无东吴。 &lt;strong&gt;铅刀贵一割，梦想骋良图。&lt;/strong&gt; 左眄澄江湘，右盼定羌胡。 功成不受爵，长揖归田庐。&lt;/p&gt;
+&lt;h3 id=&#34;咏史其二&#34;&gt;咏史（其二）&lt;/h3&gt;
+&lt;p&gt;郁郁涧底松，离离山上苗。 以彼径寸茎，荫此百尺条。 &lt;strong&gt;世胄蹑高位，英俊沉下僚。 地势使之然，由来非一朝。&lt;/strong&gt; 金张籍旧业，七叶珥汉貂。 冯公岂不伟，白首不见招。&lt;/p&gt;
+&lt;h3 id=&#34;咏史其五&#34;&gt;咏史（其五）&lt;/h3&gt;
+&lt;p&gt;皓天舒白日，灵景耀神州。 列宅紫宫里，飞宇若云浮。 峨峨高门内，蔼蔼皆王侯。 自非攀龙客，何为欻来游？ &lt;strong&gt;被褐出阊阖，高步追许由。&lt;/strong&gt; 振衣千仞岗，濯足万里流。&lt;/p&gt;
+&lt;h3 id=&#34;咏史其六&#34;&gt;咏史（其六）&lt;/h3&gt;
+&lt;p&gt;荆轲饮燕市，酒酣气益振。 哀歌和渐离，谓若傍无人。 虽无壮士节，与世亦殊伦。 高眄邈四海，豪右何足陈？ 贵者虽自贵，视之若埃尘。 贱者虽自贱，重之若千钧。&lt;/p&gt;
+&lt;h2 id=&#34;陶渊明&#34;&gt;陶渊明&lt;/h2&gt;
+&lt;h3 id=&#34;癸卯岁始春怀古田舍其二&#34;&gt;癸卯岁始春怀古田舍（其二）&lt;/h3&gt;
+&lt;p&gt;先师有遗训，忧道不忧贫。 瞻望邈难逮，转欲志长勤。 秉耒欢时务，解颜劝农人。 平畴交远风，良苗亦怀新。 &lt;strong&gt;虽未量岁功，即事多所欣。&lt;/strong&gt; 耕种有时息，行者无问津。 日入相与归，壶浆劳近邻。 长吟掩柴门，聊为陇亩民。&lt;/p&gt;
+&lt;h3 id=&#34;饮酒其十六&#34;&gt;饮酒（其十六）&lt;/h3&gt;
+&lt;p&gt;少年罕人事，游好在六经。 行行向不惑，淹留遂无成。 竟抱固穷节，饥寒饱所更。 弊庐交悲风，荒草没前庭。 披褐守长夜，晨鸡不肯鸣。 孟公不在兹，终以翳吾情。&lt;/p&gt;
+&lt;h1 id=&#34;南北朝&#34;&gt;南北朝&lt;/h1&gt;
+&lt;h2 id=&#34;北朝民歌&#34;&gt;北朝民歌&lt;/h2&gt;
+&lt;h3 id=&#34;企喻歌&#34;&gt;企喻歌&lt;/h3&gt;
+&lt;p&gt;男儿可怜虫，出门怀死忧。 尸丧狭谷中，白骨无人收。&lt;/p&gt;
+&lt;h3 id=&#34;幽州马客吟&#34;&gt;幽州马客吟&lt;/h3&gt;
+&lt;p&gt;快马常苦瘦，剿儿常苦贫。黄禾起羸马，有钱始作人。&lt;/p&gt;
+&lt;h3 id=&#34;陇头歌辞&#34;&gt;陇头歌辞&lt;/h3&gt;
+&lt;p&gt;陇头流水，流离山下。 念吾一身，飘然旷野。&lt;/p&gt;
+&lt;p&gt;朝发欣城，暮宿陇头。 寒不能语，舌卷入喉。&lt;/p&gt;
+&lt;p&gt;陇头流水，鸣声呜咽。 遥望秦川，心肝断绝。&lt;/p&gt;
+&lt;h2 id=&#34;谢灵运&#34;&gt;谢灵运&lt;/h2&gt;
+&lt;h3 id=&#34;登池上楼&#34;&gt;登池上楼&lt;/h3&gt;
+&lt;p&gt;潜虬媚幽姿，飞鸿响远音。
+薄霄愧云浮，栖川怍渊沈。
+进德智所拙，退耕力不任。
+徇禄反穷海，卧痾对空林。
+衾枕昧节候，褰开暂窥临。
+倾耳聆波澜，举目眺岖嵚。
+初景革绪风，新阳改故阴。
+&lt;strong&gt;池塘生春草，园柳变鸣禽。&lt;/strong&gt;
+祁祁伤豳歌，萋萋感楚吟。
+索居易永久，离群难处心。
+持操岂独古，无闷征在今。&lt;/p&gt;
+&lt;h3 id=&#34;石壁精舍还湖中作&#34;&gt;石壁精舍还湖中作&lt;/h3&gt;
+&lt;p&gt;昏旦变气候，山水含清晖。 清晖能娱人，游子憺忘归。 出谷日尚早，入舟阳已微。 &lt;strong&gt;林壑敛暝色，云霞收夕霏。&lt;/strong&gt; 芰荷迭映蔚，蒲稗相因依。 披拂趋南迳，愉悦偃东扉。 虑澹物自轻，意惬理无违。 寄言摄生客，试用此道推。&lt;/p&gt;
+&lt;h2 id=&#34;鲍照&#34;&gt;鲍照&lt;/h2&gt;
+&lt;h3 id=&#34;拟古其六&#34;&gt;拟古（其六）&lt;/h3&gt;
+&lt;p&gt;束薪幽篁里，刈黍寒涧阴。 朔风伤我肌，号鸟惊思心。 岁暮井赋讫，程课相追寻。 田租送函谷，兽藁输上林。 河渭冰未开，关陇雪正深。 笞击官有罚，呵辱吏见侵。 不谓乘轩意，伏枥还至今。&lt;/p&gt;
+&lt;h3 id=&#34;代出自蓟北门行&#34;&gt;代出自蓟北门行&lt;/h3&gt;
+&lt;p&gt;羽檄起边亭，烽火入咸阳。 征师屯广武，分兵救朔方。 严秋筋竿劲，虏阵精且强。 天子按剑怒，使者遥相望。 雁行缘石径，鱼贯度飞梁。 箫鼓流汉思，旌甲被胡霜。 疾风冲塞起，沙砾自飘扬。 马毛缩如蝟，角弓不可张。 时危见臣节，世乱识忠良。 投躯报明主，身死为国殇。&lt;/p&gt;
+&lt;h3 id=&#34;代放歌行&#34;&gt;代放歌行&lt;/h3&gt;
+&lt;p&gt;蓼虫避葵堇，习苦不言非。 小人自龌龊，安知旷士怀。 鸡鸣洛城里，禁门平旦开。 冠盖纵横至，车骑四方来。 素带曳长飙，华缨结远埃。 日中安能止，钟鸣犹未归。 夷世不可逢，贤君信爱才。 明虑自天断，不受外嫌猜。 一言分珪爵，片善辞草莱。 岂伊白璧赐，将起黄金台。 今君有何疾，临路独迟回。&lt;/p&gt;
+&lt;h2 id=&#34;谢朓&#34;&gt;谢朓&lt;/h2&gt;
+&lt;h3 id=&#34;王孙游&#34;&gt;王孙游&lt;/h3&gt;
+&lt;p&gt;绿草蔓如丝，杂树红英发。无论君不归，君归芳已歇。&lt;/p&gt;
+&lt;h2 id=&#34;何逊&#34;&gt;何逊&lt;/h2&gt;
+&lt;h3 id=&#34;临行与故游夜别&#34;&gt;临行与故游夜别&lt;/h3&gt;
+&lt;p&gt;历稔共追随，一旦辞群匹。 复如东注水，未有西归日。 夜雨滴空阶，晓灯暗离室。 相悲各罢酒，何时同促膝？&lt;/p&gt;
+&lt;h3 id=&#34;相送&#34;&gt;相送&lt;/h3&gt;
+&lt;p&gt;客心已百念，孤游重千里。 江暗雨欲来，浪白风初起。&lt;/p&gt;
+&lt;h2 id=&#34;阴铿&#34;&gt;阴铿&lt;/h2&gt;
+&lt;h3 id=&#34;江津送刘光禄不及&#34;&gt;江津送刘光禄不及&lt;/h3&gt;
+&lt;p&gt;依然临江渚，长望倚河津。 鼓声随听绝，帆势与云邻。 泊处空余鸟，离亭已散人。 林寒正下叶，钓晚欲收纶。 如何相背远，江汉与城闉。&lt;/p&gt;
+&lt;h2 id=&#34;庾信&#34;&gt;庾信&lt;/h2&gt;
+&lt;h3 id=&#34;拟咏怀其十一&#34;&gt;拟咏怀（其十一）&lt;/h3&gt;
+&lt;p&gt;摇落秋为气，凄凉多怨情。 啼枯湘水竹，哭坏杞梁城。 天亡遭愤战，日蹙值愁兵。 直虹朝映垒，长星夜落营。 楚歌饶恨曲，南风多死声。眼前一杯酒，谁论身后名。&lt;/p&gt;
+&lt;h3 id=&#34;拟咏怀其十七&#34;&gt;拟咏怀（其十七）&lt;/h3&gt;
+&lt;p&gt;日晚荒城上，苍茫余落晖。 都护楼兰返，将军疎勒归。 马有风尘气，人多关塞衣。 阵云平不动，秋蓬卷欲飞。 闻道楼船战，今年不解围。&lt;/p&gt;
+&lt;h2 id=&#34;王褒&#34;&gt;王褒&lt;/h2&gt;
+&lt;h3 id=&#34;渡河北&#34;&gt;渡河北&lt;/h3&gt;
+&lt;p&gt;秋风吹木叶，还似洞庭波。 常山临代郡，亭障绕黄河。 心悲异方乐，肠断陇头歌。 薄暮临征马，失道北山阿。&lt;/p&gt;
+&lt;h1 id=&#34;隋至盛唐&#34;&gt;隋至盛唐&lt;/h1&gt;
+&lt;h2 id=&#34;宋之问&#34;&gt;宋之问&lt;/h2&gt;
+&lt;h3 id=&#34;渡汉江&#34;&gt;渡汉江&lt;/h3&gt;
+&lt;p&gt;岭外音书断，经冬复历春。 近乡情更怯，不敢问来人。&lt;/p&gt;
+&lt;h2 id=&#34;王维&#34;&gt;王维&lt;/h2&gt;
+&lt;h3 id=&#34;山居秋暝&#34;&gt;山居秋暝&lt;/h3&gt;
+&lt;p&gt;空山新雨后，天气晚来秋。 明月松间照，清泉石上流。 竹喧归浣女，莲动下渔舟。 随意春芳歇，王孙自可留。&lt;/p&gt;
+&lt;h3 id=&#34;相思&#34;&gt;相思&lt;/h3&gt;
+&lt;p&gt;红豆生南国，春来发几枝？ 愿君多采撷，此物最相思。&lt;/p&gt;
+&lt;h2 id=&#34;李白&#34;&gt;李白&lt;/h2&gt;
+&lt;h3 id=&#34;古风其一&#34;&gt;古风（其一）&lt;/h3&gt;
+&lt;p&gt;大雅久不作，吾衰竟谁陈。
+王风委蔓草，战国多荆榛。
+龙虎相啖食，兵戈逮狂秦。
+正声何微茫，哀怨起骚人。
+扬马激颓波，开流荡无垠。
+废兴虽万变，宪章亦已沦。
+自从建安来，绮丽不足珍。
+圣代复元古，垂衣贵清真。
+群才属休明，乘运共跃鳞。
+文质相炳焕，众星罗秋旻。
+我志在删述，垂辉映千春。
+希圣如有立，绝笔于获麟。&lt;/p&gt;
+&lt;h3 id=&#34;答王十二寒夜独酌有怀&#34;&gt;答王十二寒夜独酌有怀&lt;/h3&gt;
+&lt;p&gt;昨夜吴中雪，子猷佳兴发。 万里浮云卷碧山，青天中道流孤月。 孤月沧浪河汉清，北斗错落长庚明。 怀余对酒夜霜白，玉床金井冰峥嵘。 人生飘忽百年内，且须酣畅万古情。 君不能狸膏金距学鬬鸡，坐令鼻息吹虹霓。 君不能学哥舒，横行青海夜带刀，西屠石堡取紫袍。 吟诗作赋北窗里，万言不直一杯水。 世人闻此皆掉头，有如东风射马耳。 鱼目亦笑我，请与明月同。 骅骝拳跼不能食，蹇驴得志鸣春风。 折杨皇华合流俗，晋君听琴枉清角。 巴人谁肯和阳春，楚地由来贱奇璞。 黄金散尽交不成，白首为儒身被轻。 一谈一笑失颜色，苍蝇贝锦喧谤声。 曾参岂是杀人者，谗言三及慈母惊。 与君论心握君手，荣辱于余亦何有。 孔圣犹闻伤凤麟，董龙更是何鸡狗。 一生傲岸苦不谐，恩疏媒劳志多乖。 严陵高揖汉天子，何必长剑拄颐事玉阶？ 达亦不足贵，穷亦不足悲。 韩信羞将绛灌比，祢衡耻逐屠沽儿。 君不见李北海，英风豪气今何在？ 君不见裴尚书，土坟三尺蒿棘居。 少年早欲五湖去，见此弥将钟鼎疏。&lt;/p&gt;
+&lt;h3 id=&#34;子夜吴歌其三&#34;&gt;子夜吴歌（其三）&lt;/h3&gt;
+&lt;p&gt;长安一片月，万户捣衣声。
+秋风吹不尽，总是玉关情。
+何日平胡虏，良人罢远征。&lt;/p&gt;
+&lt;h3 id=&#34;秋浦歌其十五&#34;&gt;秋浦歌（其十五）&lt;/h3&gt;
+&lt;p&gt;白发三千丈，缘愁似箇长。
+不知明镜里，何处得秋霜。&lt;/p&gt;
+&lt;h2 id=&#34;杜甫&#34;&gt;杜甫&lt;/h2&gt;
+&lt;p&gt;风格上，杜甫更应该归为中唐诗人。&lt;/p&gt;
+&lt;h3 id=&#34;羌村其一&#34;&gt;羌村（其一）&lt;/h3&gt;
+&lt;p&gt;峥嵘赤云西，日脚下平地。柴门鸟雀噪，归客千里至。 妻孥怪我在，惊定还拭泪。世乱遭飘荡，生还偶然遂。 邻人满墙头，感叹亦歔欷。夜阑更秉烛，相对如梦寐。&lt;/p&gt;
+&lt;h3 id=&#34;羌村其三&#34;&gt;羌村（其三）&lt;/h3&gt;
+&lt;p&gt;群鸡正乱叫，客至鸡斗争。驱鸡上树木，始闻叩柴荆。 父老四五人，问我久远行。手中各有携，倾榼浊复清。 苦辞酒味薄，黍地无人耕。兵革既未息，儿童尽东征。 请为父老歌，艰难愧深情。歌罢仰天叹，四座泪纵横。&lt;/p&gt;
+&lt;h1 id=&#34;中晚唐&#34;&gt;中晚唐&lt;/h1&gt;
+&lt;h2 id=&#34;刘长卿&#34;&gt;刘长卿&lt;/h2&gt;
+&lt;h3 id=&#34;过贾谊宅&#34;&gt;过贾谊宅&lt;/h3&gt;
+&lt;p&gt;三年谪宦此栖迟，万古惟留楚客悲。 秋草独寻人去后，寒林空见日斜时。&lt;strong&gt;汉文有道恩犹薄，湘水无情吊岂知？&lt;/strong&gt; 寂寂江山摇落处，怜君何事到天涯！&lt;/p&gt;
+&lt;h3 id=&#34;逢雪宿芙蓉山主人&#34;&gt;逢雪宿芙蓉山主人&lt;/h3&gt;
+&lt;p&gt;日暮苍山远，天寒白屋贫。 柴门闻犬吠，风雪夜归人。&lt;/p&gt;
+&lt;h3 id=&#34;从军六首其二&#34;&gt;从军六首（其二）&lt;/h3&gt;
+&lt;p&gt;目极雁门道，青青边草春。一身事征战，匹马同辛勤。末路成白首，功归天下人。&lt;/p&gt;
+&lt;h2 id=&#34;张继&#34;&gt;张继&lt;/h2&gt;
+&lt;h3 id=&#34;枫桥夜泊&#34;&gt;枫桥夜泊&lt;/h3&gt;
+&lt;p&gt;月落乌啼霜满天，江枫渔火对愁眠。 姑苏城外寒山寺，夜半钟声到客船。&lt;/p&gt;
+&lt;h2 id=&#34;韩翃&#34;&gt;韩翃&lt;/h2&gt;
+&lt;h3 id=&#34;寒食&#34;&gt;寒食&lt;/h3&gt;
+&lt;p&gt;春城无处不飞花，寒食东风御柳斜。 日暮汉宫传蜡烛，轻烟散入五侯家。&lt;/p&gt;
+&lt;h2 id=&#34;卢纶&#34;&gt;卢纶&lt;/h2&gt;
+&lt;h3 id=&#34;塞下曲其二&#34;&gt;塞下曲（其二）&lt;/h3&gt;
+&lt;p&gt;林暗草惊风，将军夜引弓。 平明寻白羽，没在石棱中。&lt;/p&gt;
+&lt;h3 id=&#34;塞下曲其三&#34;&gt;塞下曲（其三）&lt;/h3&gt;
+&lt;p&gt;月黑雁飞高，单于夜遁逃。 欲将轻骑逐，大雪满弓刀。&lt;/p&gt;
+&lt;h2 id=&#34;张藉&#34;&gt;张藉&lt;/h2&gt;
+&lt;h3 id=&#34;秋思&#34;&gt;秋思&lt;/h3&gt;
+&lt;p&gt;洛阳城里见秋风， 欲作家书意万重。 复恐匆匆说不尽， 行人临发又开封。&lt;/p&gt;
+&lt;h2 id=&#34;刘禹锡&#34;&gt;刘禹锡&lt;/h2&gt;
+&lt;h3 id=&#34;西塞山怀古&#34;&gt;西塞山怀古&lt;/h3&gt;
+&lt;p&gt;王濬楼船下益州，金陵王气黯然收。 千寻铁锁沉江底，一片降幡出石头。 人世几回伤往事，山形依旧枕寒流。 今逢四海为家日，&lt;strong&gt;故垒萧萧芦荻秋&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;石头城&#34;&gt;石头城&lt;/h3&gt;
+&lt;p&gt;山围故国周遭在，潮打空城寂寞回。 淮水东边旧时月，夜深还过女墙来。&lt;/p&gt;
+&lt;h2 id=&#34;李贺&#34;&gt;李贺&lt;/h2&gt;
+&lt;h3 id=&#34;致酒行&#34;&gt;致酒行&lt;/h3&gt;
+&lt;p&gt;零落栖迟一杯酒，主人奉觞客长寿。 主父西游困不归，家人折断门前柳。 吾闻马周昔作新丰客，天荒地老无人识。 空将笺上两行书，直犯龙颜请恩泽。 我有迷魂招不得，雄鸡一唱天下白。 少年心事当拏云，谁念幽寒坐呜呃。&lt;/p&gt;
+&lt;h3 id=&#34;梦天&#34;&gt;梦天&lt;/h3&gt;
+&lt;p&gt;老兔寒蟾泣天色，云楼半开壁斜白。 玉轮轧露湿团光，鸾佩相逢桂香陌。 黄尘清水三山下，更变千年如走马。 遥望齐州九点烟，一泓海水杯中泻。&lt;/p&gt;
+&lt;h2 id=&#34;杜牧&#34;&gt;杜牧&lt;/h2&gt;
+&lt;h3 id=&#34;将赴吴兴登乐游原一绝&#34;&gt;将赴吴兴登乐游原一绝&lt;/h3&gt;
+&lt;p&gt;清时有味是无能，闲爱孤云静爱僧。 欲把一麾江海去，乐游原上望昭陵。&lt;/p&gt;
+&lt;h2 id=&#34;李商隐&#34;&gt;李商隐&lt;/h2&gt;
+&lt;h3 id=&#34;安定城楼&#34;&gt;安定城楼&lt;/h3&gt;
+&lt;p&gt;迢递高城百尺楼，绿杨枝外尽汀洲。
+贾生年少虚垂涕，王粲春来更远游。
+永忆江湖归白发，欲回天地入扁舟。
+不知腐鼠成滋味，猜意鹓雏竟未休。&lt;/p&gt;
+&lt;h3 id=&#34;贾生&#34;&gt;贾生&lt;/h3&gt;
+&lt;p&gt;宣室求贤访逐臣，贾生才调更无伦。可怜夜半虚前席，不问苍生问鬼神。&lt;/p&gt;
+&lt;h3 id=&#34;筹笔驿&#34;&gt;筹笔驿&lt;/h3&gt;
+&lt;p&gt;猿鸟犹疑畏简书，风云常为护储胥。徒令上将挥神笔，终见降王走传车。管乐有才原不忝，关张无命欲何如。他年锦里经祠庙，《梁父吟》成恨有馀。&lt;/p&gt;
+&lt;h3 id=&#34;乐游原&#34;&gt;乐游原&lt;/h3&gt;
+&lt;p&gt;向晚意不适，驱车登古原。 夕阳无限好，只是近黄昏。&lt;/p&gt;
+&lt;h2 id=&#34;罗隐&#34;&gt;罗隐&lt;/h2&gt;
+&lt;h3 id=&#34;雪&#34;&gt;雪&lt;/h3&gt;
+&lt;p&gt;尽道丰年瑞，丰年事若何？ 长安有贫者，为瑞不宜多！&lt;/p&gt;
+- https://kiyomizu.cc/repo/gu-shi-xuan-lu/ - Kiyomizu 2022-2023</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>实验室生活</title>
+        <link>https://kiyomizu.cc/book/laboratory-life/</link>
+        <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://kiyomizu.cc/book/laboratory-life/</guid>
+        <description>Kiyomizu https://kiyomizu.cc/book/laboratory-life/ -&lt;h1 id=&#34;书籍介绍&#34;&gt;书籍介绍&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;figure align=&#34;Left&#34; role=&#34;group&#34; aria-describedby=&#34;caption-d41d8cd98f00b204e9800998ecf8427e&#34;&gt;
+  &lt;a href=&#34;https://kiyomizu.cc/book/laboratory-life/cover.jpg&#34; class=&#34;img-link&#34;&gt;
+    &lt;img src=&#34;https://kiyomizu.cc/book/laboratory-life/cover_hu296f942ce84aebe688fe7ec17acde51f_8324_200x300_resize_q75_box.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption id=&#34;caption-d41d8cd98f00b204e9800998ecf8427e&#34;&gt;
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;科学家如何工作？他们如何“发现”科学事实？为试图回答这些问题，法国著名科学社会学家布鲁诺·拉图尔以及英国社会学家史蒂夫·伍尔加深入到美国的一个神经内分泌学实验室并与那里的教授共度两年时光，对科学家进行观察，看他们如何选择课题和申请基金，如何从事研究和发表论文，如何评级评奖等等。作者以自然主义的方式研究科学，特别探讨了科学的社会制约因素，触及人性、社会、理性和知识这些更大的问题，从一个全新的视角对科学事实的建构做了独到的诠释。本书是科学社会学也是国外社会学研究的前沿领域SSK的经典之作。&lt;/p&gt;
+&lt;p&gt;(摘自&lt;a href=&#34;https://book.douban.com/subject/1219953/&#34;&gt;豆瓣读书&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;第1-3章评论&#34;&gt;第1-3章评论&lt;/h1&gt;
+&lt;p&gt;2022-10-27&lt;/p&gt;
+&lt;p&gt;今天读到布鲁诺·拉图尔(Bruno Latour)和史蒂夫·伍尔加(Steve Woolgar)的作品《实验室生活：科学事实的建构过程》。这是一本很好的书，推荐每一位生科院或元培生科方向的同学阅读，尤其是大一大二尚未加入实验室的同学，阅读它的收获大于阅读生概途课推荐的&lt;em&gt;The Double Helix&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;该书作者对Salk Institute的Roger Guillemin实验室作了深入的研究，从人类学的角度透视了科学研究、论文发表、竞争、实验室结构以及科学家职业生涯。作者十分恰当地将这些方面概括为&amp;quot;实验室生活&amp;quot;。2022年，此书在Google Scholar上的引用数已超过两万。&lt;/p&gt;
+&lt;p&gt;Roger Guillemin是1977年诺贝尔生理学或医学奖得主，他与Andrew V. Schally因为发现大脑能产生肽类激素而获奖，他们的工作主要是鉴定了促甲状腺激素释放激素(TRH) 和促性腺激素释放激素(GnRH)的结构。这项工作与同时期其他获得诺贝尔生理学或医学奖的工作相比，属于中等水平。调查的对象，Salk研究所，直至今天，仍然是生命科学领域内很有声望的机构。&lt;/p&gt;
+&lt;p&gt;因此，这是一只相当好的麻雀。&lt;/p&gt;
+&lt;p&gt;该书最吸引眼球的章节是第三章《制造事实：促甲状腺因素释放因子[TRF(H)]个案》，它或许会使科学工作者或未来的科研工作者感到被冒犯：我们从小就学会了区分观点和事实，你怎么能说科学事实是制造出来的呢？！&lt;/p&gt;
+&lt;p&gt;但在这个例子中，你能清楚地看到这个&amp;quot;制造&amp;quot;的过程，它&lt;strong&gt;真实、冷酷、不纯洁&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;不仅包括&amp;quot;八年的艰苦努力&amp;quot;、&amp;ldquo;从成吨的下丘脑中提取几微克激素&amp;rdquo;、&amp;ldquo;学科交叉&amp;rdquo;，还包括&amp;quot;创立严苛规则来排除竞争者&amp;quot;，&amp;ldquo;巧妙安排学术会议以维护实验室利益&amp;quot;以及&amp;quot;忠实学习他人错误的研究者&amp;rdquo;。该章节成功地还原了该领域在1960s-1970s的历史，其中的若干结论已经被写入当下的生理学教科书，我想如果有老师开设一门《生理学讨论课》的话，这将是绝妙的参考资料。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Laboratory Life: The Social Construction of Scientific Facts&lt;/em&gt;有英文本，法文本和中译本，中译本是2004年东方出版社出版的，翻译质量极差，但仍然难以掩盖作者的洞见和专业素养。&lt;/p&gt;
+&lt;p&gt;不过令人遗憾的是，作者之一的布鲁诺·拉图尔已在半个月前去世，哲人其萎。&lt;/p&gt;
+&lt;h1 id=&#34;第4-6章评论&#34;&gt;第4-6章评论&lt;/h1&gt;
+&lt;p&gt;2022-11-06&lt;/p&gt;
+&lt;p&gt;在发出上一篇评论和引述后三天，我读完了《实验室生活》这本书。尽管该书首次出版于1986年，三十多年后的今天，它的观点仍然没有过时，甚至是超前的。了解这些观点，能够激发对于科研生涯的新的思考。所以，虽然上次已经推荐过了，但我还是想要把它再次推荐给所有生科院的大一大二同学，特别是那些尚未加入实验室的同学。&lt;/p&gt;
+&lt;p&gt;上次简单介绍了此书前三章的内容，并引述了一些片段，这里将介绍此书剩下的三章。&lt;/p&gt;
+&lt;p&gt;作为第三章的后继，第四章《事实的微观社会学》更具备社会科学理论著作的特点。如果说第三章是在解剖麻雀的话，第四章就是在谈论鸟类学。简明地说，有两个观点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;事实是存在的，就像TRF确有其事；&lt;/li&gt;
+&lt;li&gt;事实是被建构的，就像第三章描述的TRF建构过程。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;两个观点不矛盾。具体而言，1968年，促甲状腺素释放因子（TRF）仅仅是一种陈述，可能是事实，也可能是假象；而到了1970年，TRF已经成为了一种事实，人们都说&amp;quot;某团队发现了TRF&amp;quot;。1968-1970的研究争论使得TRF被确证存在，这个过程就是&lt;strong&gt;建构&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;以现在的眼光来看，人们认为“TRF的结构是Pro-Glu-His-Pro-NH2”这一事实是争论结束的原因。但这些人是事后诸葛亮。因为你一旦进行一个假设：“如果至今都没有人找到TRF的正确结构，学术界争论不断”，那么“TRF的结构是Pro-Glu-His-Pro-NH2”就将是这场争论在未来结束时的结果。&lt;/p&gt;
+&lt;p&gt;也就是说，是&lt;strong&gt;争论和研究建构了事实，而不是事实为争论定论&lt;/strong&gt;。但是，我仅仅在此书的语境中认同这个观点，因为它很有诡辩嫌疑，大可以用魔法对付魔法。&lt;/p&gt;
+&lt;p&gt;不过与此相比，第五章《科学家的可信性》就显得实在多了。这一章讨论的是：一个科研人员在他/她的科研生涯中，所追求的究竟是什么？我认为很多学生是没有想清楚的。如果你拿这个问题去做生涯访谈，可能得到非常丰富的答案，但你需要自己去判断这些答案的价值。我想引用作者的一段话说明这个问题：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当纳坦让他的技术员准备组装下一部鉴定仪器时说：‘如果我们不进行两次检验，别人会说我们文章中的数据源于其他方法’&amp;hellip;&amp;hellip;后来当别人问纳坦为什么用这种仪器时，他回答：‘对于科学而言,怎样谨慎都不过分！’&lt;/p&gt;
+&lt;p&gt;(摘自东方出版社2004年版，第176页)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这个问题应该换一种问法：是什么东西驱动了科研人员进行研究/更换课题/跳槽？&lt;/p&gt;
+&lt;p&gt;是为了物质回报？还是为了奖励和荣誉？或者是出于作出贡献青史留名的渴望？作者认同这里的每一个答案。但他更进一步提出一个概念，&lt;strong&gt;credit&lt;/strong&gt;(译者硬译成“可信性”，令人困惑，但这种困惑反而有利于避免读者望文生义)。试看下面这个循环，这是一个科研人员在领域取得成绩需要的资本，如何从一种形式转换到另一种形式。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;credit-cycle.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;好的科研人员能让这个循环不断运行，credit是这个循环运行的能源。例如：&lt;/p&gt;
+&lt;p&gt;credit高的人，有更多的经费，就有更好的设备，就有更多的数据，就有更多的论据，就有更好的论文、产生更多解释、获得更多的奖励、管理更多经费&amp;hellip;如此循环。有些人走上坡路，有些人走下坡路。这个步骤中的每一步都影响了credit，例如获得诺贝尔奖，拿到大笔经费（出于学术或其他原因），被重大项目排除在外，被发现数据造假，发表重要论文。credit巧妙地将各个要素整合起来，它至少包括：学术信誉、学术声誉、人脉关系、教育背景、能力认可、荣誉、研究前景、申请经费的能力。如果硬要将credit换一个更贴切的翻译，我想“学术资本的获取能力”是很合适的。简而言之，一切的努力，一切的奋斗，都是为了提高自己的这种能力。&lt;/p&gt;
+&lt;p&gt;不能做到这一点的人就会出局，因为这是适者生存的铁律。&lt;/p&gt;
+- https://kiyomizu.cc/book/laboratory-life/ - Kiyomizu 2022-2023</description>
         </item>
     
     
