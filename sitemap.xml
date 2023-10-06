@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kiyomizu.cc/diary/</loc>
+    <lastmod>2023-10-06T00:35:30+08:00</lastmod>
+  </url><url>
     <loc>https://kiyomizu.cc/anthology/</loc>
     <lastmod>2023-09-28T00:06:00+08:00</lastmod>
   </url><url>
@@ -28,9 +31,6 @@
   </url><url>
     <loc>https://kiyomizu.cc/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/</loc>
     <lastmod>2023-09-28T00:06:00+08:00</lastmod>
-  </url><url>
-    <loc>https://kiyomizu.cc/diary/</loc>
-    <lastmod>2023-09-17T00:35:30+08:00</lastmod>
   </url><url>
     <loc>https://kiyomizu.cc/repo/</loc>
     <lastmod>2023-09-02T00:00:00+00:00</lastmod>
